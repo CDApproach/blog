@@ -1,0 +1,32 @@
+{% extends "basis.html" %}
+{% block titel %}{% if aktiv %}{{ kategorien[aktiv][0] }} · {% endif %}{{ site.titel }}{% endblock %}
+{% block body_klasse %}liste{% endblock %}
+{% block inhalt %}
+<section class="intro">
+  <h1>{% if aktiv %}{{ kategorien[aktiv][0] }}{% else %}{{ site.titel }}{% endif %}</h1>
+  <p>{{ site.untertitel }}</p>
+</section>
+{% if rezensionen %}
+<ul class="raster">
+  {% for r in rezensionen %}
+  <li class="karte" data-kategorie="{{ r.kategorie }}" style="{{ r.farben | farb_style }}">
+    <a href="{{ root }}{{ r.kategorie }}/{{ r.slug }}/index.html">
+      <span class="karte-cover">
+        <img class="karte-glow" src="{{ root }}{{ r.kategorie }}/{{ r.slug }}/cover-klein.jpg" alt="" aria-hidden="true" loading="lazy">
+        <img class="karte-bild" src="{{ root }}{{ r.kategorie }}/{{ r.slug }}/cover-klein.jpg" alt="Cover: {{ r.titel }}" loading="lazy">
+      </span>
+      <span class="karte-text">
+        <span class="karte-kategorie">{{ r.kategorie_name }}</span>
+        <span class="karte-titel">{{ r.titel }}</span>
+        <span class="karte-meta">{{ r.von or "" }}{% if r.von and r.jahr %} · {% endif %}{{ r.jahr or "" }}</span>
+      </span>
+      <span class="karte-punkte" aria-label="{{ r.bewertung }} von 10 Punkten">{{ r.bewertung }}</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
+{% else %}
+<p class="leer">Hier gibt es noch keine Rezensionen.</p>
+{% endif %}
+{% endblock %}
+{% block skripte %}<script src="{{ root }}static/raumlicht.js"></script>{% endblock %}

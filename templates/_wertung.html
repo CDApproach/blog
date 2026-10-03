@@ -1,0 +1,4 @@
+<div class="wertung" role="img" aria-label="{{ r.bewertung }} von 10 Punkten">
+  <span class="wertung-zahl">{{ r.bewertung }}<span class="wertung-von">/10</span></span>
+  <span class="skala" aria-hidden="true">{% for i in range(1, 11) %}<i{% if i <= r.bewertung %} class="an"{% endif %}></i>{% endfor %}</span>
+</div>
