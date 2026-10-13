@@ -1,0 +1,23 @@
+---
+titel: "Factfulness"
+von: "Hans Rosling"
+jahr: 2018
+genre: Sachbuch
+bewertung: 5
+datum: 2026-10-13
+fazit: "Weltuntergang abgesagt"
+---
+
+Gude!
+
+Also, *„Factfulness“* vom Hans Rosling is so e Buch, wo mer denkt: „Ach komm, die Welt geht doch grad den Bach runter.“ Un dann kommt der Rosling, wedelt mit Zahlen, Diagramme un Studien un sagt ganz trocken: „Ei, so schlimm isses gar net.“ Un des is gleichzeitig beruhigend un ein bissje ärgerlich – weil er halt recht hat. Oft zumindest.
+
+Rosling erklärt, warum mer die Welt systematisch schlechter einschätze, als se wirklich is. Er nennt das „Instinkte“: Dramainstinkt, Angstinstinkt, Schuldinstinkt un so weiter. Also die innere Stimme, die bei jeder Nachricht gleich „Katastrophe!“ schreit. Anhand von Fakten zeigt er, dass Armut zurückgeht, Bildung steigt un Gesundheit sich verbessert – global gesehen. Net überall, net perfekt, awwer deutlich besser als mer denkt. Ulkig wird’s vor allem dann, wann mer bei seine Quizfragen merkt, wie daneben mer selbst liegt. Professoren, Politiker un Journalisten übrigens aach. Da fühlt mer sich gleich weniger allein.
+
+Der Stil is locker, verständlich un erstaunlich humorvoll für e Sachbuch mit so viel Statistik. Rosling schreibt net von oben herab, sondern eher wie e begeisterter Lehrer, der sagt: „Pass uff, ich erklär dir des mol.“ Un man hört ihm gern zu. Besonders schön is, dass er net behauptet, alles wär super, sondern nur: Es lohnt sich, genauer hinzugucke.
+
+Klar, manches wirkt fast zu optimistisch, un wer grad schlechte Nachrichten im Kopp hat, braucht bissje Geduld. Awwer genau des is ja der Punkt vom Buch: Gefühle sind wichtig, awwer Fakten aach. Un beides sollte mer net durcheinanderwerfe.
+
+## Fazit
+
+*Factfulness* is e erfrischendes, kluges Buch, das einem hilft, die Welt realistischer zu sehe – net rosarot, awwer aach net pechschwarz. Man klappt es zu un denkt: Ei, vielleicht is net alles verloren. Un des is doch schon mol e gute Nachricht.

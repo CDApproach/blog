@@ -1,0 +1,23 @@
+---
+titel: "Der Herr der Ringe – Die Wiederkehr des Königs"
+von: "J. R. R. Tolkien"
+jahr: 1955
+genre: Fantasyroman
+bewertung: 5
+datum: 2026-10-13
+fazit: "Endkampf, Abschied un sehr viel Gefühl"
+---
+
+Gude!
+
+Also, *„Die Wiederkehr des Königs“* is der dritte un letzte Band vom *„Herr der Ringe“*, un jetzt wird ernst gemacht. Kein gemütliches Wandere mehr, kein großes Vorgeplänkel – jetzt geht’s ums Ganze. Mordor, Endschlacht, Weltrettung. Un nebenbei noch e bissje Schicksal erfüllen, gell.
+
+Der Band teilt sich grob in zwei Teile: Hier der Frodo un der Sam, völlig fertig, verdreckt, hungrig, mit Ring un Gollum uffm Weg zum Schicksalsberg. Do wird jeder Schritt zur Qual, un man merkt: Heldentum sieht meistens ziemlich elend aus. Un dann do die große Weltpolitik: Aragorn tritt endlich als König in Erscheinung, Gondor kämpft ums Überlebe, Reiter stürme Schlachtfelder, un es wird gekämpft, bis der Arzt kommt – oder der Zauberer.
+
+Ulkig wird’s, trotz aller Dramatik, immer mal wieder durch die Hobbits. Selbst kurz vorm Weltuntergang denke die noch ans Esse oder an de heimische Schankraum. Un dann diese berühmte Stelle, wo der Sam den Frodo trägt – großes Kino, ganz ohne Explosionen. Do schluckt mer schon mol, awwer uff die gute Art.
+
+Tolkien lässt sich fürs Ende Zeit. Sehr viel Zeit. Nach der großen Rettung kommt noch Abschied, Heimkehr, Aufräumen, Verarbeiten. Manche Leser sage: „Ei, des zieht sich.“ Awwer eigentlich passt des. Nach so ere Reise kann mer net einfach „Ende, aus“ sage. Mittelerde muss heile, un die Figuren aach.
+
+## Fazit
+
+*Die Wiederkehr des Königs* is e würdiger, emotionaler Abschluss von ere der größten Fantasy-Geschichten überhaupt. Episch, traurig, hoffnungsvoll – alles drin. Un am End klappt mer das Buch zu, seufzt tief un denkt: Des war e langer Weg. Un irgendwie fühlt sich die eigene Couch danach ganz besonders gemütlich an.

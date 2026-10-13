@@ -1,0 +1,23 @@
+---
+titel: "Todesrache"
+von: "Andreas Gruber"
+jahr: 2022
+genre: Thriller
+bewertung: 5
+datum: 2026-10-13
+fazit: "Serienkiller mit Schraube locker"
+---
+
+Gude!
+
+Also, *„Todesrache“* vom Andreas Gruber is so e Thriller, wo mer nach zehn Seite denkt: „Ei, des wird nix für schwache Nerve.“ Un genau so isses aach. Des Buch is düster, spannend un teilweise ganz schön brutal – awwer halt so erzählt, dass mer trotzdem net aufhöre kann zu lese. Wie beim Unfall uff de Autobahn: Man guckt net gern hin, awwer man guckt.
+
+Im Mittelpunkt steht wie so oft bei Gruber e ziemlich perfider Täter un Ermittler, die dauernd e Schritt hintendran sin. Es geht um Rache, alte Schuld un grausame Bestrafunge, die mit ordentlich Fantasie ausgeklügelt sin. Do wird net einfach jemand umgelegt – nee, des Ganze hat System, Symbolik un e sadistische Note. Man merkt: Der Autor hat Spaß dran, seine Leser leiden zu lasse. Un er macht des leider ziemlich gut.
+
+Die Kapitel sin kurz, der Stil is direkt un schnörkellos. Kaum hat mer Luft geholt, is schon der nächste Cliffhanger do. Ulkig wird’s höchstens uff die Art, wie übertrieben manche Zufälle sin. Do denkt mer sich: „Ei, wie klein kann die Welt eigentlich sein?“ Awwer in dem Moment, wo mer anfängt zu meckere, passiert schon wieder was Schlimmes, un man is wieder drin.
+
+Charakterlich is das Ganze jetzt net super tiefgründisch – die Figuren sin eher funktional: Ermittler, Opfer, Täter, zack, fertig. Awwer darum geht’s aach net. *Todesrache* will Spannung, Tempo un Gänsehaut liefern. Un des klappt. Besonders ab der Mitte zieht des Buch so an, dass mer abends denkt: „Nur noch e Kapitel“ – un plötzlich is es halb zwei.
+
+## Fazit
+
+*Todesrache* is e harter Thriller für Leit, die’s gern finster möge. Nix für gemütliche Lesestündche vorm Einschlofe, außer man will Albträume trainiere. Wer Gruber kennt, kriegt genau das, was er erwartet. Un wer ihn net kennt, weiß nach dem Buch: Rache schmeckt kalt – un auf Hessisch am beschte mit starkem Nervenkostüm.

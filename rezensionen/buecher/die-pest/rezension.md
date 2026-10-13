@@ -1,0 +1,23 @@
+---
+titel: "Die Pest"
+von: "Albert Camus"
+jahr: 1947
+genre: Roman
+bewertung: 5
+datum: 2026-10-13
+fazit: "Seuche, Sinnsuche un stoische Gelassenheit"
+---
+
+Gude!
+
+Also, *„Die Pest“* vom Albert Camus is so e Buch, wo mer denkt: „Ach, Klassiker, bisschen schwer, bisschen philosophisch.“ Un dann liest mer’s – un merkt: Ei, des fühlt sich erschreckend aktuell aa. In der Stadt Oran bricht e Pest aus, erst ein paar tote Ratte, dann kranke Leut, un irgendwann is klar: Jetzt is richtig Land unter. Quarantäne, Isolation, Angst – alles dabei.
+
+Camus erzählt des Ganze sehr nüchtern. Kaum Drama, kaum große Gefühlsausbrüche. Stattdessen viel Alltag im Ausnahmezustand. Ärzte, Beamte, Bürger – jeder versucht, irgendwie klarzukomme. Besonders der Doktor Rieux, der einfach tut, was getan werde muss, ohne großes Pathos. Ulkig wird’s auf so e trockene Art, weil alle dauernd hoffe, dass’s bald vorbei is – un es zieht sich halt. Wer kennt’s net.
+
+Das Buch is natürlich mehr als nur e Seuchengeschichte. Die Pest steht für alles Mögliche: Totalitarismus, menschliches Leid, Absurdität vom Lebbe. Camus fragt: Wie verhält man sich, wenn alles keinen Sinn mehr zu haben scheint? Seine Antwort is überraschend bodenständig: Anständig bleiben, helfen, weitermache. Kein Heldentum, kein großes Geschrei – einfach Mensch sein.
+
+Der Stil is ruhig, manchmal sperrig, awwer sehr klar. Man muss sich drauf einlasse, dann entfaltet sich das Buch langsam. Actionfans werde unruhig, Denker fühlen sich abgeholt. Ulkig is des Ganze nie laut, eher so e leises, bitteres Schmunzeln über menschliche Gewohnheiten.
+
+## Fazit
+
+*Die Pest* is kein Wohlfühlbuch, awwer e verdammt kluges. Ernst, nachdenklich un überraschend tröstlich. Man klappt es zu un denkt: Die Welt kann ganz schön grausam sein – awwer wie mer damit umgeht, des liegt immer noch bei uns. Ei, un des is doch immerhin was.

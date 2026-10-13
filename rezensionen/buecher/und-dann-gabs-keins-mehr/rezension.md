@@ -1,0 +1,23 @@
+---
+titel: "Und dann gab’s keines mehr"
+von: "Agatha Christie"
+jahr: 1939
+genre: Kriminalroman
+bewertung: 5
+datum: 2026-10-13
+fazit: "Insel, Verdacht un ordentlich Nervosität"
+---
+
+Gude!
+
+Also, *„Und dann gab’s keines mehr“* von de Agatha Christie is so e Krimi, wo mer sich denkt: „Ach, Klassiker, wird schon harmlos sein.“ Un dann sitzt mer da, blättert nervös un guckt misstrauisch jeden an – inklusive sich selbst. Des Buch is wie e Gesellschaftsspiel, bei dem plötzlich alle verlieren.
+
+Zehn Leute werden uff e abgelegene Insel eingeladen. Keiner kennt den Gastgeber, awwer alle folge brav der Einladung. Kaum sin se do, kommt raus: Jeder von ihnen hat irgendwas Dreckiges am Stecke, irgend e Schuld aus der Vergangenheit. Un dann fange se an, einer nach dem anneren zu sterbe. Ganz ordentlich durchnummeriert, passend zu e Kinderreim, der überall rumliegt. Des is gleichzeitig genial un ziemlich unheimlich.
+
+Agatha Christie spielt hier ihr ganzes Können aus. Es gibt kei klassischen Ermittler, kei Poirot, kei Miss Marple, der alles wieder gradebiegt. Stattdessen sind alle verdächtig, alle verängstigt un alle potenzielle Opfer. Die Stimmung wird von Kapitel zu Kapitel angespannter. Ulkig wird’s höchstens, wenn mer sich beim Lesen selbst ertappt: „Nee, der kann’s net sein.“ Zwei Seite später: „Ei, vielleicht doch.“
+
+Der Stil is klar, schnörkellos un überraschend modern für so e altes Buch. Christie hält die Spannung hoch, ohne großes Blutvergieße. Der eigentliche Horror kommt aus der Psyche: Misstrauen, Schuld, Panik. Un des wirkt heute noch. Man merkt: Gute Ideen werde net alt.
+
+## Fazit
+
+*Und dann gab’s keines mehr* is e perfekter Krimi für Leit, die gern miträtseln un sich gern täusche lasse. Clever konstruiert, düster un fesselnd bis zur letzten Seite. Un am End klappt mer das Buch zu, schüttelt den Kopp un denkt: „Ei, des hätt ich so net kommen sehe.“ Un genau deshalb is es so gut.

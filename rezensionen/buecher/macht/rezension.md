@@ -1,0 +1,23 @@
+---
+titel: "Macht"
+von: "John Gwynne"
+jahr: 2012
+genre: Fantasyroman
+bewertung: 5
+datum: 2026-10-13
+fazit: "Schwerter, Prophezeiung un ordentlich Rabatz"
+---
+
+Gude!
+
+Also, *„Macht“* von de John Gwynne is so e Fantasy-Klopper, wo mer schon nach de erste Seite merkt: Ei, des wird jetzt episch. Viele Figuren, viele Namen, viele Orte – un überall brodelt’s. Wer gern gemütlich mit zwei Charaktere durch die Gegend läuft, is hier falsch. Des is eher: ganzes Land, alte Prophezeiung, Gut gegen Böse, un keiner weiß so genau, wer am End wirklich recht hat.
+
+Die Geschichte spielt in ere klassischen Fantasy-Welt mit Königreiche, Krieger, Training, Schlachten un geheimnisvolle Mächte. Im Mittelpunkt stehe junge Helden, die noch net so genau wissen, was se eigentlich wolle, awwer schnell merke, dass die Welt um se rum net grad zimperlich is. Intrigen, Verrat un alte Feindschaften lauere an jeder Ecke. Un natürlich gibt’s e Prophezeiung – ohne geht’s ja net. Die Frage is nur: Wer is jetzt der Auserwählte? Un wer denkt nur, er wär’s?
+
+Ulkig wird’s vor allem dadurch, dass wirklich *alle* ernst sind. Keiner macht Witze, alle tragen Schicksal auf de Schultern, un jeder zweite hat e tragische Vergangenheit. Do sitzt mer beim Lese un denkt: „Ei, könnt ihr net mol kurz durchschnaufe?“ Awwer genau des macht aach den Reiz aus. Gwynne meint’s ernst mit seiner Welt, un des merkt mer.
+
+Der Stil is klar, bodenständig un sehr kampflastig. Schlachten werden ausführlich beschrieben, Schwerter klirren, Knochen knacken – nix für Zartbesaitete. Gleichzeitig nimmt sich der Autor Zeit für Freundschaften, Loyalität un Training. Des Buch is der Auftakt, un man merkt: Hier wird langfristig geplant. Schnelle Auflösung? Vergiss es.
+
+## Fazit
+
+*„Macht“* is e klassischer Fantasy-Start mit viel Pathos, viel Blut un noch mehr Aufbauarbeit. Es zieht sich stellenweise, jo, awwer wer dranbleibt, wird mit ere dichten, glaubwürdigen Welt belohnt. Kein revolutionäres Genre-Neuland, awwer verdammt solide gemacht. Un am End weiß mer: Des war erst der Anfang – un des gibt noch richtig Ärger.

@@ -1,0 +1,21 @@
+---
+titel: "The Midnight Library"
+von: "Matt Haig"
+jahr: 2020
+genre: Roman
+bewertung: 5
+datum: 2026-10-13
+fazit: "Mit Herz un Schmunzler"
+---
+
+Also, „The Midnight Library“ vom Matt Haig is so e Buch, wo mer erst denkt: „Ui, des wird jetzt aber ganz schön schwermütisch.“ Un jo, ganz ehrlich: Am Anfang is die Stimmung ungefähr so wie Montagsmorsche im November, wann de Kaffee alle is un de Bus vor dei Nase wegfährt.
+
+Die Hauptfigur, die Nora Seed, is mit ihrem Lebbe so gar net zufrieden. Alles fühlt sich falsch aa, jede Entscheidung irgendwie daneben. Un dann landet se – aus Gründen, die ich jetzt net ausplaudere – in ere Bibliothek, die net normal is. Die steht zwischen Lebbe un Tod, hat unendlich viele Bücher un in jedem Buch steckt e anneres Lebbe von ihr. Also quasi: „Was wär gewese, wann ich des annerst gemacht hätt?“ Un zack, kann se’s ausprobiern. Ei, des hätt ich aach gern mol – nur schon aus Neugier, wie mei Lebbe als Profifußballer oder Bäckermeister ausgesehen hätt.
+
+Nora hüpft also von Lebbe zu Lebbe, mol is se erfolgreiche Musikerin, mol Polarforscherin, mol sonst was Beeindruckendes. Awwer wie im echte Lebbe gilt: Wo Licht is, is aach Schatten. Kei Entscheidung is perfekt, un selbst des vermeintliche Traumlebbe hat so sei Hake. Des Buch hält einem da ziemlich charmant de Spiegel vor un sacht: Hör mol, egal wie de dich entscheidst, irgendwas is immer. Un des is jetzt net frustrierend, sondern irgendwie beruhigend.
+
+Der Schreibstil is locker, gut lesbar un net so hochtrabend, dass mer nach zwei Seite einschläft. Vieles kommt schnell uff de Punkt, manches wirkt fast wie e Lebensratgeber im Romanmantel. Jo, kann mer kritisch sehe – awwer es funktioniert. Man fühlt sich ertappt, denkt über sei eigne „Was-wäre-wenns“ nach un merkt: So schlecht is des jetzige Kapitel vielleicht doch net.
+
+## Fazit
+
+The Midnight Library is e Buch zum Nachdenke, awwer net zum Runterziehe. Es macht Mut, ohne kitschig zu sein, un schafft des Kunststück, gleichzeitig ernst un bissje ulkig zu wirke. Un am End klappt mer des Buch zu un denkt sich: „Ei, passt scho. Des Lebbe, wo ich grad hab, is vielleicht gar net des Schlechteste.“ Un des is doch aach mol was wert, gell?

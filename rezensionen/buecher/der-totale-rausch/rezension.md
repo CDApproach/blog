@@ -1,0 +1,21 @@
+---
+titel: "Der totale Rausch"
+von: "Norman Ohler"
+jahr: 2015
+genre: Sachbuch
+bewertung: 5
+datum: 2026-10-13
+fazit: "Geschichtsunterricht"
+---
+
+Also, „Der totale Rausch“ vom Norman Ohler is so e Buch, wo mer nach drei Seite denkt: „Ei, des hätt ich jetzt net gebraucht zu wisse – awwer interessant isses trotzdem.“ Es geht um Drogen im Dritten Reich. Un net so bissje heimlich im Hinterzimmer, sondern richtig offiziell, mit Stempel, Rezept un Staatsinteresse. Da wird einem schon beim Lese bissje schummerisch, ganz ohne Pervitin.
+
+Ohler zeigt, dass im Nazi-Deutschland net nur Ideologie, sondern aach ordentlich Chemie im Spiel war. Pervitin – quasi Meth light, frei verkäuflich wie heut Hustenbonbons – ging weg wie warme Weck. Soldate, Hausfraue, Studenten, alle schön wach, leistungsfähig un gut gelaunt. Un ganz vorne mit dabei: die Führungsriege. Der Führer selbst, so stellt sich raus, war medizinisch gesehen e laufende Apotheke. Spritze hier, Pille do, un alles streng überwacht vom Leibarzt. Des is so absurd, dass mer zwischendurch lachen muss, obwohl einem eigentlich eher schlecht werde sollt.
+
+Der Stil vom Buch is flott, fast wie e Krimi. Ohler schmeißt mit Quellen, Tagebüchern un Arztprotokollen um sich, awwer so, dass mer net das Gefühl hat, wieder im Geschichtsleistungskurs zu hocke. Stattdessen liest sich des Ganze wie: „Was zur Höll is do eigentlich passiert?“ Un des macht’s gefährlich gut.
+
+Ulkig – im ganz dunkle Sinn – is vor allem, wie gut des alles ins Bild passt. Dauernd Durchhalteparolen, Größenwahn, keine Müdigkeit, keine Zweifel. Mit genug Drogen im Blut klappt des halt. Zumindest e Zeit lang. Dass des net gut endet, brauch mer net groß erkläre. Der Rausch geht rum, der Kater is umso schlimmer.
+
+## Fazit
+
+Der totale Rausch is kei lustisches Buch, awwer eins, wo mer trotz allem oft ungläubig grinst. Es öffnet de Blick uff e Seite der Geschichte, die mer so net uffm Schirm hat, un zeigt, dass Wahnsinn manchmal ganz nüchtern anfängt – oder halt chemisch. Nach der Lektüre is mer auf jeden Fall froh, dass Leistungsdruck heut meistens nur noch mit Kaffee bekämpft wird. Un selbst der macht schon nervös genug.
