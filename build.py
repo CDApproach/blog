@@ -172,6 +172,8 @@ def lies_rezension(ordner, kategorie):
     if cover is None:
         raise Fehler(f"{ordner}: kein Coverbild gefunden (z. B. cover.jpg)")
 
+    with Image.open(cover) as bild:
+        breite, hoehe = ImageOps.exif_transpose(bild).size
     mehrzahl, einzahl, von_label = KATEGORIEN[kategorie]
     return {
         "slug": ordner.name,
@@ -190,6 +192,8 @@ def lies_rezension(ordner, kategorie):
         "datum": datum,
         "datum_text": datum_deutsch(datum),
         "cover": cover,
+        # Annähernd quadratische Cover (Alben, Game-Boy-Spiele) nicht auf Hochformat beschneiden
+        "format": "quadrat" if breite / hoehe > 0.85 else "hoch",
         "bilder": bilder,
         "farben": farbschema(cover, meta.get("akzent")),
         "html": markdown.markdown(text, extensions=["extra", "smarty"]),

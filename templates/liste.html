@@ -51,7 +51,7 @@
 <p class="leer leer-gefiltert" hidden>Keine Rezension passt zu diesen Filtern.</p>
 <ul class="raster">
   {% for r in rezensionen %}
-  <li class="karte" data-kategorie="{{ r.kategorie }}" data-rezensiert="{{ r.datum.year }}" data-dekade="{{ r.dekade if r.dekade is not none else '' }}" data-bewertung="{{ r.bewertung }}" data-suche="{{ r.titel }} {{ r.von or '' }}" style="{{ r.farben | farb_style }}">
+  <li class="karte" data-kategorie="{{ r.kategorie }}" data-format="{{ r.format }}" data-rezensiert="{{ r.datum.year }}" data-dekade="{{ r.dekade if r.dekade is not none else '' }}" data-bewertung="{{ r.bewertung }}" data-suche="{{ r.titel }} {{ r.von or '' }}" style="{{ r.farben | farb_style }}">
     <a href="{{ root }}{{ r.kategorie }}/{{ r.slug }}/index.html">
       <span class="karte-cover">
         <img class="karte-glow" src="{{ root }}{{ r.kategorie }}/{{ r.slug }}/cover-klein.jpg" alt="" aria-hidden="true" loading="lazy">
