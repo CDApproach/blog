@@ -20,17 +20,22 @@ if (raster) {
   raster.addEventListener("mouseleave", () => leuchten(ruhe));
 
   if (filter) {
-    const felder = [...filter.querySelectorAll("select")];
+    const felder = [...filter.querySelectorAll("select, input")];
+    // Klein, ohne Akzente: „andric“ findet „Andrić“, „mueller“ bleibt aber „mueller“
+    const normal = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    for (const karte of karten) karte.dataset.suche = normal(karte.dataset.suche || "");
     const treffer = filter.querySelector(".treffer");
     const leer = document.querySelector(".leer-gefiltert");
 
     const anwenden = () => {
-      const f = Object.fromEntries(felder.map((s) => [s.name, s.value]));
+      const f = Object.fromEntries(felder.map((s) => [s.name, s.value.trim()]));
+      const woerter = normal(f.suche).split(/\s+/).filter(Boolean);
       let anzahl = 0;
       ruhe = null;
       for (const karte of karten) {
         const d = karte.dataset;
         const passt =
+          woerter.every((w) => d.suche.includes(w)) &&
           (!f.rezensiert || d.rezensiert === f.rezensiert) &&
           (!f.dekade || d.dekade === f.dekade) &&
           (!f.bewertung || Number(d.bewertung) >= Number(f.bewertung));
@@ -56,7 +61,7 @@ if (raster) {
     const start = new URLSearchParams(location.search);
     for (const s of felder) {
       if (start.has(s.name)) s.value = start.get(s.name);
-      s.addEventListener("change", anwenden);
+      s.addEventListener(s.tagName === "INPUT" ? "input" : "change", anwenden);
     }
     filter.addEventListener("reset", () => setTimeout(anwenden));
     filter.hidden = false;

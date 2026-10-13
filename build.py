@@ -8,6 +8,7 @@ Aufruf:
 import argparse
 import colorsys
 import functools
+import hashlib
 import http.server
 import re
 import shutil
@@ -244,7 +245,13 @@ def bauen():
     env = Environment(loader=FileSystemLoader(BASIS / "templates"),
                       autoescape=select_autoescape(), trim_blocks=True, lstrip_blocks=True)
     env.filters["farb_style"] = farb_style
-    gemeinsam = {"site": config, "kategorien": KATEGORIEN}
+    # Prüfsumme von CSS/JS als ?v=… an die Adressen hängen: Ändert sich eine
+    # Datei, holen Browser sie sofort neu statt aus dem Zwischenspeicher.
+    pruefsumme = hashlib.sha1()
+    for datei in sorted((BASIS / "static").rglob("*")):
+        if datei.is_file():
+            pruefsumme.update(datei.read_bytes())
+    gemeinsam = {"site": config, "kategorien": KATEGORIEN, "version": pruefsumme.hexdigest()[:10]}
 
     def schreibe(pfad, template, **daten):
         pfad.parent.mkdir(parents=True, exist_ok=True)

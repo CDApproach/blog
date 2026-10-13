@@ -8,7 +8,11 @@
   <p>{{ site.untertitel }}</p>
 </section>
 {% if rezensionen %}
-<form class="filter" aria-label="Rezensionen filtern" hidden>
+<form class="filter" aria-label="Rezensionen filtern" role="search" hidden>
+  <label class="suche">
+    <span>Suche</span>
+    <input type="search" name="suche" placeholder="Titel oder Autor·in" autocomplete="off">
+  </label>
   <label>
     <span>Rezensiert</span>
     <select name="rezensiert">
@@ -37,7 +41,7 @@
 <p class="leer leer-gefiltert" hidden>Keine Rezension passt zu diesen Filtern.</p>
 <ul class="raster">
   {% for r in rezensionen %}
-  <li class="karte" data-kategorie="{{ r.kategorie }}" data-rezensiert="{{ r.datum.year }}" data-dekade="{{ r.dekade if r.dekade is not none else '' }}" data-bewertung="{{ r.bewertung }}" style="{{ r.farben | farb_style }}">
+  <li class="karte" data-kategorie="{{ r.kategorie }}" data-rezensiert="{{ r.datum.year }}" data-dekade="{{ r.dekade if r.dekade is not none else '' }}" data-bewertung="{{ r.bewertung }}" data-suche="{{ r.titel }} {{ r.von or '' }}" style="{{ r.farben | farb_style }}">
     <a href="{{ root }}{{ r.kategorie }}/{{ r.slug }}/index.html">
       <span class="karte-cover">
         <img class="karte-glow" src="{{ root }}{{ r.kategorie }}/{{ r.slug }}/cover-klein.jpg" alt="" aria-hidden="true" loading="lazy">
@@ -57,4 +61,4 @@
 <p class="leer">Hier gibt es noch keine Rezensionen.</p>
 {% endif %}
 {% endblock %}
-{% block skripte %}<script src="{{ root }}static/raumlicht.js"></script>{% endblock %}
+{% block skripte %}<script src="{{ root }}static/raumlicht.js?v={{ version }}"></script>{% endblock %}
