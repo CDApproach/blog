@@ -35,6 +35,16 @@
       {% for p in range(9, 1, -1) %}<option value="{{ p }}">ab {{ p }} Punkten</option>{% endfor %}
     </select>
   </label>
+  <label>
+    <span>Sortieren</span>
+    <select name="sortierung">
+      <option value="">Neueste zuerst</option>
+      <option value="bewertung-ab">Beste Bewertung</option>
+      <option value="bewertung-auf">Schlechteste Bewertung</option>
+      <option value="titel-auf">Titel A–Z</option>
+      <option value="titel-ab">Titel Z–A</option>
+    </select>
+  </label>
   <button type="reset">Zurücksetzen</button>
   <output class="treffer" aria-live="polite"></output>
 </form>

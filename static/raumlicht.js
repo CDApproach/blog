@@ -25,6 +25,17 @@ if (raster) {
     const normal = (s) => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     for (const karte of karten) karte.dataset.suche = normal(karte.dataset.suche || "");
     const treffer = filter.querySelector(".treffer");
+    // Für die Sortierung ohne führenden Artikel: „Der Herr der Ringe“ steht unter H
+    const titel = (k) => k.querySelector(".karte-titel").textContent.replace(/^(der|die|das|the|ein|eine)\s+/i, "");
+    const reihenfolge = new Map(karten.map((k, i) => [k, i])); // vom Build: neueste zuerst
+    const alphabetisch = new Intl.Collator("de", { sensitivity: "base", numeric: true });
+    const SORTIERUNG = {
+      "": (a, b) => reihenfolge.get(a) - reihenfolge.get(b),
+      "bewertung-ab": (a, b) => b.dataset.bewertung - a.dataset.bewertung || alphabetisch.compare(titel(a), titel(b)),
+      "bewertung-auf": (a, b) => a.dataset.bewertung - b.dataset.bewertung || alphabetisch.compare(titel(a), titel(b)),
+      "titel-auf": (a, b) => alphabetisch.compare(titel(a), titel(b)),
+      "titel-ab": (a, b) => alphabetisch.compare(titel(b), titel(a)),
+    };
     const leer = document.querySelector(".leer-gefiltert");
 
     const anwenden = () => {
@@ -32,7 +43,9 @@ if (raster) {
       const woerter = normal(f.suche).split(/\s+/).filter(Boolean);
       let anzahl = 0;
       ruhe = null;
-      for (const karte of karten) {
+      const sortiert = [...karten].sort(SORTIERUNG[f.sortierung] ?? SORTIERUNG[""]);
+      raster.append(...sortiert); // verschiebt die vorhandenen Karten in die neue Reihenfolge
+      for (const karte of sortiert) {
         const d = karte.dataset;
         const passt =
           woerter.every((w) => d.suche.includes(w)) &&
