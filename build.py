@@ -116,15 +116,17 @@ def farbschema(cover, akzent_override=None):
     akzent = leuchten[0]
 
     return {
-        "bg": hls_css(h0, 0.065, min(s0, 0.45)),
-        "flaeche": hls_css(h0, 0.12, min(s0, 0.35)),
-        "linie": hls_css(h0, 0.24, min(s0, 0.3)),
-        "text": hls_css(h0, 0.93, min(s0, 0.22)),
-        "gedaempft": hls_css(h0, 0.72, min(s0, 0.18)),
-        "akzent": hls_css(akzent["h"], klemmen(akzent["l"], 0.62, 0.74), min(akzent["s"], 0.9)),
-        "leucht1": hls_css(leuchten[0]["h"], klemmen(leuchten[0]["l"], 0.42, 0.58), min(leuchten[0]["s"] * 1.2, 1)),
-        "leucht2": hls_css(leuchten[1]["h"], klemmen(leuchten[1]["l"], 0.38, 0.55), min(leuchten[1]["s"] * 1.2, 1)),
-        "leucht3": hls_css(leuchten[2]["h"], klemmen(leuchten[2]["l"], 0.35, 0.5), min(leuchten[2]["s"] * 1.2, 1)),
+        # Grundton kräftiger als das Cover, damit der Raum farbig wirkt –
+        # graue Cover bleiben dabei grau (s0 nahe 0).
+        "bg": hls_css(h0, 0.15, min(s0 * 1.4, 0.62)),
+        "flaeche": hls_css(h0, 0.22, min(s0 * 1.3, 0.5)),
+        "linie": hls_css(h0, 0.34, min(s0 * 1.2, 0.45)),
+        "text": hls_css(h0, 0.96, min(s0, 0.3)),
+        "gedaempft": hls_css(h0, 0.8, min(s0, 0.3)),
+        "akzent": hls_css(akzent["h"], klemmen(akzent["l"], 0.66, 0.76), min(akzent["s"], 0.9)),
+        "leucht1": hls_css(leuchten[0]["h"], klemmen(leuchten[0]["l"], 0.45, 0.6), min(leuchten[0]["s"] * 1.3, 1)),
+        "leucht2": hls_css(leuchten[1]["h"], klemmen(leuchten[1]["l"], 0.42, 0.58), min(leuchten[1]["s"] * 1.3, 1)),
+        "leucht3": hls_css(leuchten[2]["h"], klemmen(leuchten[2]["l"], 0.4, 0.55), min(leuchten[2]["s"] * 1.3, 1)),
     }
 
 
@@ -180,6 +182,7 @@ def lies_rezension(ordner, kategorie):
         "titel": str(meta["titel"]),
         "von": meta.get("von"),
         "jahr": meta.get("jahr"),
+        "dekade": meta["jahr"] // 10 * 10 if isinstance(meta.get("jahr"), int) else None,
         "genre": meta.get("genre"),
         "fazit": meta.get("fazit"),
         "bewertung": bewertung,
@@ -193,7 +196,7 @@ def lies_rezension(ordner, kategorie):
 
 
 def alle_rezensionen():
-    rezensionen, fehler = [], []
+    rezensionen, fehler, ohne_text = [], [], []
     for kategorie in KATEGORIEN:
         ordner = INHALT / kategorie
         if not ordner.is_dir():
@@ -201,10 +204,16 @@ def alle_rezensionen():
         for unterordner in sorted(p for p in ordner.iterdir() if p.is_dir()):
             if unterordner.name.startswith(("_", ".")):
                 continue  # z. B. _entwurf: wird nicht veröffentlicht
+            if not any(unterordner.glob("*.md")):
+                ohne_text.append(unterordner.relative_to(INHALT))  # Text noch nicht geschrieben
+                continue
             try:
                 rezensionen.append(lies_rezension(unterordner, kategorie))
             except Fehler as e:
                 fehler.append(str(e))
+    if ohne_text:
+        print(f"Hinweis: {len(ohne_text)} Ordner ohne .md-Datei übersprungen "
+              f"(z. B. {', '.join(map(str, ohne_text[:3]))}).")
     if fehler:
         print("Fehler in den Rezensionen:\n  " + "\n  ".join(fehler), file=sys.stderr)
         sys.exit(1)
@@ -253,10 +262,15 @@ def bauen():
                  neuer=rezensionen[i - 1] if i > 0 else None,
                  aelter=rezensionen[i + 1] if i + 1 < len(rezensionen) else None)
 
-    schreibe(AUSGABE / "index.html", "liste.html", root="", aktiv=None, rezensionen=rezensionen)
+    def liste(pfad, root, aktiv, auswahl):
+        schreibe(pfad, "liste.html", root=root, aktiv=aktiv, rezensionen=auswahl,
+                 jahre=sorted({r["datum"].year for r in auswahl}, reverse=True),
+                 dekaden=sorted({r["dekade"] for r in auswahl if r["dekade"] is not None}, reverse=True))
+
+    liste(AUSGABE / "index.html", "", None, rezensionen)
     for kategorie in KATEGORIEN:
-        schreibe(AUSGABE / kategorie / "index.html", "liste.html", root="../", aktiv=kategorie,
-                 rezensionen=[r for r in rezensionen if r["kategorie"] == kategorie])
+        liste(AUSGABE / kategorie / "index.html", "../", kategorie,
+              [r for r in rezensionen if r["kategorie"] == kategorie])
     (AUSGABE / ".nojekyll").touch()
     print(f"{len(rezensionen)} Rezensionen nach {AUSGABE.relative_to(BASIS)}/ geschrieben.")
 

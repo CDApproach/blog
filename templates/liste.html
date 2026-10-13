@@ -1,15 +1,43 @@
 {% extends "basis.html" %}
 {% block titel %}{% if aktiv %}{{ kategorien[aktiv][0] }} · {% endif %}{{ site.titel }}{% endblock %}
 {% block body_klasse %}liste{% endblock %}
+{% block body_attr %}{% if rezensionen %}style="{{ rezensionen[0].farben | farb_style }}"{% endif %}{% endblock %}
 {% block inhalt %}
 <section class="intro">
   <h1>{% if aktiv %}{{ kategorien[aktiv][0] }}{% else %}{{ site.titel }}{% endif %}</h1>
   <p>{{ site.untertitel }}</p>
 </section>
 {% if rezensionen %}
+<form class="filter" aria-label="Rezensionen filtern" hidden>
+  <label>
+    <span>Rezensiert</span>
+    <select name="rezensiert">
+      <option value="">Alle</option>
+      {% for j in jahre %}<option value="{{ j }}">{{ j }}</option>{% endfor %}
+    </select>
+  </label>
+  <label>
+    <span>Erschienen</span>
+    <select name="dekade">
+      <option value="">Alle</option>
+      {% for d in dekaden %}<option value="{{ d }}">{{ d }}er</option>{% endfor %}
+    </select>
+  </label>
+  <label>
+    <span>Bewertung</span>
+    <select name="bewertung">
+      <option value="">Alle</option>
+      <option value="10">10 Punkte</option>
+      {% for p in range(9, 1, -1) %}<option value="{{ p }}">ab {{ p }} Punkten</option>{% endfor %}
+    </select>
+  </label>
+  <button type="reset">Zurücksetzen</button>
+  <output class="treffer" aria-live="polite"></output>
+</form>
+<p class="leer leer-gefiltert" hidden>Keine Rezension passt zu diesen Filtern.</p>
 <ul class="raster">
   {% for r in rezensionen %}
-  <li class="karte" data-kategorie="{{ r.kategorie }}" style="{{ r.farben | farb_style }}">
+  <li class="karte" data-kategorie="{{ r.kategorie }}" data-rezensiert="{{ r.datum.year }}" data-dekade="{{ r.dekade if r.dekade is not none else '' }}" data-bewertung="{{ r.bewertung }}" style="{{ r.farben | farb_style }}">
     <a href="{{ root }}{{ r.kategorie }}/{{ r.slug }}/index.html">
       <span class="karte-cover">
         <img class="karte-glow" src="{{ root }}{{ r.kategorie }}/{{ r.slug }}/cover-klein.jpg" alt="" aria-hidden="true" loading="lazy">
