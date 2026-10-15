@@ -5,23 +5,21 @@ jahr: 2021
 genre: Jump ’n’ Run
 bewertung: 5
 datum: 2026-10-13
-fazit: "Kopfreise mit Herz un Humor"
+fazit: "Hirnwindunge mit Jump-’n’-Run-Krämpfe"
 ---
 
 Gude!
 
-Also, *„Psychonauts 2“* is so e Spiel, wo mer wortwörtlich in die Köpp annerer Leit springt. Un was mer da drin findet, is mal lustig, mal traurig un immer völlig verrückt.
+Also, *„Psychonauts 2“* is so e Spiel, wo mer in die Köpp von annere Leit springt. Un dort dann über Plattforme hüpft. Weil’s halt e Jump ’n’ Run is. Selbst in der menschliche Psyche gibt’s offenbar bewegliche Plattforme un Sammelobjekte.
 
-Mer spielt den Raz, e junges Psi-Talent, des endlich bei de Psychonauts angekommen is, ner Geheimorganisation von Agente mit übersinnliche Fähigkeite. Er is zwar nur Praktikant, awwer er will sich beweise. Un bald steckt er mitten in em Komplott rund um en Maulwurf in de Organisation un ere alte, gefährliche Bedrohung.
+Raz is Praktikant bei de Psychonauts, un des Spiel behandelt ihn aach so: Er darf alles machen, außer das, was er eigentlich will. Er löst Probleme, die keiner gelöst hawwe wollt, un trifft dabei auf e Haufen Agenten mit em Haufen Traumata. Die Psychonauts sin weniger e Geheimorganisation als e Selbsthilfegrupp.
 
-Des Herzstück sin die Gedankenwelte. Jeder Kopf, in den mer springt, is e eigenes Level mit eigener Logik. Mal is des Hirn e Kochshow, mal e Krankenhaus mit Bowlingbahn, mal e psychedelisches Musikfestival. Die Kreativität is schier unglaublich. Dabei geht’s um Ängste, Trauer, Sucht un Schuld, un des Spiel behandelt diese Themen erstaunlich einfühlsam.
+Die Gedankenwelten sin kreativ: Kochshow, Bowling-Krankenhaus, Musikfestival. Awwer zwischen dene genialen Levels gibt’s die Hub-Welt, in der mer Sammelkram sucht. Un sucht. Un sucht. Gedankenfetze, Gepäckstücke, Erinnerungen, Abzeichen. Des Spiel hat mehr Sammelkram als e Wühltisch beim Sommerschlussverkauf.
 
-Spielerisch is des e klassisches Jump ’n’ Run mit Psi-Kräfte: Telekinese, Feuerbälle, Schweben, Zeit verlangsame. Die Steuerung is präzise, die Levels abwechslungsreich.
+Un die Kämpfe? Nett, aber eher Beiwerk. Mer wirft Psi-Blasts un hofft, dass die Gegner schnell umfallen.
 
-Ulkig is eigentlich jede Figur. Die Dialoge sin voller Witz, die Charaktere herrlich überzeichnet, un selbst die ernsteste Momente hawwe noch e Augenzwinkern.
-
-Wer den erste Teil net kennt, kommt trotzdem gut rein. Des Spiel erklärt alles Wichtige.
+Awwer: Des Spiel is unglaublich kreativ, einfühlsam un witzig. Wie es Themen wie Sucht, Trauer un Angst behandelt, is großartig. Un die Figuren sin herrlich überzeichnet. Double Fine hat hier e kleines Meisterwerk abgeliefert.
 
 ## Fazit
 
-*Psychonauts 2* is e kreatives, warmherziges Meisterwerk über des, was in uns allen vorgeht. Un am End weiß mer: Jeder Kopf is e eigene Welt. Manche halt nur e bissje chaotischer als annere.
+*Psychonauts 2* is e brillantes Spiel mit zu viel Sammelzeug drumherum. Un am End weiß mer: Jeder Kopf is e eigene Welt. Leider aach jeder Kopf voller Gerümpel.

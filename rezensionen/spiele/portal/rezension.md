@@ -5,21 +5,23 @@ jahr: 2007
 genre: Rätselspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Der Kuchen is e Lüge"
+fazit: "Drei Stunde Genie, null Kuchen"
 ---
 
 Gude!
 
-Also, *„Portal“* is so e Spiel, wo mer nach drei Stunde rausgeht un des Gefühl hat, des Hirn wär e Stückche größer geworde. Un der Kuchen? Den gab’s natürlich nie.
+Also, *„Portal“* is so e Spiel, des jeder lobt. Un deshalb is es jetzt dran, ordentlich verarscht zu werde. Zumindest versuche mer’s.
 
-Mer spielt die Chell, e Testperson in de Labore von Aperture Science. Eine KI namens GLaDOS führt einen durch e Reih von Testkammern, mit freundlicher Stimme un e paar Versprechen. Am End gibt’s Kuchen, sagt se. Awwer je weiter mer kommt, desto mehr merkt mer: Hier stimmt was net. An de Wände steht gekritzelt: „The cake is a lie.“
+Mer spielt die Chell, die nie e Wort sagt. Kein einziges. Drei Stunde lang. Un mer wird von ere KI namens GLaDOS durch Testkammern gescheucht, die einem Kuchen verspricht. Den es natürlich nie gibt. Wer bei dem Satz „Der Kuchen is e Lüge“ noch lacht, hat 2008 im Internet verschlafe.
 
-Des Herzstück is die Portalkanone. Mit der schießt mer zwei Portale an Wände, Böde un Decke, un was durch eins reinläuft, kommt durchs annere wieder raus. Klingt einfach, eröffnet awwer unglaublich viele Möglichkeite. Mer nutzt Schwung, um über Abgründe zu fliege, transportiert Würfel un trickst Geschütztürme aus.
+Spielerisch schießt mer Portale an Wände un läuft durch. Un des is des ganze Spiel. Okay, mit Würfeln un Geschütztürme. Aber im Kern: Portal hier, Portal da, durchgehe. Un nach drei Stunde is es vorbei. Grad wenn mer warm geworde is, kommt der Abspann. Valve hat damals offenbar Entwicklungszeit gespart, um Steam-Verkäufe zu zählen.
 
-Ulkig is GLaDOS. Die is so herrlich passiv-aggressiv, dass mer jeden Satz genießt. Un dann gibt’s noch den Begleiterwürfel mit em Herz druff, von dem mer sich am End trennen muss. Des is emotionaler, als mer denkt.
+Un des Grafik-Design? Weiße Wände, graue Wände, weiße Wände. E Labor halt. Fantasievoll is anders.
 
-Portal is kurz, nur drei, vier Stunde. Awwer jede Minute is perfekt. Un der Abspannsong „Still Alive“ is Kult.
+Der Begleiterwürfel, von dem mer sich am End trennen muss, wird als emotionales Highlight gefeiert. Des is e Würfel. Mit em Herz drauf. Mer hat schon um weniger geheult, okay, awwer trotzdem.
+
+Awwer jetzt mal ernsthaft, un da gibt’s nix zu rüttle: Des Spiel is brillant. Jedes Rätsel is perfekt, GLaDOS is e der beste Bösewichte überhaupt, un „Still Alive“ im Abspann is Kult.
 
 ## Fazit
 
-*Portal* is e kleines Meisterwerk, clever, witzig un revolutionär. Un am End weiß mer: Wenn dir einer Kuchen verspricht, sei misstrauisch. Vor allem, wenn’s e Roboter is.
+*Portal* is e kleines Meisterwerk, an dem es schwer is, was auszusetzen. Außer, dass es zu kurz is un nie e Kuchen gibt. Un am End weiß mer: GLaDOS hat gelogen. Wie immer.

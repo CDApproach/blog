@@ -5,23 +5,23 @@ jahr: 2018
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Dschungel, Maya un e Apokalyps aus Versehen"
+fazit: "Lara löst Apokalyps aus, entschuldigt sich kaum"
 ---
 
 Gude!
 
-Also, *„Shadow of the Tomb Raider“* is so e Spiel, wo die Lara mal richtig Mist baut. Sie schnappt sich e Artefakt, bevor Trinity es kriegt. Un löst damit e Maya-Apokalyps aus. Ups.
+Also, *„Shadow of the Tomb Raider“* is so e Spiel, wo die Lara gleich am Anfang en Dolch aus em Maya-Tempel klaut. Un damit die Apokalyps auslöst. Tsunami, Tote, Zerstörung. Un was macht Lara? Läuft weiter, als wär nix gewese. Respekt, so e Ego muss mer erstmal hawwe.
 
-Die Geschicht führt nach Mexiko un Peru, mitten in den Dschungel. Dort sucht Lara die versteckte Stadt Paititi un versucht, die drohende Katastrophe uffzuhalte. Gleichzeitig muss se sich ihrer eigene Besessenheit stelle. Is se e Heldin oder doch eher e Gefahr für alle um sich herum?
+Danach geht’s durch Mexiko un Peru, uff der Suche nach Paititi. Un die ganze Zeit wird Lara erzählt, dass se e Problem is. Von Freunden, von Feinden, von Einheimischen. Un sie hat recht. Lara is in diesem Spiel e echte Nervensäge mit Kletteraxt.
 
-Der Dschungel is großartig umgesetzt: dichte Vegetation, Höhle, Wasserfälle, Ruinen. Dazu kommt mit Paititi e große, lebendige Stadt voller Menschen, Händler un Nebenaufgabe. Des Spiel konzentriert sich mehr uff Erkundung, Kletterei un Rätsel als die Vorgänger. Die Gräber sin größer un anspruchsvoller als je zuvor.
+Spielerisch is des Rise of the Tomb Raider im Dschungel. Klettern, schleiche, Gräber, Pflanzen, Basteln. Neu: Lara kann sich mit Schlamm tarne un sich abseile. Des is nett. Awwer im Kern hat sich wenig verändert. Wer die zwei Vorgänger gespielt hat, kennt jeden Handgriff.
 
-Spielerisch kommen neue Elemente dazu: Lara kann sich mit Schlamm tarne, an Kletterseile abseile un unter Wasser tauche. Die Schleichpassage im Dschungel sin besonders stark, wenn mer sich wie e Raubtier an Gegner ranpirscht.
+Un dann die engen Spalten! Gefühlt alle drei Minute quetscht sich Lara durch e Felsspalte. Des is der heimliche Ladebildschirm, un er nervt gewaltig.
 
-Ulkig is, wie oft Lara sich durch enge Spalte quetscht. Des Spiel hat e echte Leidenschaft für enge Durchgänge. Claustrophobiker solle sich vorsehe.
+Die Geschicht is schwach, Trinity is mal wieder blass, un der Bösewicht hat die Ausstrahlung von em Bankberater.
 
-Die Geschicht is der schwächste Teil, un Lara selbst wirkt manchmal unsympathisch.
+Awwer: Die Gräber sin die beste der Reihe, der Dschungel is atemberaubend, un die Stadt Paititi is wunderschön gestaltet.
 
 ## Fazit
 
-*Shadow of the Tomb Raider* is e würdiger Abschluss der Reboot-Trilogie mit tollen Gräbern un dichter Atmosphäre. Un am End weiß mer: Fass nix an, was in em Maya-Tempel liegt. Nie.
+*Shadow of the Tomb Raider* is e schönes Grabräuber-Abenteuer mit schwacher Geschicht un unsympathischer Heldin. Un am End weiß mer: Fass nix an im Maya-Tempel. Lara hat’s trotzdem gemacht.

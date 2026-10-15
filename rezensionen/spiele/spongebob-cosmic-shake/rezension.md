@@ -5,25 +5,21 @@ jahr: 2023
 genre: Jump ’n’ Run
 bewertung: 5
 datum: 2026-10-13
-fazit: "Seifenblasen, Wunschwelte un Patrick als Ballon"
+fazit: "Lizenzspiel mit erstaunlich wenig Schmerz"
 ---
 
 Gude!
 
-Also, *„SpongeBob Schwammkopf: The Cosmic Shake“* is so e Spiel, wo mer sofort wieder des Titellied im Kopp hat. Un es den ganze Tag net mehr loskriegt.
+Also, *„SpongeBob: The Cosmic Shake“* is so e Spiel, bei dem mer mit dem Schlimmste rechnet. Lizenzspiele sin ja meistens so gut wie e Gummischnitzel. Un dann is es… okay. Net gut, net schlecht. Okay. Wie e Fischstäbche ohne Remoulade.
 
-SpongeBob un Patrick kriege magische Seifenblasen von ere Wahrsagerin. Die solle Wünsche erfülle. Dumm nur, dass die zwei die Blasen völlig unbedacht einsetzen. Dabei öffne sich Portale in verschiedene Wunschwelte, un ihre Freunde aus Bikini Bottom werde dorthin verschleppt. Also müsse SpongeBob un Patrick, der sich in en Ballon verwandelt hat, alle retten.
+SpongeBob un Patrick kriege magische Seifenblase, öffne versehentlich Portale in Wunschwelten un müsse ihre Freunde rette. Patrick verwandelt sich dabei in en Ballon. Des is so absurd, dass es schon wieder passt. Für SpongeBob-Verhältnisse is des e ganz normaler Dienstag.
 
-Spielerisch is des e klassisches 3D-Jump-’n’-Run. Mer hüpft, schlägt mit em Karateschlag, gleitet un schwingt sich durch die Welten. Jede Welt hat e eigenes Thema: Wilder Westen, Halloween, Prähistorie, Kung-Fu-Film un mehr. Dazu gibt’s jede Menge Kostüme für SpongeBob, die direkt aus der Serie stammen.
+Spielerisch is des e 3D-Jump-’n’-Run aus de Nullerjahre, des sich in die Gegenwart verirrt hat. Hüpfe, Karateschlag, gleite, Münze sammle. Die Steuerung is manchmal schwammig wie… na ja, wie e Schwamm. Un die Kamera hat gelegentlich ihren eigene Kopf.
 
-Die Grafik is knallbunt un perfekt im Stil der Serie gehalten. Die Original-Sprecher sin mit dabei, un der Humor trifft voll ins Schwarze. Für Fans is des e echte Freude.
+Die Levels sin abwechslungsreich gestaltet, awwer spielerisch wiederholt sich viel. Un hier un da gibt’s kleine technische Macken, die einen an die Lizenzspiel-Wurzeln erinnern.
 
-Ulkig is eigentlich jede Szene. Die Dialoge sin albern, die Situatione absurd, un Patrick als Ballon is e Bild für die Götter.
-
-Spielerisch is des Ganze allerdings recht simpel, un gelegentlich gibt’s kleine technische Macken.
-
-Gemacht wurd des Spiel übrigens in Österreich, von Purple Lamp aus Wien.
+Awwer: Die Optik trifft die Serie perfekt, die Original-Sprecher sin dabei, un der Humor zündet. Die Kostüme sin e Fest für Fans. Un für e Lizenzspiel is des erstaunlich liebevoll gemacht. Grüße nach Wien an Purple Lamp.
 
 ## Fazit
 
-*The Cosmic Shake* is e liebevolles, witziges SpongeBob-Abenteuer für Fans jeden Alters. Un am End weiß mer: Wünsche sin gefährlich. Vor allem, wenn SpongeBob se sich ausdenkt.
+*The Cosmic Shake* is e solides Lizenzspiel, des Fans glücklich macht un alle annere nicht stört. Un am End weiß mer: SpongeBob is unkaputtbar. Selbst in em mittelmäßige Spiel.

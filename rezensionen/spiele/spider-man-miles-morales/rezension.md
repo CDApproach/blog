@@ -5,23 +5,21 @@ jahr: 2020
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Neuer Spider-Man, Winter in Harlem"
+fazit: "Spider-Man light mit Katzengarantie"
 ---
 
 Gude!
 
-Also, *„Spider-Man: Miles Morales“* is so e Spiel, wo der junge Miles zum erste Mal allein die Stadt beschütze muss. Weil der Peter Parker Urlaub macht. Un ausgerechnet dann geht natürlich alles schief.
+Also, *„Spider-Man: Miles Morales“* is so e Spiel, des eigentlich e Erweiterung is, die zum Vollpreis verkauft wurde. Un die Leut hawwe’s gekauft. Weil Spider-Man. Weil Weihnachte. Weil Katz im Rucksack.
 
-Miles is e Teenager, der grad mit seiner Mudder nach Harlem gezoge is. Er hat die Spinnenkräfte erst seit kurzem un muss lerne, was es heißt, Spider-Man zu sein. Als e Machtkampf zwische em Energiekonzern un ere geheimnisvolle Gruppe namens „Underground“ die Stadt bedroht, muss Miles zeige, was er draufhat. Un dabei kommt er alten Freunde un der eigene Familie ganz schön nah.
+Peter Parker macht Urlaub, un Miles darf New York beschütze. Natürlich geht alles schief. Es gibt en Energiekonzern, der böse is, un e Untergrundorganisation, die aach böse is, aber aus sympathischen Gründen. Un mittendrin e alter Freund von Miles, der… na ja, des sieht mer schon von weitem kommen.
 
-Spielerisch is des e kompaktere Variante des erste Teils. Des Netzschwinge is gleich geblieben, also großartig. Neu sin Miles’ eigene Kräfte: Er kann sich unsichtbar mache un Gegner mit bioelektrischen Schlägen treffe. Des fühlt sich frisch an un macht die Kämpfe noch spektakulärer.
+Spielerisch is des Spider-Man 1 in kleiner. Gleiche Stadt, gleiches Netzschwinge, gleiche Nebenaufgabe, nur halt im Schnee. Die Stadt is New York im Winter, un des einzig Neue sin die Weihnachtslichter. Un nach zehn Stunde is es vorbei, gerade wenn’s richtig losgehe könnt.
 
-Des winterliche New York is wunderschön, mit Schnee, Weihnachtsbeleuchtung un ere ganz besondere Stimmung. Un Harlem wirkt lebendig un liebevoll gestaltet.
+Die Geschicht is sympathisch, awwer arg vorhersehbar. Jede Wendung kündigt sich mit em Leuchtreklame an.
 
-Ulkig is die Spinnenkatz, die mer im Rucksack mitnehme kann. Kei Witz. Un die Sprüch von Miles sin genauso charmant wie die von Peter.
-
-Mit rund zehn Stunde is des Spiel deutlich kürzer als der Vorgänger.
+Awwer: Miles’ neue Fähigkeite sin klasse. Unsichtbarkeit un bioelektrische Schläge mache die Kämpfe spektakulärer als im Vorgänger. Harlem is liebevoll gestaltet, Miles selbst e sympathischer Held, un die Spinnenkatz is des beste Haustier der Spielegeschichte.
 
 ## Fazit
 
-*Miles Morales* is e kurzes, awwer herzliches Superheldenabenteuer mit em sympathische neue Held. Un am End weiß mer: Jeder kann Spider-Man sein. Am beste mit Katz im Rucksack.
+*Miles Morales* is e kurzes, schönes Spin-off, des sich wie Teil 1.5 anfühlt. Un am End weiß mer: Peter Parker hätt öfter Urlaub mache solle. Dann gäb’s mehr Katze.

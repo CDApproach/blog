@@ -5,21 +5,23 @@ jahr: 2021
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Dimensionssprünge im Sekundentakt"
+fazit: "Technikdemo mit Pelz"
 ---
 
 Gude!
 
-Also, *„Ratchet & Clank: Rift Apart“* is so e Spiel, wo mer staunend vorm Bildschirm sitzt un sich fragt: „Ei, wie mache die des?“ Mit em Wimpernschlag springt mer von einer Welt in die nächste. Ohne Ladezeit, ohne Ruckler.
+Also, *„Ratchet & Clank: Rift Apart“* is so e Spiel, des hauptsächlich dazu gemacht wurde, zu zeige, wie schnell die PS5 lade kann. Un des macht es gut. Sehr gut. Awwer e Spiel is ja mehr als e Ladebalken, der net da is.
 
-Die Geschicht beginnt mit ere Parade zu Ehren von Ratchet un Clank. Doch Dr. Nefarious taucht uff, schnappt sich den Dimensionator un reißt Löcher in die Realität. Ratchet un Clank werde getrennt un lande in ere annere Dimension. Dort trifft Clank uff Rivet, e Lombax wie Ratchet, die in ihrer Welt gege e ganz annere Version von Nefarious kämpft.
+Die Geschicht: Dr. Nefarious klaut den Dimensionator, die Realität zerbricht, un Ratchet un Clank werde getrennt. Clank trifft Rivet, die weibliche Version von Ratchet aus ere annere Dimension. Un dann passiert… e Ratchet-&-Clank-Geschicht. Vorhersehbar, harmlos, familienfreundlich. Kein Mensch hat Angst, dass hier wer stirbt.
 
-Spielerisch is des Ratchet & Clank in Bestform: Plattforme, Erkundung un vor allem verrückte Waffen. Mer hat en Sprinkler, der Gegner vorübergehend in Hecke verwandelt, un natürlich Mr. Fungi, e kleiner Pilz, der für einen schießt. Dazu kommen die Rift-Sprünge, mit dene mer sich mitten im Kampf durch Dimensionsrisse zieht.
+Spielerisch is des wie jedes annere Ratchet & Clank: Plattforme, Waffe, Bolzen sammle. Die Waffen sin wieder verrückt, keine Frage. Awwer wer die Reihe kennt, hat des alles schon gesehe. Rift Apart is des beste Ratchet & Clank, des es je gab. Awwer eben auch nur des: e Ratchet & Clank.
 
-Ulkig is, wie viel Liebe in jedem Detail steckt. Die Welten sin knallbunt, die Animationen wie in em Pixar-Film, un die Dialoge voller Humor. Un Rivet is e großartige neue Figur.
+Un die Dimensionssprünge, die im Marketing so groß angekündigt wurde, sin im Spiel größtenteils vorgegebene Momente. Mer springt halt, wann des Spiel will.
 
-Wer die Reihe kennt, findet nix fundamental Neues. Awwer des, was da is, is perfekt umgesetzt.
+Un die Minispiele mit Glitch, dem kleine Roboterspinnchen? Brauche mer net.
+
+Awwer: Des Spiel sieht unfassbar gut aus, wie e Pixar-Film zum Mitspiele. Die Waffen mache Laune, Rivet is e tolle neue Figur, un des Tempo stimmt.
 
 ## Fazit
 
-*Rift Apart* is e technisches Glanzstück un e spaßiges Abenteuer für Jung un Alt. Un am End weiß mer: Es gibt immer e Dimension, in der alles besser läuft. Nur da gibt’s kein Ratchet.
+*Rift Apart* is e technisch brillantes, spielerisch sicheres Abenteuer ohne Überraschunge. Un am End weiß mer: Die PS5 lädt schnell. Ob des Spiel uns überrascht, lädt dagegen nie.

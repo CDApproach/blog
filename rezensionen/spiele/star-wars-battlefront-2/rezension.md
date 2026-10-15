@@ -5,23 +5,21 @@ jahr: 2017
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Vom Lootbox-Desaster zum Sternenkrieg-Spielplatz"
+fazit: "Vom Lootbox-Skandal zur Wiedergutmachung"
 ---
 
 Gude!
 
-Also, *„Star Wars Battlefront II“* is so e Spiel, des e ganz besondere Geschicht hat. Erst war’s e riesiger Skandal, dann wurd’s richtig gut.
+Also, *„Star Wars Battlefront II“* is so e Spiel, des den berühmtesten Reddit-Kommentar der Geschicht produziert hat. EA hat damals erklärt, dass des Freischalte von Darth Vader e „Gefühl von Stolz un Erfolg“ vermitteln soll. Nach ungefähr vierzig Stunde Spielzeit. Oder mit Kreditkarte. Des Internet hat EA daraufhin in Stücke zerrissen.
 
-Zum Start gab’s e Riesenaufschrei wegen der Lootboxen. Fortschritt un Helden konnt mer sich mit echtem Geld erkaufe, un des hat die Fans uff die Palme gebracht. EA musste zurückrudern, un des Spiel wurde komplett umgebaut. Danach kamen über Jahre viele Updates, neue Helden, Karten un Modi. Un heut is des Spiel e richtig gutes Star-Wars-Erlebnis.
+Die Lootboxen ware so dreist, dass sogar Regierunge sich eingeschaltet hawwe. EA musste zurückrudern un des ganze System umbaue. Herzlichen Glückwunsch, ihr habt e Spiel gemacht, des Politiker interessiert.
 
-Die Kampagne erzählt die Geschicht von Iden Versio, Anführerin von em imperiale Elitekommando, des Inferno-Trupp. Sie beginnt am Ende von „Die Rückkehr der Jedi-Ritter“ un zeigt die Sicht des Imperiums. Des is mal e erfrischende Perspektive, auch wenn die Geschicht recht schnell die Seite wechselt.
+Die Kampagne erzählt die Geschicht von Iden Versio, ner imperiale Elitesoldatin. Des is mal e frische Perspektive. Für ungefähr zwei Missione. Dann wechselt se die Seite, un die Kampagne wird e ganz normale Rebellengeschicht. Mutig angefange, feige weitergemacht.
 
-Des Herzstück is awwer der Mehrspielermodus. Riesige Schlachte mit Soldate, Fahrzeuge, Raumschiffe un Helden aus allen Epochen. Mer kann als Darth Vader durch die Reihe der Rebellen pflügen oder als Luke Skywalker gege Sturmtruppe kämpfe. Die Raumschlachte sin besonders spektakulär.
+Un die Kampagne is kurz. So kurz, dass mer denkt, die Entwickler hätte die Zeit lieber in Lootboxen investiert. Oh wait.
 
-Ulkig is, wie sehr mer sich wie im Film fühlt. Die Geräusche, die Musik, die Blaster – alles stimmt. Des is pure Star-Wars-Nostalgie.
-
-Die Kampagne is allerdings kurz un etwas vorhersehbar.
+Awwer jetzt die Ehrenrettung: Nach all de Updates is des Spiel richtig gut geworde. Die Schlachte sin riesig, die Optik atemberaubend, die Soundkulisse perfekt. Als Darth Vader durch Rebellen pflügen is pure Freude. Un mittlerweile ohne Kreditkarte.
 
 ## Fazit
 
-*Star Wars Battlefront II* is nach em holprige Start e richtig gutes Spiel geworde, mit großartiger Atmosphäre un spektakuläre Schlachte. Un am End weiß mer: Möge die Macht mit dir sein. Aber bitte ohne Lootboxen.
+*Star Wars Battlefront II* is e Spiel, des schlecht gestartet un gut geendet is. Un am End weiß mer: Die Macht is stark. Die Wut der Fans is stärker.

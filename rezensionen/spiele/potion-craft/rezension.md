@@ -5,21 +5,23 @@ jahr: 2022
 genre: Simulation
 bewertung: 5
 datum: 2026-10-13
-fazit: "Tränke brauen nach Landkarte"
+fazit: "Alchemie mit Landkarte un Wiederholungszwang"
 ---
 
 Gude!
 
-Also, *„Potion Craft“* is so e Spiel, wo mer sich als mittelalterlicher Alchemist fühlt. Mit Mörser, Kessel un em Laden voller Kunde, die alle irgendein Wehwehche hawwe.
+Also, *„Potion Craft“* is so e Spiel, wo mer als Alchemist Tränke braut. Un des klingt nach Magie, nach Experiment, nach Abenteuer. In Wahrheit is mer awwer e Apotheker mit Kundschaft, die jeden Tag des Gleiche will.
 
-Mer übernimmt e kleine Alchemistenwerkstatt in em Städtche un braut Tränke für die Bewohner. Der eine will e Heiltrank, die annere was gege Liebeskummer, der dritte e Explosionstrank für… lieber net fragen. Mer verkauft die Tränke, verdient Geld, verbessert sein Laden un erforscht neue Rezepte.
+Jeden Morge stehe die Leut vor der Tür. Der eine will en Heiltrank, die annere will en Heiltrank, un der dritte will… genau, en Heiltrank. Un dann noch e paar Leute, die en Explosionstrank wolle, wobei mer sich fragt, wie die Stadt überhaupt noch steht.
 
-Des Besondere is, wie des Brauen funktioniert. Jede Zutat bewegt e Markierung uff ere Kart in e bestimmte Richtung. Ziel is, die Markierung zu de Effekte zu lenke, die mer will. Mer zerstößt Kräuter im Mörser, rührt im Kessel, gießt Wasser nach un muss dabei Gefahre uff der Kart umschiffe. Des is e cleveres Rätselsystem, des sich anfühlt wie echtes Experimentiere.
+Des Brauen funktioniert über e Kart, uff der mer mit Zutaten e Markierung bewegt. Des is clever. Für die erste paar Stunde. Danach hat mer seine Rezepte un braut immer des Gleiche, in derselbe Reihenfolge, für dieselbe Kundschaft. Des is Fließbandarbeit mit Mörser.
 
-Ulkig is der Grafikstil: Alles sieht aus wie e mittelalterliche Handschrift mit Holzschnitte. Die Kunde sin herrlich schräg, un mer kann sogar mit ihne feilsche.
+Un des Feilschen! E Minispiel, bei dem mer im richtigen Moment klickt, um e paar Münze mehr rauszuholen. Beim erste Mal lustig, beim hundertste Mal e Sehnenscheidenentzündung.
 
-Mit der Zeit wiederhole sich die Aufgabe e bissje, awwer bis dahin hat mer meistens schon zig Stunde reingesteckt.
+Die Langzeitmotivation hängt am Ausbau vom Laden un an neuen Zutaten, awwer irgendwann is des Thema einfach durch.
+
+Awwer: Die Optik im Stil alter Handschriften is wunderschön, des Brausystem originell un des Ganze hat e gemütliche, entspannte Stimmung. Für e paar Abende super.
 
 ## Fazit
 
-*Potion Craft* is e charmante, entspannte Simulation mit originellem Brausystem. Un am End weiß mer: Alchemie is gar net so schwer. Mer muss nur wisse, in welche Richtung die Alraune zieht.
+*Potion Craft* is e originelle Alchemie-Simulation, die sich irgendwann wie e Halbtagsjob in der Apotheke anfühlt. Un am End weiß mer: Heiltränke verkaufe sich immer. Spannend is des net.

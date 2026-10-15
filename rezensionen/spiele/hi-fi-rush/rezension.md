@@ -5,21 +5,21 @@ jahr: 2023
 genre: Rhythmus-Action
 bewertung: 5
 datum: 2026-10-13
-fazit: "Kloppe im Takt"
+fazit: "Im Takt kloppe, des Studio trotzdem dicht gemacht"
 ---
 
 Gude!
 
-Also, *„Hi-Fi Rush“* is so e Spiel, wo mer nach fünf Minute merkt, dass mer mit em Fuß wippt. Un nach zehn Minute merkt, dass mer gar net mehr uffhöre kann.
+Also, *„Hi-Fi Rush“* is so e Spiel, des am selbe Tag angekündigt un veröffentlicht wurde. Un des so gut ankam, dass der Publisher des Studio e Jahr später einfach zugemacht hat. Logik, wie mer se nur in der Spielebranche findet.
 
-Mer spielt den Chai, en Möchtegern-Rockstar, der bei em Experiment von dem Großkonzern Vandelay en Roboterarm kriegt. Dumm nur, dass dabei e Musikplayer in sei Brust eingebaut wird. Seitdem hört er überall Musik. Un die ganze Welt bewegt sich im Takt. Wirklich alles: die Bäum, die Gegner, sogar die Lampe.
+Mer spielt den Chai, en Möchtegern-Rockstar, der so viel Selbstüberschätzung mitbringt, dass er eigentlich in e Castingshow gehört. Dem wird bei em Experiment e Musikplayer in die Brust gebaut, un seitdem hört er überall Musik. Die ganze Welt hüpft im Takt. Bäume, Gegner, Lampe. Nach zwei Stunde wippt mer selbst mit dem Fuß, ob mer will oder net.
 
-Des Kampfsystem is genial: Wer im Rhythmus zuschlägt, macht mehr Schade. Muss mer awwer net, des Spiel verzeiht viel. Trotzdem fühlt sich’s großartig an, wenn mer die perfekte Kombo im Takt hinlegt. Dazu kommen Teamkollege wie die taffe Peppermint oder die Katz 808, die mer im Kampf zu Hilfe rufe kann.
+Des Kampfsystem belohnt Rhythmus. Wer im Takt schlägt, macht mehr Schade. Wer kein Rhythmusgefühl hat – so wie die meiste Leit beim Dorffest – kriegt halt weniger Punkte un e schlechte Bewertung am Levelende. Des Spiel bewertet einen dauernd. Wie e strenger Tanzlehrer.
 
-Optisch is Hi-Fi Rush e knallbunter Comic, der aussieht wie e spielbarer Zeichentrickfilm. Die Bosse sin kreativ, witzig un stecke voller Musik. Un der Soundtrack hat sogar echte Rocksongs mit drin.
+Un der Chai! Der is so großmäulig, dass mer ihm manchmal selbst gern eine verpasse würd. Die Witze treffe meistens, awwer net immer. Manche Dialoge sin so zuckersüß-albern, dass mer Zahnschmerze kriegt.
 
-Ulkig is der Chai selbst: e Großmaul mit Herz, der ständig daneben liegt un trotzdem irgendwie alles richtig macht. Die Dialoge sin witzig, die Zwischensequenze rasant.
+Awwer jetzt Hand aufs Herz: Des Spiel is fantastisch. Die Comic-Optik is wunderschön, die Bosse sin kreativ, der Soundtrack knallt, un des Kampfgefühl is einzigartig. Des is eins der frischste Actionspiele der letzte Jahre.
 
 ## Fazit
 
-*Hi-Fi Rush* is e einzigartiges Action-Spiel voller Energie, Humor un Musik. Un am End weiß mer: Mit em richtige Beat geht alles leichter. Sogar Roboter verkloppe.
+*Hi-Fi Rush* is e brillantes Rhythmus-Actionspiel, des besser war als des Schicksal seines Studios. Un am End weiß mer: Im Takt läuft alles besser. Außer in der Chefetage.

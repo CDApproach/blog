@@ -5,23 +5,21 @@ jahr: 2026
 genre: Action-Plattformer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Cyberpunk-Achtziger in Pixelpracht"
+fazit: "Jahrelang angeteasert, jetzt halt da"
 ---
 
 Gude!
 
-Also, *„Replaced“* is so e Spiel, uff des viele Leit jahrelang gewartet hawwe. Seit dem erste Trailer hieß es: „Ei, wie schön sieht des denn aus?“ Un jetzt is es endlich da.
+Also, *„Replaced“* is so e Spiel, des jahrelang in Trailern gezeigt wurde. So lange, dass mer sich zwischendurch gefragt hat, ob des Spiel eigentlich nur aus Trailern besteht. Jetzt is es da. Un es sieht genauso gut aus wie in de Trailern. Spielt sich awwer aach nur so tief, wie e Trailer halt erlaubt.
 
-Mer spielt R.E.A.C.H., e künstliche Intelligenz, die gege ihrn Wille im Körper von em Mensch gefange is. Des Ganze spielt in em alternative Amerika der Achtzigerjahre, wo e Katastrophe die Welt verändert hat un e mächtiger Konzern über e Stadt herrscht. R.E.A.C.H. muss sich in dieser Welt zurechtfinde, herausfinde, wer er is, un was mit dem Körper passiert is, in dem er steckt.
+Mer spielt R.E.A.C.H., e KI, die in em menschliche Körper feststeckt. Des is in em alternative Achtziger-Amerika, wo e Konzern alles beherrscht. Cyberpunk, Neonlicht, Regen, Konzernbosheit. Des hat mer schon in hundert annere Spiele gesehe. Bloß net so hübsch.
 
-Der Star is die Optik. Pixelgrafik trifft uff moderne Licht- un Raucheffekte, Regen, Neonreklame un riesige Kulisse. Des sieht aus wie e Mischung aus Blade Runner un Flashback, nur in modern. Jede Szene is e Bild, des mer sich uff e Poster drucke würd.
+Denn hübsch is es. Pixelgrafik mit moderner Beleuchtung, riesige Kulisse, Atmosphäre zum Abbeiße. Jedes Standbild könnt e Poster sein. Un da liegt des Problem: Des Spiel weiß, dass es schön is, un lässt einen deshalb viel zu oft einfach nur laufe un gucke.
 
-Spielerisch is des e cineastischer 2,5D-Plattformer mit Kämpfe, Kletterpassage un Erkundung. Die Kämpfe sin flott un setze uff Timing, Konter un Kombos. Dazwische gibt’s ruhige Momente, in dene die Geschicht un die Atmosphäre im Vordergrund stehe.
+Die Kämpfe sin nett, awwer e bissje simpel. Konter, Schläge, Ausweiche. Nach e paar Stunde hat mer alles gesehe. Un die Plattformpassage sin manchmal so linear, dass mer sich wie in em interaktive Kinofilm fühlt. Mit Betonung auf Kino.
 
-Ulkig is, wie sehr mer sich als Spieler in die KI hineinversetzt, die die menschliche Welt erst begreife muss. Des sorgt für schöne, nachdenkliche Momente.
-
-Spielerisch is des Ganze eher geradlinig, un wer viel Abwechslung im Kampf sucht, wird net immer glücklich.
+Awwer: Die Optik is wirklich atemberaubend, die Stimmung dicht un die Geschicht hat e paar schöne, nachdenkliche Momente.
 
 ## Fazit
 
-*Replaced* is e atemberaubend schönes Cyberpunk-Abenteuer mit starker Atmosphäre. Un am End weiß mer: Mensch sein is gar net so einfach. Schon gar net, wenn mer eigentlich e Computer is.
+*Replaced* is e wunderschönes Cyberpunk-Gemälde mit eher dünnem Spiel drumherum. Un am End weiß mer: Warte lohnt sich. Für die Grafik zumindest.

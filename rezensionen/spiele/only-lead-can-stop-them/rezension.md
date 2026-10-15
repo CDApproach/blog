@@ -5,21 +5,21 @@ jahr: 2024
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Retro-Geballer gege Faschiste"
+fazit: "Gute Haltung, schwache Gegner"
 ---
 
 Gude!
 
-Also, *„Only Lead Can Stop Them“* is so e Spiel, wo der Titel schon klar macht, worum’s geht. Un zwar ohne Umschweife: Faschiste uffhalte. Mit Blei.
+Also, *„Only Lead Can Stop Them“* is so e Spiel, des schon im Titel klarmacht, wie subtil es is: gar net. Faschiste schlecht, Blei gut. Fertig. Des is politisch korrekt, awwer als Spielkonzept ungefähr so tiefgründig wie e Stammtischparole.
 
-Des Ganze spielt im Spanische Bürgerkrieg, also in de dreißiger Jahre. E eher ungewöhnlicher Schauplatz für e Shooter, aber e spannender. Mer kämpft uff Seite der Republik gege die faschistische Truppe, durch Dörfer, Schützengräbe, Festungen un zerbombte Städte. Des Ganze im Stil der alte Neunziger-Shooter, mit Pixel-Gegnern un klobiger Optik.
+Mer kämpft im Spanische Bürgerkrieg gege faschistische Truppe. Des Setting is ungewöhnlich un spannend, des muss mer lobe. Awwer die Umsetzung bleibt bei: Gang lang, Gegner erschieße, Schlüssel suche, Tür uff, nächster Gang. Wolfenstein 3D hat des 1992 schon so gemacht. Nur mit weniger Selbstbewusstsein.
 
-Spielerisch is des schnörkellos: Rennen, schieße, Munition suche, Schlüsselkarte finde, weiterballern. Die Waffen sin historisch angehaucht, vom Gewehr über die Maschinenpistole bis zur Granate, un sie fühle sich wuchtig an. Die Levels sin verwinkelt un voller Geheimnisse, wie mer’s von Wolfenstein 3D oder Doom kennt.
+Die Gegner sin dabei net gerade die hellste Kerze uff der Torte. Die laufe einem entgege, bleibe stehe, schieße daneben un falle um. Faschiste sin im Spiel offenbar genauso dumm wie in der Realität. Des is vielleicht sogar Absicht.
 
-Ulkig is der Kontrast: Des Thema is ernst, die Präsentation is bewusst retro un fast comicartig. Des funktioniert überraschend gut, weil des Spiel trotzdem klar Stellung bezieht.
+Un nach ner Weile wiederholt sich alles. Die Levels sehe ähnlich aus, die Gegner aach, un des Ballern wird zur Routine. Spannung kommt nur auf, wenn die Munition knapp wird.
 
-Kritikpunkt: Die Gegner sin net besonders schlau, un mit der Zeit wiederholt sich des Ganze e bissje.
+Awwer: Die Waffen fühle sich wuchtig an, die Retro-Optik is stimmig, un dass e Spiel sich so klar positioniert un e vergessenes Kapitel Geschicht aufgreift, verdient Respekt.
 
 ## Fazit
 
-*Only Lead Can Stop Them* is e solider Retro-Shooter mit ungewöhnlichem Setting un klarer Haltung. Un am End weiß mer: Manche Gegner verstehe kei Diskussion. Da hilft halt nur Blei.
+*Only Lead Can Stop Them* is e Retro-Shooter mit klarer Haltung un wenig Abwechslung. Un am End weiß mer: Gege Faschiste hilft Blei. Gege Langeweile leider net.

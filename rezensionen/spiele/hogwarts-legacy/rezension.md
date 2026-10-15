@@ -5,21 +5,21 @@ jahr: 2023
 genre: Action-Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Endlich selbst nach Hogwarts"
+fazit: "Zauberschul-Traum mit Ubisoft-Checkliste"
 ---
 
 Gude!
 
-Also, *„Hogwarts Legacy“* is so e Spiel, wo e Kindheitstraum wahr wird. Endlich selbst durch Hogwarts laufe, Zaubersprüch lerne un uff em Besen über die Highlands fliege. Kein Brief von de Eule nötig.
+Also, *„Hogwarts Legacy“* is so e Spiel, des jedem Harry-Potter-Fan e Träne ins Auge treibt, sobald mer zum erste Mal durch des Schloss läuft. Un e zweite Träne, sobald mer merkt, dass die offene Welt drumherum e Abhakliste is.
 
-Die Geschicht spielt im 19. Jahrhundert, also lang vor Harry Potter. Mer is e neuer Schüler, der direkt in die fünfte Klass einsteigt, weil er e seltene Begabung für alte Magie hat. Un während mer Unterricht hat, Freundschaften schließt un Hausaufgaben vergisst, braut sich draußen was zusammen: e Kobold-Rebellion un dunkle Zauberer, die die alte Magie für sich nutze wolle.
+Mer is e Schüler, der direkt in die fünfte Klass einsteigt, weil er e geheimnisvolle alte Magie beherrscht. Natürlich. Mer is der Auserwählte. Mal wieder. Dann gibt’s e Kobold-Rebellion, e paar dunkle Zauberer un e Geschicht, die mer schneller vergisst als die Zauberspruchformeln aus em Unterricht.
 
-Des Schloss is der heimliche Star. Gänge, Treppen, Gemälde, Geheimräume, Bibliothek, Gemeinschaftsräume – alles liebevoll nachgebaut un voller Details. Drumherum gibt’s e große offene Welt mit Hogsmeade, Wälder, Höhle un Ruinen. Mer kämpft mit Zaubersprüch, braut Tränke, züchtet Pflanzen un richtet sich den Raum der Wünsche ein.
+Un die Nebenaufgabe! Merlin-Rätsel. Über neunzig Stück. Die alle gleich funktioniere: Steine hinlegen, Ding anzünden, fertig. Dazu Ballons zerplatze, Kisten öffne, Seiten sammle. Des is kei Zauberschule, des is e Fleißarbeit mit Zauberstab.
 
-Ulkig is, wie schnell mer sich als Hogwarts-Schüler wohlfühlt. Mer verirrt sich in de Gänge, ärgert sich über Treppen, die sich bewege, un freut sich über jede versteckte Ecke.
+Un die Kämpfe? Mer haut Gegner mit „Avada Kedavra“ um, als wär’s e Kitzelzauber, un kein Lehrer verliert e Wort drüber. Moral in Hogwarts is offenbar optional.
 
-Kritikpunkt: Die Nebenaufgabe wiederhole sich, un die Geschicht bleibt eher blass.
+Awwer: Des Schloss is e Wucht. Jeder Gang, jedes Gemälde, jede Treppe is liebevoll gemacht. Fliege uff em Besen über die Highlands is wunderschön, un der Raum der Wünsche macht richtig Laune. Für Fans e Traum.
 
 ## Fazit
 
-*Hogwarts Legacy* is e wunderschöne Spielwiese für alle Fans der Zaubererwelt. Net perfekt, awwer voller Magie. Un am End weiß mer: Hogwarts is toll. Nur die Hausaufgaben, die macht mer immer noch net gern.
+*Hogwarts Legacy* is e wunderschöne Zauberwelt mit em Inhalt aus der Open-World-Fabrik. Un am End weiß mer: Hogwarts is magisch. Die neunzig Merlin-Rätsel sin’s leider net.

@@ -5,21 +5,21 @@ jahr: 2021
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Krähe mit Bürojob un Sens"
+fazit: "Die Sensenkrähe vom Amt"
 ---
 
 Gude!
 
-Also, *„Death’s Door“* is so e Spiel, wo der Tod e Behörde is. Mit Stempelkarte, Akten un Vorgesetzten. Un mer is mittendrin als kleine Krähe, die Seelen einsammelt. Bürokratie trifft Jenseits, un des is erstaunlich charmant.
+Also, *„Death’s Door“* is so e Spiel, wo der Tod e Behörde is. Mit Stempeluhr, Akten un Formularen. Un mer is e kleine Krähe, die für den Laden Seelen einsammelt. Des is so deutsch, dass mer sich fragt, ob des Studio heimlich in Wiesbaden sitzt.
 
-Die Krähe soll eigentlich nur e Seele abholen, wie jeden Tag. Awwer die wird ihr geklaut, un ohne Seele kein Feierabend. Also macht se sich uff de Weg durch e Welt voller verfluchter Orte, schrulliger Figuren un mächtiger Wesen, die einfach net sterbe wolle. Un ihr wisst ja: Wer net stirbt, bringt die ganze Verwaltung durcheinander.
+Die Krähe verliert ihre zugeteilte Seele an en Dieb un muss se zurückhole. Sonst kein Feierabend. Also zieht se los durch e Welt voller Wesen, die einfach net sterbe wolle. Un die müsse alle erledigt werde, damit die Bürokratie wieder stimmt. Kafka hätt sei Freud gehabt.
 
-Spielerisch is des e Zelda-ähnliches Abenteuer aus der Schrägansicht. Mer kämpft mit Schwert, Bogen un Zauber, löst kleine Rätsel, findet Abkürzunge un neue Fähigkeite, mit dene mer alte Gebiete weiter erkunde kann. Die Kämpfe sin knackig, besonders die Bosse, awwer fair. Un die Welt is voller Geheimnisse.
+Spielerisch is des e Zelda in Schrägansicht. Schwert, Bogen, Zauber, Rätsel, Abkürzungen. Des kennt mer, des mag mer. Awwer die Bosse! Die sin so knackig, dass mer manchmal des Gefühl hat, die Entwickler hätte heimlich Dark Souls gespielt un dann gedacht: „Des mache mer jetzt aach, nur mit Vögeln.“ Un wenn mer stirbt, darf mer schön den ganze Weg zurücklaufe.
 
-Ulkig sin die Nebenfiguren. Mer trifft unter annerem en Typ mit em Suppentopf als Kopp, der so herzlich un tragisch is, dass mer ihn sofort ins Herz schließt. Der Humor is trocke, melancholisch un passt perfekt zur Stimmung.
+Die Rätsel sin teilweise so verschachtelt, dass mer im Kreis rennt un dabei dieselbe Statue zum fünfte Mal anguckt. Un die Kart? Die gibt’s net. Orientierung nach Gefühl.
 
-Die Optik is schlicht, awwer stimmungsvoll, un der Soundtrack is wunderschön.
+Awwer: Der Humor is trocken un fein, die Figure sin herrlich, allen voran der Typ mit em Suppentopf uff em Kopp, un der Soundtrack is wunderschön. Des Spiel hat Herz.
 
 ## Fazit
 
-*Death’s Door* is e kleines, feines Abenteuer mit großem Herz un kniffligen Kämpfen. Un am End weiß mer: Selbst der Tod hat Überstunden. Un aach dort is des Formular nie da, wenn mer’s braucht.
+*Death’s Door* is e charmantes, schweres Abenteuer mit großem Herz un kleinen Sadismus-Anfällen. Un am End weiß mer: Selbst im Jenseits gibt’s Bürokratie. Un e Kart wär trotzdem nett gewese.

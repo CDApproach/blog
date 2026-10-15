@@ -5,21 +5,21 @@ jahr: 2022
 genre: Point-and-Click-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Südstaatengothic im Raffinerienebel"
+fazit: "Südstaaten-Melancholie für Literaturstudente"
 ---
 
 Gude!
 
-Also, *„Norco“* is so e Spiel, des mer net einfach spielt. Mer liest es, mer guckt es an, un mer denkt danach noch tagelang drüber nach.
+Also, *„Norco“* is so e Spiel, des mer net spielt, sondern interpretiert. Am beste mit em Literaturstudium im Rücken un em Rotwein in de Hand. Wer einfach nur e Abenteuer erlebe will, is hier ungefähr so gut aufgehobe wie e Schalke-Fan im Waldstadion.
 
-Mer spielt die Kay, die nach dem Tod ihrer Mudder zurück in ihr Heimatstädtche Norco in Louisiana kommt. Norco is e echte Ortschaft, geprägt von riesige Ölraffinerie, Sumpflandschaft un ere Gesellschaft, die langsam im Wasser versinkt. Un Kays Bruder is spurlos verschwunde. Uff der Suche nach ihm stößt se uff Konzerne, Sekten, Roboter un e Geschicht, die immer surrealer wird.
+Die Kay kommt nach dem Tod ihrer Mudder zurück nach Norco, Louisiana. Ihr Bruder is verschwunde, un uff der Suche nach ihm stolpert se über Ölkonzerne, Sekten, Roboter un Gestalte, die rede, als hätte se alle e Philosophie-Seminar geschwänzt un dafür zu viel Kafka gelese.
 
-Spielerisch is des e textlastiges Point-and-Click-Adventure. Mer klickt sich durch Szene, führt Gespräche, sammelt Erinnerunge un löst gelegentlich kleine Rätsel. Die Pixelgrafik is atemberaubend schön: düster, detailliert, wie gemalt. Jedes Bild könnt mer sich an die Wand hänge.
+Die Dialoge sin manchmal brillant, manchmal so verschwurbelt, dass mer dreimal lese muss un trotzdem net weiß, was die Figur eigentlich wollte. Un die Handlung wird immer surrealer, bis mer sich fragt, ob mer des Spiel versteht oder ob des Spiel sich selbst versteht.
 
-Ulkig – auf seine ganz eigene Art – sin die Dialoge. Die sin oft absurd, manchmal komisch, meistens melancholisch. Die Figuren rede aneinander vorbei, philosophiere über Gott, Technik un Vergänglichkeit. Des is net immer leicht zu verstehe, awwer immer faszinierend.
+Spielerisch is des e Point-and-Click mit viel Text un wenig Klick. Die paar Rätsel un Kampfeinlage wirke wie e Pflichtübung, damit mer net ganz einschläft.
 
-Wer klare Antworten un e geradlinige Handlung sucht, wird hier eher frustriert. Norco is mehr Stimmung als Krimi.
+Awwer: Die Pixelgrafik is atemberaubend. Jedes Bild is e Gemälde, so schön un düster, dass mer’s an die Wand hängen möchte. Un die Atmosphäre von Verfall un Heimat geht unter die Haut.
 
 ## Fazit
 
-*Norco* is e einzigartiges, poetisches Adventure über Heimat, Verlust un Verfall. Kei leichte Kost, awwer e echtes Kunstwerk. Un am End weiß mer: Manche Orte lässt mer hinter sich. Awwer die lasse einen net los.
+*Norco* is e künstlerisch beeindruckendes Spiel, des mehr gelese als gespielt wird. Un am End weiß mer: Kunst is anstrengend. Awwer manchmal halt auch schee.

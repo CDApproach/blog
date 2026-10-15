@@ -5,21 +5,21 @@ jahr: 2013
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Drei Gauner, eine Stadt, null Moral"
+fazit: "Drei Halunke unter Palme"
 ---
 
 Gude!
 
-Also, *„Grand Theft Auto V“* is so e Spiel, des mer eigentlich gar net mehr vorstelle muss. Jeder kennt’s, jeder hat’s gespielt, oder zumindest hat jeder mal jemand gesehe, der damit en Panzer über die Autobahn gejagt hat.
+Also, *„Grand Theft Auto V“* is so e Spiel, des seit über zehn Jahre verkauft wird. Uff jeder Konsol, die’s gibt. Un vermutlich irgendwann aach uff em Toaster. Rockstar hat mit dem Ding mehr Geld verdient als manche Länder im Jahr.
 
-Mer spielt drei Hauptfiguren: den Michael, en Ex-Bankräuber im Ruhestand mit ere Familie, die ihn in de Wahnsinn treibt. Den Franklin, en junge Kerl aus de Vorstadt, der mehr vom Lebbe will. Un den Trevor, der… sagen mer mal: völlig unberechenbar is. Zwische den dreie kann mer jederzeit wechsle, un zusammen ziehe se große Überfälle durch.
+Mer spielt drei Hauptfigure: Michael, en Ex-Gangster in der Midlife-Crisis, der sich ständig über sei Familie beschwert. Franklin, der eigentlich der Normalste is un trotzdem nix zu sagen hat. Un Trevor, der so wahnsinnig is, dass mer nach jeder Mission e Dusche braucht. Sympathisch is kei einziger von dene dreien. Des is kei Heldengeschicht, des is e Therapiegrupp mit Sturmgewehr.
 
-Los Santos is e Parodie uff Los Angeles un e fantastische Spielwiese. Strände, Hügel, Wüste, Berge, Großstadt. Mer kann Golf spiele, Yoga mache, Fallschirm springe, Flugzeuge klaue oder einfach im Radio den beste Sender suche. Die Heists sin des Highlight: Planung, Team wähle, un dann geht’s los.
+Die Missione folge oft dem gleiche Schema: Hinfahre, Zwischensequenz, Schießerei, Verfolgungsjagd, Zwischensequenz. Un wehe, mer fährt e bissje vom vorgeschriebene Weg ab – dann gibt’s „Mission gescheitert“. Freiheit, awwer nur wenn’s ins Drehbuch passt.
 
-Ulkig is, wie bissig des Spiel die amerikanische Gesellschaft uff die Schipp nimmt. Werbung, Medien, Politik, Selbstoptimierung – alles kriegt sei Fett weg. Manchmal arg drüber, awwer oft richtig treffend.
+Un dann GTA Online! E Goldesel mit Mikrotransaktionen, für den Rockstar den Einzelspieler-DLC quasi gestrichen hat. Danke dafür.
 
-Dazu kommt GTA Online, des bis heut läuft un für viele des eigentliche Spiel is.
+Awwer – un des is unbestreitbar: Los Santos is e Meisterwerk. Die Stadt lebt, die Details sin wahnsinnig, die Satire is oft bissig gut, un die Heists sin großartig inszeniert. Des Spiel hat Maßstäbe gesetzt.
 
 ## Fazit
 
-*GTA V* is e Meilenstein: riesig, detailverliebt un voller Möglichkeite. Moralisch fragwürdig, awwer spielerisch brillant. Un am End weiß mer: In Los Santos kann mer alles mache. Außer en vernünftige Parkplatz finde.
+*GTA V* is e technisches Wunderwerk mit em unsympathischsten Trio der Spielegeschichte. Un am End weiß mer: In Los Santos is alles möglich. Außer GTA VI rechtzeitig zu veröffentliche.

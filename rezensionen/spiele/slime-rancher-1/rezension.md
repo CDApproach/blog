@@ -5,23 +5,23 @@ jahr: 2017
 genre: Simulation
 bewertung: 5
 datum: 2026-10-13
-fazit: "Schleim füttern, Plorts kassiere"
+fazit: "Schleimige Farmarbeit mit Panikattacke"
 ---
 
 Gude!
 
-Also, *„Slime Rancher“* is so e Spiel, wo mer sich in kleine, glibbrige Wese verliebt. Un dann den ganze Tag damit verbringt, sie zu füttern, zu sammle un vor Unheil zu bewahre.
+Also, *„Slime Rancher“* is so e Spiel, des so niedlich is, dass mer sich schämt, wenn mer’s schlecht findet. Also versuche mer’s trotzdem.
 
-Mer spielt die Beatrix LeBeau, die uff en fernen Planete zieht, um dort als Schleimfarmerin zu arbeite. Mit ihrem Vakuumgerät saugt se Schleime ein, bringt se uff ihre Ranch, füttert se mit Obst, Gemüse oder Hühnern un sammelt dann die sogenannte Plorts ein. Die verkauft mer, un mit dem Geld baut mer die Ranch aus.
+Beatrix LeBeau zieht uff en fernen Planete, um Schleime zu züchten. Un des heißt: Mer saugt Schleime ein, wirft se in Gehege, füttert se mit Karotten un Hühnern un sammelt ihre Kacke ein. Ja, die Plorts sin im Grunde Schleimkacke, die mer dann für Geld verkauft. Wirtschaftsmodell des Grauens.
 
-Des klingt simpel, wird awwer schnell komplex. Es gibt viele verschiedene Schleimarten, jede mit eigene Eigenheite. Mische mer zwei Sorte, entstehe Largos, die doppelte Plorts produziere. Awwer Vorsicht: Wenn e Largo e dritte Sorte Plort frisst, wird er zum Tarr, e gefährlicher, schwarzer Schleim, der alles uffrisst. Dann muss mer schnell handle.
+Un dann die Largos! Wer zwei Schleimsorten mischt, kriegt doppelte Kacke. Klingt super. Bis so en Largo aus Versehen e dritte Sorte frisst. Dann wird er zum Tarr, em schwarze Monster, des alles frisst. Un dann rennt mer panisch über die Ranch, saugt Tarr ein un wirft se ins Meer. Des is kei entspannte Farmarbeit, des is Katastrophenschutz.
 
-Die Welt is bunt, fröhlich un voller Geheimnisse. Mer erkundet verschiedene Gebiete, findet neue Schleime, Schatzkapsle un Abkürzunge.
+Un die Ranch-Logistik! Mer pendelt ständig zwische Gehegen, Feldern, Hühnerstall un Markt. Nach ner Weile is mer mehr Lieferdienst als Rancher.
 
-Ulkig sin die Schleime selbst. Die hüpfe, lachen, quietsche un mache Grimasse. Un manche, wie die Goldschleime, renne einem einfach davon. Frechheit!
+Un wenn mer lang genug weg is, sin die Schleime in der Zwischenzeit aus de Gehege gehüpft un randaliere irgendwo.
 
-Mit der Zeit wird’s e bissje repetitiv, awwer des stört selten.
+Awwer: Des Spiel is unglaublich charmant. Die Schleime sin herzallerliebst, die Welt bunt un voller Geheimnisse, un die Mischung aus Erkundung un Farmarbeit macht süchtig.
 
 ## Fazit
 
-*Slime Rancher* is e kunterbuntes, entspannendes Wohlfühlspiel mit überraschend viel Tiefe. Un am End weiß mer: Schleim is gar net eklig. Zumindest, wenn er lächelt.
+*Slime Rancher* is e herziges Farmspiel mit überraschend viel Stress. Un am End weiß mer: Schleime sin süß. Ihre Kacke is wertvoll. Un die Tarr sin der Teufel.

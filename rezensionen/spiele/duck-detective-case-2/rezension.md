@@ -5,21 +5,21 @@ jahr: 2025
 genre: Detektivspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Spuk im Luxuszelt, Ente ermittelt"
+fazit: "Selbe Ente, neues Zelt"
 ---
 
 Gude!
 
-Also, *„Duck Detective: The Ghost of Glamping“* is so e Spiel, wo die Ente wieder ermittelt. Un diesmal net im Großstadtdschungel, sondern uff em Luxus-Campingplatz. Glamping halt: Zelt, awwer mit Daunendecke un Espresso-Maschin.
+Also, *„Duck Detective: The Ghost of Glamping“* is so e Spiel, des genau des macht, was mer erwartet. Un absolut nix darüber hinaus. Die Ente is zurück, die Lückentexte sin zurück, un des Einzige, was sich geändert hat, is die Kulisse.
 
-Uff dem schicke Campingplatz passiere nämlich unheimliche Dinge. Gibt’s do etwa en Geist? Oder steckt was ganz anneres dahinter? Der Eugene McQuacklin wird gerufe, un er macht sich mit gewohnter Schwermut an die Arbeit. Wie schon im ersten Fall geht’s net um Mord, sondern um e eher harmloses, awwer verzwicktes Rätsel.
+Diesmal spukt’s uff em Luxus-Campingplatz. Glamping nennt mer des, also Camping für Leit, die nie campe würde. Un irgendwer behauptet, es gäb en Geist. Natürlich gibt’s kein Geist. Des is e Duck-Detective-Spiel, kein Ghostbusters. Des weiß mer nach fünf Minute, un der Eugene braucht trotzdem zwei Stunde.
 
-Spielerisch bleibt alles beim Bewährte: Mer guckt sich Verdächtige genau an, sammelt Hinweise un füllt Lückentexte aus, um Schlussfolgerunge zu ziehe. Die „Entschlüsse“, wie des im Spiel so schön heißt. Des System funktioniert immer noch prima, un die Fälle sin e bissje vielschichtiger als beim erste Mal.
+Spielerisch is des Teil eins mit Zelt. Leute angucke, Hinweise sammle, Lückentexte ausfülle. Wer den erste Teil gespielt hat, kennt jeden Kniff. Wer’n net gespielt hat, fragt sich, warum der Erpel so traurig guckt.
 
-Ulkig sin wieder die Figuren: lauter schräge Tiere mit kleine Geheimnisse, Eitelkeite un Ausrede. Un der Eugene, der zwische Selbstzweifel un Geistesblitz hin un her schwankt, is einfach e liebenswerter Trauerkloß.
+Un wieder is des Ganze ruckzuck vorbei. Kaum is mer warm geworde, kommt der Abspann. Für den Preis von em Kinoticket kriegt mer e Kurzfilm.
 
-Viel Neues gibt’s net, un lang is des Spiel aach net. Awwer wer den ersten Teil mochte, fühlt sich sofort wieder wohl.
+Awwer, Ehre wem Ehre gebührt: Die Fälle sin e bissje vielschichtiger, die Figure wieder großartig schrullig, un der Humor zündet. Wer den ersten Teil mochte, wird sich hier wieder pudelwohl fühle. Bzw. entewohl.
 
 ## Fazit
 
-*The Ghost of Glamping* is mehr vom Gleiche, im beste Sinne: charmant, witzig un clever. Un am End weiß mer: Campingplätze sin immer unheimlich. Spätestens, wenn mer nachts zum Klo muss.
+*The Ghost of Glamping* is mehr vom Gleiche, charmant, witzig un viel zu kurz. Un am End weiß mer: Der Geist war’s net. Wie immer.

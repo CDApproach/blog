@@ -5,21 +5,21 @@ jahr: 2022
 genre: Simulation
 bewertung: 5
 datum: 2026-10-13
-fazit: "Dreck weg, Kopf frei"
+fazit: "Putze als Hobby, Dreckfleck als Erzfeind"
 ---
 
 Gude!
 
-Also, *„PowerWash Simulator“* is so e Spiel, wo mer sich fragt: „Warum mach ich des eigentlich im Spiel, wenn mei Terrass seit drei Jahre uff mich wartet?“ Un dann spielt mer trotzdem weiter. Weil’s einfach so befriedigend is.
+Also, *„PowerWash Simulator“* is so e Spiel, des beweist, dass mer Leute dafür bezahle lasse kann, dass sie putze. Virtuell. Un die finde des aach noch toll. Tom Sawyer wär stolz gewesen.
 
-Des Prinzip is so simpel wie genial: Mer kriegt en Hochdruckreiniger un e dreckiges Objekt. E Auto, e Spielplatz, e Haus, e Skatepark, sogar e Raumfähre. Un dann wird geputzt. Schicht für Schicht, Fläch für Fläch, bis alles glänzt. Jedes saubere Teil wird mit em zufriedenstellende „Pling“ belohnt.
+Mer kriegt en Hochdruckreiniger un putzt. Autos, Häuser, Spielplätze, Skateparks, Raumfähren. Schicht für Schicht, Fläche für Fläche. Un jedes saubere Teil wird mit em „Pling“ belohnt. Des is so primitiv, dass es schon wieder genial is. Oder umgekehrt.
 
-Mer kann verschiedene Düse un Reinigungsmittel nutze, sein Gerät verbessern un Aufträge annehme. Nebenbei erzählt des Spiel über Textnachrichte sogar e kleine Geschicht über die Leit in der Stadt. Die is erstaunlich schräg.
+Un dann kommt der Moment, den jeder Spieler kennt: Des Objekt is zu 99,8 Prozent sauber. Un irgendwo, irgendwo versteckt sich der letzte Dreckfleck. Unterm Radkasten. Hinter em Rohr. Uff der Unterseite von ere Schraube. Mer sucht zwanzig Minute, mit Lupe un Verzweiflung. Wenn mer den findet, fühlt mer sich wie e Held. Wenn net, wie e Versager.
 
-Ulkig is, wie meditativ des Ganze wird. Mer schaltet ab, hört Musik oder en Podcast un spritzt einfach vor sich hin. Un dann sucht mer zwanzig Minute lang den letzte Dreckfleck, der irgendwo unter em Rad versteckt is. Des treibt einen in de Wahnsinn. Awwer uff die gute Art.
+Die Story über Textnachrichten is schräg, awwer eher Hintergrundrauschen. Un nach zwanzig Stunde Dauerspritze fragt mer sich: Warum putz ich eigentlich net mal mei Terrass?
 
-Es gibt sogar e Koop-Modus, damit mer gemeinsam mit Freunde putze kann. Wer hätt gedacht, dass des mal Spaß macht.
+Awwer: Des Spiel is unglaublich entspannend, meditativ un befriedigend. Mit Podcast im Ohr is des pure Erholung. Un der Koop-Modus macht gemeinsames Putze tatsächlich zum Vergnüge.
 
 ## Fazit
 
-*PowerWash Simulator* is e erstaunlich entspannendes, süchtig machendes Spiel. Un am End weiß mer: Putze kann glücklich mache. Zumindest, solang’s net die eigene Wohnung is.
+*PowerWash Simulator* is e erstaunlich gutes Entspannungsspiel über e Tätigkeit, die mer im echte Lebbe hasst. Un am End weiß mer: Der letzte Dreckfleck is immer der fieseste.

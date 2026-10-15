@@ -5,23 +5,23 @@ jahr: 2023
 genre: Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Sonne, Mond un Kochlöffel"
+fazit: "Chrono-Trigger-Cover mit leeren Hauptfiguren"
 ---
 
 Gude!
 
-Also, *„Sea of Stars“* is so e Spiel, wo mer sofort an die gute alte Rollenspiele der Neunziger denkt. An Chrono Trigger, an lange Abende mit em Super Nintendo. Un dann merkt mer: Des hier is nicht nur Nostalgie, des is richtig gut.
+Also, *„Sea of Stars“* is so e Spiel, des so sehr Chrono Trigger sein will, dass es fast schon e Bewerbungsschreiben an Square Enix is. Un des is gleichzeitig sei Stärke un sei Schwäche.
 
-Mer spielt Zale un Valere, zwei Kinner der Sonnenwende, die mit der Kraft von Sonne un Mond die Eklipsenmagie beherrsche. Damit solle se gege die Schöpfungen von em finstere Alchemiste kämpfe, der die Welt bedroht. Unterwegs schließe sich ihne Freunde an, allen voran Garl, e Krieger-Koch, der mehr mit Kochlöffel als mit Schwert kämpft.
+Die Hauptfigure Zale un Valere sin Kinner der Sonnenwende, die mit Sonnen- un Mondmagie gege e finstere Alchemiste kämpfe. Des klingt episch. Is es awwer net, weil Zale un Valere ungefähr so viel Persönlichkeit hawwe wie zwei Glasbausteine. Die nicke, lächeln un sin heldenhaft. Fertig.
 
-Des Kampfsystem is rundenbasiert, awwer mit Pfiff. Mer kann durch gutes Timing mehr Schade mache oder Angriffe abschwäche. Gegner hawwe „Schlösser“, die mer mit bestimmte Angriffsarten knacke muss, um ihre Spezialangriffe zu verhindern. Des sorgt für taktische Tiefe ohne Überforderung.
+Der wahre Held is Garl, der Krieger-Koch. Ohne den hätt die Geschicht so viel Herz wie e Tiefkühlpizza. Der rettet des ganze Spiel. Mehr sag ich net.
 
-Die Pixelgrafik is ein Traum. Die Licht- un Schatteneffekte sin unglaublich, die Welt lebendig un abwechslungsreich. Die Musik stammt zum Teil vom Yasunori Mitsuda, der damals schon Chrono Trigger vertont hat.
+Die Geschicht braucht ewig, bis se Fahrt aufnimmt. Die erste Stunde sin so zäh wie Omas Gulasch beim erste Versuch. Un dann wird’s plötzlich wild, mit Wendunge, die teilweise so aus em Nichts komme, dass mer sich fragt, ob mer was verpasst hat.
 
-Ulkig is Garl. Der Mann is so herzlich, positiv un hilfsbereit, dass mer ihn sofort als beste Freund adoptiere will.
+Un die Rätsel in de Dungeons? Schalter drücke, Blöcke schiebe, Licht umleite. Sehr klassisch. Sehr, sehr klassisch.
 
-Die Geschicht braucht e bissje, bis se in Fahrt kommt, un manche Figure bleibe blass.
+Awwer: Die Pixelgrafik is e Traum, die Beleuchtungseffekte e Wucht, des Kampfsystem mit seine Schlössern un Timing-Angriffe richtig gut, un die Musik, teils von Yasunori Mitsuda, wunderschön.
 
 ## Fazit
 
-*Sea of Stars* is e wunderschönes, liebevoll gemachtes RPG mit klassischer Seele. Un am End weiß mer: Jede Heldengrupp braucht en Koch. Mindestens.
+*Sea of Stars* is e wunderschönes Retro-RPG mit blassen Helden un em großartigen Koch. Un am End weiß mer: Jede Heldengrupp braucht en Garl. Die zwei Hauptfigure eher net.

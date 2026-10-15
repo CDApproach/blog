@@ -5,23 +5,23 @@ jahr: 2017
 genre: Erzählspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "E Familie, e Fluch, e Haus voller Geschichte"
+fazit: "E Familie, die sich gegenseitig an Kreativität im Sterbe überbietet"
 ---
 
 Gude!
 
-Also, *„What Remains of Edith Finch“* is so e Spiel, des mer in em Rutsch durchspielt. Un danach erstmal still sitze bleibt, weil mer verarbeite muss, was mer grad erlebt hat.
+Also, *„What Remains of Edith Finch“* is so e Spiel über e Familie, die so verflucht is, dass jedes Mitglied uff besonders originelle Weise stirbt. Des is kein Fluch mehr, des is e Wettbewerb. Un die Finches nehme ihn ernst.
 
-Mer spielt die Edith, die letzte Überlebende der Familie Finch. Sie kehrt zurück in des alte Familienhaus an der Küste im US-Bundesstaat Washington. E verwinkeltes, schiefes Haus, in dem jedes Zimmer versiegelt is wie e kleines Museum. Denn in der Familie Finch liegt angeblich e Fluch: Fast jedes Familienmitglied is uff ungewöhnliche Weise ums Lebbe gekomme.
+Die Edith kehrt zurück ins Familienhaus, e schiefes Gebäude, des aussieht, als hätt e Architekt im Vollrausch e Turm uff e Baumhaus uff e Scheune gesetzt. Jedes Zimmer is versiegelt, un in jedem erlebt mer den Tod von em Familienmitglied. Des is e Familienalbum, das ausschließlich aus Todesanzeigen besteht.
 
-In jedem Zimmer erlebt mer die letzte Moment von em Familienmitglied. Un jede dieser Geschichte wird ganz anders erzählt: Mal als Comic, mal aus der Sicht von em Tier, mal als Tagtraum während der Arbeit in ere Fischfabrik. Des is unglaublich kreativ un jedes Mal e Überraschung.
+Spielerisch is des e Walking Simulator. Mer läuft, guckt, liest. Un dann läuft mer wieder. Wer gern was tut, statt zuzugucke, is hier verkehrt. Des Spiel erzählt, un mer drückt gelegentlich e Knopf, damit’s weitererzählt.
 
-Spielerisch is des e Walking Simulator. Mer läuft, guckt, entdeckt. Awwer die Art, wie die Steuerung mit der Erzählung verwoben is, is meisterhaft. Mancher Moment brennt sich für immer ein.
+Un nach zwei Stunde is es vorbei. Des is e Spielfilm-Länge, aber zum Spielepreis. Un der Wiederspielwert liegt bei ungefähr null, weil mer jetzt ja weiß, wer wie gestorbe is.
 
-Ulkig – uff e schräge, melancholische Art – sin viele der Geschichte. Sie sin traurig, awwer oft aach skurril un fantasievoll. Des Spiel schafft den Spagat zwische Tod un Wunder.
+Manche Episoden sin außerdem so abgehoben, dass mer sich fragt, ob die Finches net einfach alle e bissje unvorsichtig ware.
 
-Mit zwei bis drei Stunde is des Spiel kurz. Awwer jede Minute zählt.
+Awwer – un des is unbestreitbar: Die Art, wie jede Geschicht erzählt wird, is genial. Comic, Tierperspektive, Tagtraum in der Fischfabrik. Des is so kreativ un berührend, dass mer manchmal kurz innehalten muss. E echtes Kunstwerk.
 
 ## Fazit
 
-*What Remains of Edith Finch* is e kleines Meisterwerk des Erzählens, poetisch, traurig un wunderschön. Un am End weiß mer: Jedes Lebbe is e Geschicht wert. Auch wenn’s viel zu früh endet.
+*What Remains of Edith Finch* is e brillantes, kurzes Erzählstück mit minimalem Spielanteil. Un am End weiß mer: Die Finches hätte e gute Versicherung gebraucht. Un mehr Vorsicht.

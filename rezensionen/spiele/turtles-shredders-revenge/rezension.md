@@ -5,23 +5,23 @@ jahr: 2022
 genre: Beat ’em up
 bewertung: 5
 datum: 2026-10-13
-fazit: "Pizza, Prügel un Neunziger-Nostalgie"
+fazit: "Nostalgie in Pixel, nach zwei Stunde aufgegesse"
 ---
 
 Gude!
 
-Also, *„TMNT: Shredder’s Revenge“* is so e Spiel, wo mer sofort wieder des Titellied der Turtles im Kopp hat. Un mit Freunde uffm Sofa sitzt wie früher vor em Spielautomat.
+Also, *„TMNT: Shredder’s Revenge“* is so e Spiel, des genau weiß, für wen es gemacht is: Für Leit, die 1990 vor em Fernseher gehockt hawwe un „Cowabunga!“ geschrien hawwe. Un für die is des e Fest. Für alle annere e eher kurze Prügelei.
 
-Shredder un Krang hecke mal wieder en fiese Plan aus, un die vier Turtles – Leonardo, Michelangelo, Donatello un Raphael – müsse New York rette. Dabei helfe ihne April O’Neil, Meister Splinter un Casey Jones. Die Geschicht is simpel, awwer charmant, genau wie in de alte Zeichentrickserie.
+Shredder un Krang hecke wieder was aus, un die Turtles müsse New York rette. Die Geschicht passt uff e Pizzakarton, un des is aach in Ordnung so. Kei Mensch spielt e Beat ’em up wegen der Handlung.
 
-Spielerisch is des e klassisches Beat ’em up im Retro-Stil. Mer läuft durch die Straße, kloppt Foot-Soldaten, Mutanten un Roboter, un kämpft gege bekannte Bosse wie Bebop un Rocksteady. Jeder Charakter spielt sich e bissje anders, mit eigene Stärke un Spezialattacke. Bis zu sechs Spieler könne gleichzeitig spiele.
+Spielerisch läuft mer nach rechts un haut alles um, was sich bewegt. Foot-Soldaten, Mutante, Roboter. Dann läuft mer weiter nach rechts un haut wieder alles um. Des is ehrlich, des is retro, awwer nach zwei Stunde aach ziemlich vorbei. Mehr Inhalt gibt’s net.
 
-Die Pixelgrafik is wunderschön, mit flüssige Animationen un vielen kleinen Details. Un der Soundtrack is e Knaller, mit Gastauftritte von Musikern wie Mike Patton.
+Allein spielt sich des Ganze außerdem ungefähr so spannend wie Kegeln ohne Freunde. Des Spiel lebt vom Koop. Wer kein Sofa voller Kumpels hat, merkt schnell, wie repetitiv des Ganze is.
 
-Ulkig sin die vielen Anspielunge uff die Serie un alte Spiele. Fans entdecke überall kleine Gags un Erinnerunge.
+Un auf den höhere Schwierigkeitsgrade wird mer so oft umgehaue, dass mer sich wie e Foot-Soldat fühlt.
 
-Des Spiel is kurz, so zwei bis drei Stunde, un allein macht’s deutlich weniger Spaß als mit Freunden.
+Awwer: Die Pixelgrafik is wunderschön, die Animationen flüssig, der Soundtrack is e Knaller mit Mike Patton am Mikro, un mit Freunde macht des einfach unglaublich viel Spaß. Liebevoller kann e Hommage net sein.
 
 ## Fazit
 
-*Shredder’s Revenge* is e liebevolle Hommage an die Turtles un die Spielhallen der Neunziger. Un am End weiß mer: Mit Freunde un Pizza is alles besser. Sogar des Prügeln.
+*Shredder’s Revenge* is e herrliches Nostalgie-Brett, des viel zu schnell aufgegesse is. Un am End weiß mer: Mit Pizza un Freunde is alles gut. Allein bleibt nur kalte Pizza.

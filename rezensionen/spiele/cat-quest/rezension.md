@@ -5,21 +5,21 @@ jahr: 2017
 genre: Action-Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Pfotastisches Abenteuer mit Wortwitz"
+fazit: "Katzenwortspiele bis zum Haarballen"
 ---
 
 Gude!
 
-Also, *„Cat Quest“* is so e Spiel, wo mer schon nach fünf Minute die Katzenwortspiele zählt. Un irgendwann uffgibt, weil’s einfach zu viele sin. Pawsome hier, Purrfect da – des Ding is e einziger Katzenkalauer. Un trotzdem charmant.
+Also, *„Cat Quest“* is so e Spiel, wo die Entwickler offenbar e Wette verlore hawwe. Die Wette lautete: „Wie viele Katzenwortspiele passe in e einziges Spiel?“ Antwort: Alle. Un dann noch e paar.
 
-Mer spielt e kleine Katz, deren Schwester von em fiese Bösewicht entführt wurd. Also los ins Königreich Felingard, Monster haue, Quests erledige, Dungeons erkunde un Ausrüstung sammle. Des is e klassisches Action-RPG, nur halt mit Schnurrhaare.
+Pawsome, Purrfect, Meowtain, Catpital – nach zehn Minute is des niedlich, nach ere Stund nervig, un nach drei Stunde möcht mer dem Spiel e Haarballe in den Speicher würge. Des is kein Humor mehr, des is e Belagerung.
 
-Spielerisch is des Ganze schön übersichtlich. Die Weltkart is gleichzeitig die Spielwelt, mer läuft direkt drüber, entdeckt Höhle, Städt un Nebenaufgabe. Kämpfe sin flott: zuschlage, ausweiche, Zauber wirke. Wer mit Rollenspiele sonst überfordert is, kommt hier gut rein. Level uffsteige, Rüstung wechsle, fertig.
+Spielerisch is des e Rollenspiel für Leute, die Rollenspiele net so mögen. Mer läuft über e Weltkart, haut Monster, nimmt Quests an, haut Monster, levelt uff, haut Monster. Die Dungeons sehe alle gleich aus: e paar Räume, e paar Gegner, e Kiste. Fertig. Wer de dritte gesehe hat, hat alle gesehe.
 
-Ulkig sin natürlich die Dialoge un die Namen. Alles is uff Katz getrimmt, von Städten bis zu Waffen. Des is net immer subtil, awwer man muss schmunzle. Un die Grafik is so niedlich, dass mer fast e schlechtes Gewisse kriegt, wenn mer Monster verhaut.
+Die Geschicht? Schwester entführt, Bösewicht böse, Held heldenhaft. Des hätt mer uff e Bierdeckel schreibe könne, un es wär noch Platz für die Katzenwitze gewese.
 
-Nach e paar Stund wird’s allerdings e bissje gleichförmig. Die Dungeons ähnele sich, die Quests aach. Awwer bis dahin is mer meistens eh durch.
+Awwer: Des Spiel is hübsch, die Kämpfe sin flott un die Steuerung is angenehm. Für e paar entspannte Abende mit em Gehirn uff Sparflamme funktioniert des ganz prima.
 
 ## Fazit
 
-*Cat Quest* is e kleines, gemütliches RPG für zwischendurch. Kei Tiefgang wie bei de Große, awwer viel Charme un null Frust. Un am End weiß mer: Katze regiere die Welt. Im Spiel jetzt aach offiziell.
+*Cat Quest* is e niedliches Mini-RPG, des sich leider für viel witziger hält, als es is. Un am End weiß mer: Katzen hawwe neun Lebbe. Mer selbst awwer nur eins, un des sollt mer net mit Wortspielen verschwende.

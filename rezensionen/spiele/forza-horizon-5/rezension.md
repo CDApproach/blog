@@ -5,21 +5,21 @@ jahr: 2021
 genre: Rennspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Mexiko, Vollgas un Festivalstimmung"
+fazit: "Mexiko-Urlaub mit Benachrichtigungsflut"
 ---
 
 Gude!
 
-Also, *„Forza Horizon 5“* is so e Spiel, wo mer sich vornimmt, e Rennen zu fahre. Un dann fährt mer stundenlang einfach so durch die Gegend, weil die Landschaft so schön is. Rennen? Später vielleicht.
+Also, *„Forza Horizon 5“* is so e Spiel, des einen mit Belohnunge zuschmeißt, als wär mer e Kind uff em Kindergeburtstag. Hier e Auto, da e Glücksrad, dort e Punktebonus, un nochmal e Auto. Nach zwei Stunde hat mer zwanzig Autos un null Ahnung, was mer damit anfange soll.
 
-Diesmal spielt des Horizon-Festival in Mexiko. Un was für e Mexiko! Dschungel, Wüste, Vulkan, Strände, Maya-Ruine, kleine Dörfer un e Großstadt. Des Ganze is riesig un abwechslungsreich, mit wechselnde Jahreszeite, die die Welt immer wieder verändern. Mal Staubsturm, mal Tropengewitter.
+Mer is beim Horizon-Festival in Mexiko, wo alle Leute offenbar nix zu tun hawwe außer Autos fahre un jubeln. Die Festivalsprecher sin so unerträglich gut gelaunt, dass mer sich wünscht, einer von ihne hätt mal schlechte Laune. Nur einmal. Bitte.
 
-Spielerisch is des Arcade-Rennspaß mit Simulationsanspruch. Mer kann des Fahrverhalte so einstellen, wie mer mag: von „Ich drück nur Gas“ bis „Ich tune jede Schraub“. Es gibt Hunderte von Autos, vom Kleinwage bis zum Hypercar, Straßerennen, Querfeldein-Rennen, Driften, Sprünge un Geschwindigkeitsfalle. Un überall Belohnunge, Punkte un Freischaltunge.
+Un dann die Benachrichtigungen! Jede Sekunde ploppt was uff: „Neue Herausforderung!“, „Belohnung erhalten!“, „Saison gewechselt!“, „Du hast e Auto!“ Des is kei Rennspiel mehr, des is e Smartphone mit Lenkrad.
 
-Ulkig is, wie schnell mer zum Sammler wird. Mer will gar net alle Autos fahre, awwer mer will se alle hawwe. Un wenn mer dann im Glücksrad wieder e neuen Wage gewinnt, freut mer sich wie e Kind uff de Kerb.
+Die Geschicht, sofern mer des so nennen will, besteht aus Expeditionen, bei dene mer zu Sehenswürdigkeite fährt un sich von Leuten erklären lässt, wie toll Mexiko is. Un zwischendurch Rennen. Viele Rennen. Sehr viele Rennen.
 
-Kritikpunkt: Des Spiel überschüttet einen manchmal mit Belohnungen un Benachrichtigunge. Weniger wär manchmal mehr.
+Awwer jetzt Butter bei die Fische: Des Fahrgefühl is fantastisch, die Landschafte sin atemberaubend schön, die Autoauswahl riesig un des Spiel is für jeden zugänglich. Des is technisch un spielerisch e Glanzstück.
 
 ## Fazit
 
-*Forza Horizon 5* is eins der beste Rennspiele überhaupt: wunderschön, zugänglich un voller Möglichkeite. Un am End weiß mer: Mexiko muss mer gesehe hawwe. Zur Not halt mit 300 Sache.
+*Forza Horizon 5* is e fantastisches Rennspiel, des leider nie die Klappe hält. Un am End weiß mer: Mexiko is wunderschön. Am beste mit ausgeschaltetem Ton.

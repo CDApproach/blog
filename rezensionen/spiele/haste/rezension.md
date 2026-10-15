@@ -5,23 +5,21 @@ jahr: 2025
 genre: Laufspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Renne, als gäb’s kein Morge"
+fazit: "Renne, springe, sonst nix"
 ---
 
 Gude!
 
-Also, *„Haste“* is so e Spiel, wo mer net stehen bleibe darf. Nie. Weil sonst die Welt untergeht. Wortwörtlich.
+Also, *„Haste“* is so e Spiel, des genau eine Sach macht: Renne. Un springe. Un lande. Un dann wieder renne. Wer was anneres erwartet, wird enttäuscht. Wer genau des erwartet, wird… na ja, aach e bissje enttäuscht, weil’s nach ner Weile halt nur des is.
 
-Gemacht hat des Landfall, die Leit hinter Totally Accurate Battle Simulator un Content Warning. Un wer die kennt, weiß: Die mache gern ungewöhnliche Sachen. Hier spielt mer e Läuferin, die durch zerfallende Welten hetzt, um em Ende des Universums zu entkomme. Klingt dramatisch, is es aach.
+Mer rennt durch zerfallende Welten, um em Ende des Universums zu entkomme. Des klingt dramatisch, is awwer im Wesentlichen e Ausrede, damit mer net stehe bleibt. Die Geschicht wird in kleine Häppche erzählt, die mer zwische zwei Läufen schnell überspringt, weil mer ja renne will.
 
-Des Spielgefühl is der Star. Mer rennt, springt, gleitet durch die Luft un muss die Landung perfekt timen. Wer genau im richtige Moment uff em Hang aufsetzt, nimmt Schwung mit un wird immer schneller. Wer zu früh oder zu spät landet, verliert Tempo. Des is wie Surfen, nur uff Felsen. Un wenn’s klappt, fühlt mer sich unglaublich flink.
+Des Prinzip: Wer perfekt uff em Hang landet, wird schneller. Wer schlecht landet, verliert Tempo. Des is e sehr befriedigende Mechanik. Für die erste Stund. Dann merkt mer, dass jeder Lauf sich anfühlt wie der vorherige, nur mit annere Farbe. Prozedural generiert heißt hier: zufällig gleich.
 
-Die Welten werde prozedural erzeugt, also is jeder Lauf e bissje anners. Dazwische gibt’s kleine Upgrades un Gegenstände, die einen verbessere. Die Optik is weich un farbenfroh, fast wie e Bilderbuch.
+Un des Spiel is von Landfall, die sonst eher für Chaos un Klamauk bekannt sin. Hier gibt’s weder des eine noch des annere. Nur Tempo. Des is e bissje, als würd mer bei em Comedian e Vortrag über Steuerrecht kriege.
 
-Ulkig is, wie schnell mer süchtig nach dem perfekte Lauf wird. „Nur noch e Welt, nur noch e saubere Landung.“ Un dann is es plötzlich spät.
-
-Wer allerdings auf Geschicht un Tiefe aus is, wird hier eher wenig finde.
+Awwer: Wenn’s flowt, flowt’s richtig. Die Bewegung fühlt sich wunderbar an, die Optik is weich un schön, un wer gern seine Bestzeit jagt, hat hier sei Spaß.
 
 ## Fazit
 
-*Haste* is e flottes, flüssiges Laufspiel mit großartigem Bewegungsgefühl. Un am End weiß mer: Weglaufe is manchmal doch e Lösung. Zumindest, wenn die Welt hinter einem zusammenbricht.
+*Haste* is e Laufspiel mit großartigem Bewegungsgefühl un sehr wenig drumherum. Un am End weiß mer: Weglaufe löst kei Probleme. Aber es fühlt sich gut an.

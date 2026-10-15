@@ -5,21 +5,21 @@ jahr: 2022
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Comic-Horror mit Lovecraft-Schlag"
+fazit: "Lovecraft im Malbuch, Levels im Labyrinth"
 ---
 
 Gude!
 
-Also, *„Forgive Me Father“* is so e Spiel, wo mer aussieht wie in em Horror-Comicheft gelandet. Dicke Konturen, düstere Farben, un überall Kreaturen, die direkt aus em Lovecraft-Albtraum gekrabbelt sin.
+Also, *„Forgive Me Father“* is so e Spiel, des aussieht wie e Comicheft, des in en Eimer Tinte gefallen is. Un dann hat jemand gedacht: „Ei, da könnt mer doch e Shooter draus mache.“
 
-Mer wählt zu Beginn, ob mer als Priester oder als Journalist spielt, un dann geht’s los in e Kleinstadt, die vom Wahnsinn befallen is. Die Bewohner sin zu Monster geworde, aus de Tiefe kriecht des Grauen, un irgendwer muss da durch. Mit Revolver, Schrotflint un viel Gottvertraue. Oder halt Journalistenneugier.
+Mer spielt entweder en Priester oder en Journalist in ere Stadt, die vom Wahnsinn befallen is. Überall Monster, Kultisten un Kreature, die direkt aus em Lovecraft-Fiebertraum gekrabbelt sin. Die Geschicht wird so nebenbei erzählt, dass mer se schneller vergisst, als der Priester „Amen“ sage kann.
 
-Spielerisch is des e klassischer Retro-Shooter: schnell, laut un voller Gegnerhorde. Des Besondere is die Wahnsinnsanzeige. Je mehr Gegner mer erledigt, desto verrückter wird mer – un desto stärker. Dazu gibt’s e Fähigkeitenbaum un Waffen, die mer verbessern kann. Des sorgt für Abwechslung.
+Des Gameplay is klassisch: Rennen, ballern, Munition suche. Dazu gibt’s e Wahnsinnsanzeige, die mer stärker macht, je mehr mer tötet. Also im Grunde: Je verrückter, desto besser. Des is e Lebensphilosophie, die mer im echte Lebbe besser net übernimmt.
 
-Ulkig is, wie gut der Comic-Look funktioniert. Die Gegner sin 2D-Sprites, die Umgebung 3D, un des Ganze wirkt wie e gezeichnetes Gruselheft, des zum Lebbe erwacht. Manchmal lacht mer fast, wenn wieder e grotesk aussehende Kreatur um die Eck stolpert.
+Die Levels sin oft so verwinkelt, dass mer sich verläuft. Un die Gegner wiederhole sich so schnell, dass mer nach ner Stund jede Kreatur beim Vornamen kennt. Abwechslung is hier eher e Gerücht.
 
-Die Levels sin allerdings manchmal e bissje verwirrend, un die Gegnervielfalt hätt größer sein könne.
+Awwer: Der Comic-Stil is einzigartig un wunderschön grotesk. Des Ballern macht Spaß, die Waffe sin wuchtig un des Fähigkeitensystem bringt e bissje Tiefe. Wer Retro-Shooter mag, kriegt hier was Eigenes.
 
 ## Fazit
 
-*Forgive Me Father* is e stilvoller Retro-Shooter mit einzigartigem Look un ordentlich Lovecraft-Atmosphäre. Un am End denkt mer: Beichte is gut. Awwer e geladene Schrotflint is in so e Stadt aach net verkehrt.
+*Forgive Me Father* is e stilvoller Retro-Shooter mit großartiger Optik un eher dünnem Inhalt. Un am End weiß mer: Vergebung gibt’s im Spiel net. Nur Munition.

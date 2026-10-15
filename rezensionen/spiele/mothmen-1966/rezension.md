@@ -5,21 +5,23 @@ jahr: 2022
 genre: Visual Novel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Groschenroman-Grusel an der Tankstelle"
+fazit: "Heftroman mit Rätsel-Unterbrechung"
 ---
 
 Gude!
 
-Also, *„Mothmen 1966“* is so e Spiel, wo mer sich fühlt, als hätt mer en alte Groschenroman aus em Grabbeltisch gezoge. Un der Roman fängt plötzlich an, mit einem zu schwätze.
+Also, *„Mothmen 1966“* is so e Spiel, des sich als „Pixel Pulp“ verkauft. Was übersetzt heißt: Mer liest e Groschenroman uff em Bildschirm, der so aussieht, als hätt mer ihn auf em Commodore 64 gedruckt. Mit vier Farbe. Wenn’s hochkommt.
 
-Des Ganze is e Visual Novel im sogenannte „Pixel Pulp“-Stil. Die Grafik is grob gepixelt, mit nur wenige Farbe, wie uff em ganz alte Computer. Die Geschicht spielt im November 1966, während eines Meteorschauers, an ere abgelegene Tankstelle in West Virginia. E paar Leit verschlägt’s dorthin, un in de Nacht passiere seltsame Dinge. Sehr seltsame Dinge. Un irgendwo in de Dunkelheit flattert was Großes.
+Die Geschicht spielt an ere Tankstelle in West Virginia, 1966, während eines Meteorschauers. E paar Leit, e seltsame Nacht, un irgendwo flattert der Mottenmann. Des klingt spannend, un des is es aach. Für e Weile. Bis mer merkt, dass mer hauptsächlich Text liest. Viel Text. Sehr viel Text. Mit dramatische Ausrufezeiche!
 
-Spielerisch is des hauptsächlich Lesen, mit Entscheidunge un kleine Rätseleinlage. Wer viel Action will, is hier falsch. Wer awwer gerne gruselige Geschichte im Stil von Akte X un alte Pulp-Magazine liest, wird bestens unterhalte.
+Spielerisch passiert fast nix. Mer klickt sich durch Dialoge, trifft Entscheidunge, die sich gewichtig anfühle, un muss dann gelegentlich kleine Rätseleinlage löse, die den Lesefluss unterbreche wie e Werbepause im Krimi.
 
-Ulkig is der Erzählton: Der is so herrlich überdreht wie in de Heftromane der Fünfziger un Sechziger. Jede Seite trieft vor Dramatik, Andeutunge un Cliffhanger. Des is manchmal fast e Parodie, awwer e liebevolle.
+Der Erzählton is so überdreht wie in de alte Heftromane. Des is am Anfang charmant, nach ner Stund awwer anstrengend. Jeder Satz is Drama, jede Szene e Cliffhanger, jeder Charakter hat e düsteres Geheimnis.
 
-Lang is des Spiel net, so zwei bis drei Stunde. Un manche Rätsel unterbreche den Lesefluss eher, als dass se was beitrage.
+Un nach zwei Stunde is Schluss. Grad wenn mer sich an den Stil gewöhnt hat.
+
+Awwer: Die Optik is einzigartig un stilvoll, die Atmosphäre echt gruselig, un für Fans von Akte X un Pulp-Magazine is des e kleines Fest.
 
 ## Fazit
 
-*Mothmen 1966* is e stilvolles Gruselhäppche für Fans von Retro-Optik un Mystery-Geschichte. Un am End weiß mer: Nachts an ere einsame Tankstelle sollt mer net zu lang rumstehe. Schon gar net, wenn’s über einem flattert.
+*Mothmen 1966* is e stilvolles Retro-Lesevergnüge, des eher Buch als Spiel is. Un am End weiß mer: Der Mottenmann is gruselig. Die Rätseleinlage sin nur nervig.

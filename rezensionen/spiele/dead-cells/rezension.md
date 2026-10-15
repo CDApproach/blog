@@ -5,21 +5,21 @@ jahr: 2018
 genre: Roguelite
 bewertung: 5
 datum: 2026-10-13
-fazit: "Sterbe, lerne, wieder sterbe"
+fazit: "Sterbe, fluche, nochmal sterbe"
 ---
 
 Gude!
 
-Also, *„Dead Cells“* is so e Spiel, wo mer sich nach em Tod net ärgert, sondern sofort wieder startet. Weil mer genau weiß: Diesmal schaff ich’s weiter. Un dann stirbt mer zwei Räum später. Un startet wieder.
+Also, *„Dead Cells“* is so e Spiel, des einen besser kennt als die eigene Mudder. Es weiß ganz genau, wann mer übermütig wird. Un genau dann schickt es en Gegner, der einen in zwei Schläge auseinander nimmt. Un dann darf mer wieder von vorn anfange. Mit em grüne Glibberkopp un null Würde.
 
-Mer spielt en namenlose Gefangene, oder besser gesagt en grüne Glibberklumpe, der sich in de Körper von em kopflose Leichnam setzt. Dann geht’s los durch e Schloss voller Monster, Kanäle, Türme un Friedhöfe, des sich bei jedem Durchlauf neu zusammensetzt. Stirbt mer, beginnt mer von vorn. Awwer mit dem, was mer an Bauplänen un Upgrades freigeschaltet hat.
+Des Prinzip: Mer läuft durch e Schloss, des sich jedes Mal neu zusammensetzt. Mer stirbt. Mer fängt von vorn an. Mer stirbt woanders. Mer fängt von vorn an. Des Spiel nennt des „Fortschritt“. Mer selbst nennt’s nach der zwanzigste Rund eher „Selbstbestrafung“.
 
-Des Kampfsystem is der Star. Flott, präzise un unglaublich befriedigend. Schwerter, Bögen, Peitschen, Fallen, Granaten – jede Rund hat mer e anneres Arsenal un muss improvisiere. Mal is mer e Bogenschütze, mal e Berserker, mal stellt mer Geschütztürme uff un rennt weg. Die Animationen sin butterweich, die Pixelgrafik is wunderschön.
+Un dann der Zufall! Mal kriegt mer e Waffe, mit der mer sich fühlt wie e Gott. Mal kriegt mer e rostige Bratpfann un e Schild aus Pappmaché, un dann wünscht mer sich, mer wär gleich im Gefängnis geblieben. Wer Pech hat, verliert nach ere Stund Lauf alles, was er gesammelt hat. Un der Sammler, der einem die Zelle abknöpft, grinst dabei.
 
-Ulkig is, wie schnell mer süchtig wird. „Nur noch e Rund“ is hier e glatte Lüge, die mer sich selbst erzählt. Un der Moment, wenn mer endlich en Boss legt, an dem mer zehnmal gescheitert is – unbezahlbar.
+Die Bosse sin gemein, die Gegner schnell, un manche Fallen sieht mer erst, wenn mer schon drin steckt.
 
-Wer Frust schlecht verträgt, sollte allerdings vorsichtig sein. Des Spiel is hart, un es verzeiht wenig.
+Awwer jetzt die bittere Wahrheit: Des Kampfsystem is großartig. Flüssig, präzise, wahnsinnig befriedigend. Die Pixelgrafik is wunderschön, un des „nur noch e Rund“-Gefühl is unwiderstehlich.
 
 ## Fazit
 
-*Dead Cells* is e der beste Roguelites überhaupt: schnell, schön un dauerhaft motivierend. Un am End lernt mer: Sterbe gehört dazu. Hauptsach, mer steht wieder uff.
+*Dead Cells* is e brillantes Roguelite, des einem jeden Abend raubt un dafür nur gelegentlich Erfolg schenkt. Un am End weiß mer: Sterbe is Teil des Lernens. Aber muss es gleich so oft sein?

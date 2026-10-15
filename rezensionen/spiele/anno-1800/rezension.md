@@ -5,21 +5,21 @@ jahr: 2019
 genre: Aufbaustrategie
 bewertung: 5
 datum: 2026-10-13
-fazit: "Dampf, Docks un Produktionsketten bis zum Abwinke"
+fazit: "Excel-Tabelle mit Dampfmaschine"
 ---
 
 Gude!
 
-Also, *„Anno 1800“* is so e Spiel, wo mer am Anfang denkt: „Ei, des is ja wie früher.“ Un e paar Stunde später hockt mer vor ere Produktionskette mit sieben Stufen un fragt sich, wo genau des ganze Bier eigentlich hingeht.
+Also, *„Anno 1800“* is so e Spiel, des mer net spielt. Des managt mer. Mit Notizzettel, zweitem Bildschirm un em Wiki, weil mer sonst nie rausfindet, warum die Investoren schon wieder beleidigt sin.
 
-Mer startet im Zeitalter der Industrialisierung mit Bauern un ere kleine Insel. Daraus werde Arbeiter, Handwerker, Ingenieure un Investoren, un jeder will was anneres. Kohle, Stahl, Nähmaschinen, Fahrräder, Pelzmäntel, Champagner. Un plötzlich hat mer Fabriken, Eisenbahnen, Elektrizität un e Hafen, in dem mehr los is als am Frankfurter Flughafen.
+Die Bevölkerung entwickelt sich von Bauern über Arbeiter bis zu Investoren, un jede Stufe will mehr. Kohle, Stahl, Nähmaschinen, Fahrräder, Champagner, Pelzmäntel, Schmuck. Des is kei Gesellschaft, des is e Shoppingkanal. Un wehe, die Zigarrenproduktion in der Neuen Welt stockt – dann bricht in der Alten Welt die Zivilisation zusammen.
 
-Des Besondere: Mer spielt net nur uff einer Karte. Es gibt die Alte Welt, die Neue Welt mit Kaffee un Kautschuk, später noch Arktis un Afrika. Alles muss mit Handelsroute verbunden werde, un wenn irgendwo e Kette reißt, merkt mer’s erst, wenn die Investoren mault. Des is anspruchsvoll, awwer unglaublich befriedigend, wenn’s läuft.
+Die Produktionsketten sin so lang, dass mer manchmal vergisst, wo se angefange hawwe. Für e Pelzmantel braucht mer Pelz aus der Arktis, Nähmaschine aus Stahl aus Kohle un Eisen, un am End steht mer da un hat vergesse, dass die Bauern seit zwei Stunde kei Fisch mehr hawwe.
 
-Grafisch is des Ding e Wimmelbild deluxe. Mer kann so weit reinzoome, dass mer die Leit uff de Straß sieht, wie se zur Arbeit stiefele. Ulkig is des Ausstellungsgelände, wo mer Tiere un Fundstücke sammelt, als wär mer e Museumsdirektor mit Größenwahn.
+Un dann die DLCs! E Season Pass nach dem annern, bis des Spiel so viele Erweiterunge hat, dass der Kaufpreis an e Gebrauchtwage erinnert. Un die Menüs werde immer voller, bis mer mehr in Tabellen als in de Stadt rumhängt.
 
-Mit all de Erweiterungen is des Spiel riesig, fast schon zu riesig. Wer net uffpasst, verliert sich in Menüs un Tabellen.
+Awwer, un des muss mer anerkenne: Wenn alles läuft, wenn die Eisenbahn tuckert, die Schiffe ankomme un die Stadt brummt, dann is des pure Magie. Optisch is des e Wimmelbild, des mer stundenlang angucke kann.
 
 ## Fazit
 
-*Anno 1800* is e Aufbauspiel der Extraklasse: komplex, wunderschön un e echter Zeitfresser. Un am End weiß mer: Die Industrialisierung war anstrengend. Vor allem für den, der die Logistik plane muss.
+*Anno 1800* is e grandioses Aufbauspiel für Leute, die sich auch in de Freizeit gern mit Logistik un Beschwerden rumschlage. Un am End weiß mer: Die Industrialisierung war anstrengend. Vor allem für den, der den Champagner liefern muss.

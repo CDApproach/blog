@@ -5,23 +5,23 @@ jahr: 2023
 genre: Taktik-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "SWAT-Einsatz mit Pulsrasen"
+fazit: "SWAT-Simulator für Leute ohne Freizeit"
 ---
 
 Gude!
 
-Also, *„Ready or Not“* is so e Spiel, wo mer nach jedem Einsatz erstmal tief durchatme muss. Weil’s eins der intensivste un ernsteste Shooter is, die mer spiele kann.
+Also, *„Ready or Not“* is so e Spiel, wo mer am Ende von jedem Einsatz e Stresshormon-Level hat wie nach em Steuerbescheid. Des Spiel is so ernst, dass mer kaum zu lachen wagt. Also mache mer’s trotzdem.
 
-Mer führt e SWAT-Team in der fiktiven Stadt Los Sueños. Die Einsätze sin hart: Geiselnahme, Bombendrohunge, Drogenlabore, Amokläufe. Des Spiel zeigt die dunkle Seite der Gesellschaft ohne Beschönigung, un manche Szene sin wirklich schwer zu ertrage.
+Mer führt e SWAT-Team in Los Sueños, ner Stadt, in der offenbar jeder Bürger entweder Geiselnehmer, Drogenkoch oder Amokläufer is. Die Tourismusbehörde hat da echt Arbeit vor sich.
 
-Spielerisch geht’s um Taktik, Disziplin un Teamarbeit. Mer plant den Einsatz, wählt Ausrüstung un Eingangsstellen, un dann geht’s Raum für Raum vorwärts. Türe checke, Blendgranate werfe, Verdächtige festnehme. Wer wild rumballert, wird bestraft. Des Ziel is, möglichst alle lebend rauszubringe, aach die Täter. Am End gibt’s e Bewertung, die zeigt, wie professionell mer gearbeitet hat.
+Spielerisch geht’s um Taktik. Tür checken, Spiegel drunter, Blendgranate, rein, „Polizei! Hände hoch!“. Un dann ballert einen e Verdächtiger um, der hinter em Kühlschrank gestande hat. Mission gescheitert. Nochmal von vorn. Diesmal mit noch mehr Spiegeln.
 
-Allein mit KI-Kollege oder im Koop mit Freunde, des Spiel erfordert Kommunikation un Geduld. Ein unbedachter Schritt, un der Einsatz is gelaufe.
+Die KI-Kollege sin manchmal so hilfreich wie e Sack Kartoffeln. Mal blockiere se Türen, mal laufe se ins Feuer, mal stehe se einfach rum un gucke. Un die Verdächtigen reagiere so unberechenbar, dass mer sich manchmal fragt, ob se aus Versehen geschosse hawwe oder ob des Spiel würfelt.
 
-Ulkig is hier wenig. Höchstens die Momente, wo im Koop jemand aus Versehen e Blendgranate ins eigene Team wirft. Do wird’s dann kurz laut im Voice-Chat.
+Un die Bewertung am End! Wer e Verdächtige erschießt, statt ihn festzunehme, kriegt Abzüge. Ganz korrekt. Awwer wenn der Verdächtige vorher drei Kollege umgelegt hat, fühlt sich des e bissje streng an.
 
-Die KI-Verdächtigen reagiere manchmal unberechenbar, un des Ganze is net für jeden.
+Awwer: Die Atmosphäre is unglaublich intensiv, der Realismus beeindruckend, un im Koop mit Freunden wird des zu em echten Taktik-Erlebnis.
 
 ## Fazit
 
-*Ready or Not* is e intensiver, realistischer Taktik-Shooter, der viel abverlangt. Kein Spiel zum Abschalte, awwer e beeindruckendes Erlebnis. Un am End weiß mer: Polizeiarbeit is nix für schwache Nerven. Im Spiel schon gar net.
+*Ready or Not* is e intensiver Taktik-Shooter, der sich nie entspannt un einen nie entspannen lässt. Un am End weiß mer: Polizeiarbeit is hart. Vor allem, wenn die KI-Kollege im Weg stehe.

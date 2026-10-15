@@ -5,21 +5,23 @@ jahr: 2025
 genre: Simulation
 bewertung: 5
 datum: 2026-10-13
-fazit: "Neue Insel, neue Glibberfreunde"
+fazit: "Neue Insel, alter Schleim"
 ---
 
 Gude!
 
-Also, *„Slime Rancher 2“* is so e Spiel, wo die Beatrix LeBeau ihre Koffer packt un übers Schleimmeer zur Regenbogeninsel reist. Un dort is alles e bissje größer, bunter un geheimnisvoller als zuvor.
+Also, *„Slime Rancher 2“* is so e Spiel, des sich anfühlt wie e Umzug: Mer packt alle seine Sachen, fährt uff e neue Insel – un stellt fest, dass mer exakt des gleiche Lebbe weiterführt. Nur mit hübscherer Tapete.
 
-Die Regenbogeninsel is voller alter Ruinen, Rätsel un natürlich Schleime. Neue Arten, die mer noch net kennt, mit eigene Bedürfnisse un Eigenheite. Mer baut wieder e Ranch uff, füttert Schleime, sammelt Plorts un verkauft se. Awwer diesmal gibt’s mehr Möglichkeite, die Ranch zu gestalte un auszubaue.
+Beatrix reist zur Regenbogeninsel. Dort gibt’s neue Schleime, neue Gebiete un alte Ruinen. Un was macht mer? Schleime einsauge, füttern, Plorts sammle, verkaufe. Wie im ersten Teil. Exakt wie im ersten Teil. Mer könnt fast denke, Monomi Park hätt e Mod für den Vorgänger gebaut un en Preis dran geklebt.
 
-Spielerisch bleibt des Grundprinzip erhalte, wird awwer erweitert. Neue Werkzeuge, neue Gebiete, e Upgrade-System für die Ausrüstung un e Welt, die mer Stück für Stück entdeckt. Die Grafik is deutlich schicker geworde, mit weichem Licht un detaillierte Landschafte. Un die Schleime sin genauso knuddelig wie früher.
+Des Spiel war außerdem ewig im Early Access. Jahrelang durfte mer zahlen, um e unfertiges Spiel zu spiele, des nach un nach fertig gestellt wurde. Des is wie e Hausbau, bei dem mer schon mal Miete zahlt, obwohl des Dach fehlt.
 
-Ulkig is, wie schnell mer wieder in de alte Trott fällt. Kaum is mer uff der Insel, sammelt mer Hühner, füttert Largos un flucht über die Tarr. Als wär mer nie weg gewese.
+Un die Tarr sin immer noch da. Un immer noch nervig.
 
-Des Spiel war lang im Early Access un hat sich dort Stück für Stück entwickelt. Wer den Vorgänger kennt, wird viel Vertrautes finde, vielleicht e bissje zu viel.
+Neu sin Werkzeuge un e paar Bau-Möglichkeite für die Ranch. Des is schön, awwer kein Grund, die Welt neu zu erfinden.
+
+Awwer: Die Grafik is deutlich hübscher, die Insel liebevoll gestaltet, un die neue Schleime sin genauso knuddelig wie die alten. Wer den ersten Teil geliebt hat, wird sich wieder pudelwohl fühle.
 
 ## Fazit
 
-*Slime Rancher 2* is e liebevolle Fortsetzung, die alles größer un schöner macht. Un am End weiß mer: Mer kann nie genug Schleime hawwe. Höchstens zu wenig Hühner.
+*Slime Rancher 2* is e schönere Version des Vorgängers, die sich wenig traut. Un am End weiß mer: Never change a running Schleim. Hat Monomi Park sich aach gedacht.

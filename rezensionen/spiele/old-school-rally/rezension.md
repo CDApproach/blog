@@ -5,21 +5,21 @@ jahr: 2025
 genre: Rennspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Schotter, Staub un Neunziger-Charme"
+fazit: "Schotterpiste mit Nostalgiebrille"
 ---
 
 Gude!
 
-Also, *„Old School Rally“* is so e Spiel, wo mer sich zurückversetzt fühlt in die Zeit, als Rallye-Spiele noch kantige Polygone hatten un mer stundenlang vorm Röhrenfernseher gehockt hat. Nur dass des Ganze heut deutlich runder läuft.
+Also, *„Old School Rally“* is so e Spiel, des genau des verkauft, was der Name verspricht: Old School. Also wenig Inhalt, kantige Grafik un e Fahrgefühl, des einen daran erinnert, warum mer damals so oft im Graben gelandet is.
 
-Der Name sagt eigentlich schon alles: Des is e Rallye-Spiel im Retro-Stil. Mer fährt mit klassische Rallyeautos über Schotter, Asphalt, Schnee un Matsch, Etappe für Etappe gege die Uhr. Die Optik erinnert an die Spiele der späte Neunziger, mit einfache Texturen un kräftige Farbe, awwer mit moderner Beleuchtung un flüssiger Darstellung.
+Mer fährt Rallye-Etappen gege die Uhr. Schotter, Asphalt, Schnee, Matsch. Des is des Konzept. Mehr gibt’s im Grunde net. Kei aufwendige Karriere, kei Hunderte Autos, kein Drama. Wer moderne Rallyespiele kennt, fragt sich nach ner Stund, ob des schon alles war. Antwort: Ja, ziemlich.
 
-Des Fahrgefühl is erstaunlich ernsthaft. Die Autos rutsche, springe un schlingern, un mer muss die Kurven richtig anfahre, sonst landet mer im Graben. Kein reines Arcade-Gebolze, sondern e Mischung aus Spaß un Anspruch. Genau wie früher.
+Die Retro-Optik is Absicht, schon klar. Awwer manchmal sieht mer vor lauter Pixelnebel die nächste Kurve net. Un dann klebt mer am Baum, der uff einmal aus dem Nichts aufgetaucht is. Des is authentische Neunziger-Erfahrung. Leider aach im negative Sinne.
 
-Ulkig is, wie sehr mer sich in die Nostalgie reinziehe lässt. Mer erwischt sich dabei, wie mer die Kamera so einstellt wie damals un innerlich die Ansage vom Beifahrer mitspricht: „Links drei, lang, über Kuppe.“
+Un des Fahrgefühl is so anspruchsvoll, dass Anfänger öfter im Graben stehe als uff der Strecke. Des Auto rutscht, springt un schlingert, un mer muss jede Kurve perfekt erwischen. Sonst Neustart.
 
-Wer e riesiges Karrieresystem un hunderte Autos erwartet, wird hier allerdings net glücklich. Des is eher e fokussiertes Spiel für Liebhaber.
+Awwer: Wenn mer sich drauf einlässt, macht des richtig Laune. Die Autos fühle sich lebendig an, die Atmosphäre trifft genau des Nostalgie-Gefühl, un für Liebhaber is des e schöne Zeitreise.
 
 ## Fazit
 
-*Old School Rally* is e charmanter Retro-Rallyespaß für alle, die die alte Zeite vermisse. Un am End weiß mer: Früher war net alles besser. Awwer die Rallyespiele ware schon ziemlich gut.
+*Old School Rally* is e charmanter, aber dünner Retro-Rallyespaß für Leute, die ihre Jugend vermissen. Un am End weiß mer: Früher war net alles besser. Nur die Bäume am Straßenrand ware genauso gemein.

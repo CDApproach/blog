@@ -5,23 +5,23 @@ jahr: 1989
 genre: Jump ’n’ Run
 bewertung: 5
 datum: 2026-10-13
-fazit: "Mario in Miniatur, Spaß im Großformat"
+fazit: "Mini-Mario im Gameboy-Nebel"
 ---
 
 Gude!
 
-Also, *„Super Mario Land“* is so e Spiel, des für viele die erste Begegnung mit em Game Boy war. Un wer’s damals gespielt hat, hat bis heut die Musik im Kopp.
+Also, *„Super Mario Land“* is so e Spiel, wo der Mario so klein is, dass mer ihn uff em alte Game-Boy-Bildschirm suchen muss wie e Kontaktlinse im Teppich. Un wenn mer ihn gefunde hat, is er schon in e Loch gefallen.
 
-Diesmal rettet Mario net die Prinzessin Peach, sondern die Prinzessin Daisy. Die wurde von em Außerirdische namens Tatanga entführt, der des Sarasaland erobert hat. Also hüpft Mario durch vier Welten, inspiriert von Ägypte, em Unterwasserreich, der Osterinsel un China, um sie zu befreie.
+Mario rettet diesmal net Peach, sondern Daisy. Die wurde von em Außerirdische namens Tatanga entführt. Warum Mario sich plötzlich für ne völlig fremde Prinzessin interessiert, erklärt des Spiel nicht. Wahrscheinlich hat Peach grad keine Zeit gehabt.
 
-Spielerisch is des e kleines, kompaktes Jump ’n’ Run. Mer springt uff Gegner, sammelt Münze un Power-ups. Statt Feuerbälle gibt’s e Superball, der von Wänden abprallt un Gegner un Münze einsammelt. Un es gibt sogar Level, in dene Mario e U-Boot oder e Flugzeug steuert un des Spiel zum Shooter wird. Des war damals e echte Überraschung.
+Die Gegner sin seltsam. Ägyptische Sphinxe, Moai-Köpfe von der Osterinsel, hüpfende Spinne. Des wirkt, als hätt Nintendo die Mario-Welt kurzfristig an e Subunternehmer abgegebe. Un statt Feuerbälle gibt’s en Superball, der von Wände abprallt un dabei alles trifft, außer dem, was mer treffen will.
 
-Die Grafik is klein, die Figuren winzig, awwer alles is erstaunlich gut erkennbar. Für e Spiel von 1989 is des technisch beeindruckend.
+Un dann is des Spiel vorbei. Nach ner knappe Stund. Vier Welten, je drei Level, fertig. Für e Mario-Spiel is des eher e Snack als e Mahlzeit.
 
-Ulkig sin die Gegner: Die wirke manchmal fast wie Fremde im Mario-Universum, mit Moai-Köpfe, hüpfende Sphinxe un Insekte. Des macht des Spiel sympathisch eigen.
+Un die Physik! Mario rutscht un hüpft, als wär er uff Seife unterwegs. Präzision is was anneres.
 
-Mit ere knappe Stund is mer durch. Awwer des Spiel lädt zum mehrmalige Spiele ein.
+Awwer: Für 1989 war des e Sensation. Die U-Boot- un Flugzeug-Level sin witzige Ideen, die Musik is e Ohrwurm, un des Spiel hat den Game Boy mit groß gemacht.
 
 ## Fazit
 
-*Super Mario Land* is e kleiner, charmanter Klassiker, der Mario uff de Game Boy gebracht hat. Un am End weiß mer: Mario braucht kein riesige Fernseher. E kleiner grüner Bildschirm reicht völlig.
+*Super Mario Land* is e kurzes, seltsames, aber charmantes Stück Videospielgeschicht. Un am End weiß mer: Daisy war die Mühe wert. Glaabt mer zumindest.

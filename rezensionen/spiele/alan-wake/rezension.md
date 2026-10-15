@@ -5,21 +5,21 @@ jahr: 2010
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Taschenlamp an, Verstand aus"
+fazit: "Taschenlampensimulator mit Schreibblockade"
 ---
 
 Gude!
 
-Also, *„Alan Wake“* von Remedy is so e Spiel, wo mer abends lieber net allein im Wald spazieren geht. Un wo mer danach jede Taschenlamp im Haus uff Batteriestand prüft.
+Also, *„Alan Wake“* is so e Spiel, wo e Schriftsteller mit Schreibblockade in en Wald geht. Un dann sechs Episode lang im selbe Wald bleibt. Weil dem Spiel offenbar aach nix anneres eingefallen is.
 
-Der Alan Wake is e Bestsellerautor mit Schreibblockade, der mit seiner Fraa Alice Urlaub in Bright Falls macht. Idyllisches Kaff, See, Berge, Holzfällercharme. Un dann is die Alice weg, un der Alan findet Seite von em Manuskript, an das er sich gar net erinnern kann. Un was do drin steht, des passiert dann aach. Gruselig.
+Der Alan sucht sei Fraa Alice, die im Urlaubskaff Bright Falls verschwunde is. Un er findet Manuskriptseite, die er net geschriebe hat. Wie praktisch. Die verrate nämlich, was als Nächstes passiert. Spannung? Ei, die liegt ja schon uff em Weg rum, mer muss se nur uffhebe.
 
-Des Besondere is des Kampfsystem: Die Gegner, die „Besessenen“, sin von Dunkelheit umhüllt. Erst muss mer se mit de Taschenlamp anleuchte, bis der Schatten weg is, un dann erst hilft de Revolver. Licht is hier Waffe, Schutz un Rettungsring in einem. Leuchtfackel, Blendgranate, Straßenlaterne – alles, was hell is, is dein Freund.
+Des Kampfsystem geht so: Taschenlamp druff, bis der Schatten weg is, dann schieße. Dann den nächste anleuchte. Dann den übernächste. Dann Batterie wechsle. Dann wieder Wald. Nach drei Stunde hat mer des Prinzip verstanden, nach zehn Stunde wünscht mer sich, die Besessene würde einfach mal bei Tag angreife, damit mer wenigstens was sieht.
 
-Erzählt wird des Ganze wie e TV-Serie, mit Episoden un „Was bisher geschah“-Rückblicke. Des passt richtig gut, weil mer immer noch „nur noch e Episod“ spiele will. Ulkig is der Barry, Alans Agent, der in seiner Weihnachtslichterkett-Rüstung durch de Wald stolpert un dumme Sprüch klopft. Der lockert die düstere Stimmung angenehm uff.
+Un der Alan selbst! E Mann, der jeden Satz klingen lässt wie die Einleitung von em Groschenroman. Ständig erzählt er uns, was mer grad sowieso sieht. „Es war dunkel.“ Jo, Alan. Danke.
 
-Klar, mit der Zeit wiederholt sich des Kämpfe e bissje: Wald, Dunkelheit, Gegner, Taschenlamp. Un noch e Wald. Awwer die Atmosphäre trägt des Spiel locker drüber.
+Awwer jetzt mal ehrlich: Die Atmosphäre is klasse. Der Nebel, der Wind, die TV-Serien-Struktur mit „Was bisher geschah“ – des is stark gemacht. Un der Barry in seiner Lichterkett-Rüstung is des Beste am ganze Spiel. Der hätt sei eigenes Spiel verdient. Mit weniger Wald.
 
 ## Fazit
 
-*Alan Wake* is e atmosphärischer Psychothriller zum Mitspiele, irgendwo zwische Stephen King un Twin Peaks. Net perfekt, awwer unvergesslich. Un am End weiß mer: Wer schreibt, der bleibt – awwer manchmal wär e Schreibblockade gar net so schlecht.
+*Alan Wake* is e atmosphärisch dichter Thriller, der leider vergisst, dass mer net zehn Stunde lang des Gleiche mache will. Un am End weiß mer: Der Alan hat kei Schreibblockade. Der hat e Ideenblockade.

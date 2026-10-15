@@ -5,21 +5,21 @@ jahr: 2002
 genre: Action-Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Androiden, Cell un Kindheitserinnerunge"
+fazit: "Grinden bis die Haare blond werde"
 ---
 
 Gude!
 
-Also, *„Dragon Ball Z: The Legacy of Goku II“* is so e Spiel, wo mer sich sofort wieder zwölf Jahre alt fühlt. Game Boy Advance in de Hand, Bettdecke über em Kopp, un nur noch schnell e Level uffsteige, bevor die Mudder des Licht ausmacht.
+Also, *„The Legacy of Goku II“* is so e Spiel, des hauptsächlich deshalb gelobt wird, weil der erste Teil so schlecht war. Des is wie wenn mer nach em verbrannte Schnitzel e lauwarmes kriegt un ruft: „Ei, e Wunder!“
 
-Des Spiel deckt die Androiden- un Cell-Saga ab. Mer spielt net nur Goku, sondern aach Gohan, Piccolo, Vegeta un Trunks, un jeder hat seine eigene Attacke un Stärke. Mer fliegt über die Karte, kloppt sich mit Gegnern, sammelt Erfahrungspunkte, erledigt Nebenquests für die Dorfbewohner un arbeitet sich Stück für Stück zu Cell vor.
+Mer spielt Gohan, Piccolo, Vegeta, Trunks un Goku durch die Androiden- un Cell-Saga. Des heißt in der Praxis: Mer fliegt über die Kart, haut Gegner, sammelt Erfahrungspunkte, haut Gegner, sammelt Erfahrungspunkte. Un dann kommt e Gegner, der zu stark is, un mer muss noch mehr Gegner haue. Grinden, bis der Daumen glüht. Ganz wie im Anime, wo e Kampf aach zwölf Folge dauert.
 
-Im Vergleich zum ersten Teil, der eher… sagen mer mal: „ausbaufähig“ war, is des hier e riesiger Sprung. Die Kämpfe sin flotter, die Welt größer, un es gibt richtig was zu entdecke. Für e Handheld-Spiel von 2002 is des erstaunlich umfangreich. Die Pixel-Grafik is liebevoll, die Charaktere erkennt mer sofort.
+Die Nebenquests sin feinste Botengänge: „Bring mir des.“ „Such mir den.“ „Hol mei Katz vom Baum.“ Mer is e Super-Saiyajin, der die Welt rette soll, un trotzdem muss mer erst für irgendwelche Dorfbewohner Pilze sammle.
 
-Ulkig is, wie viel Zeit mer damit verbringt, Gegner zu verhaue, nur damit de Gohan endlich stark genug für den nächste Abschnitt is. Grinden wie im Anime, wo sich e Kampf ja aach über zehn Folge zieht.
+Die Kämpfe sin simpel: Schlag, Energieball, Schlag, Energieball. Taktik is optional, Geduld is Pflicht.
 
-Klar, nach heutige Maßstäb is des Ganze e bissje simpel un repetitiv. Awwer mit Nostalgiebrille funktioniert’s hervorragend.
+Awwer: Für e GBA-Spiel von 2002 is des erstaunlich umfangreich, die Pixel-Grafik is liebevoll, un wenn mer endlich gege Cell antritt, kribbelt’s doch im Bauch. Für Fans e schönes Stück Nostalgie.
 
 ## Fazit
 
-*The Legacy of Goku II* is eins der besten Dragon-Ball-Spiele uff em GBA. Simpel, awwer motivierend, un voller Fanservice. Un am End brüllt mer innerlich „Kamehameha!“, aach wenn mer eigentlich nur e Knöppche gedrückt hat.
+*The Legacy of Goku II* is e solides Fanprodukt, des vor allem dank geringer Erwartunge glänzt. Un am End weiß mer: Kamehameha klingt cool. Grinden leider net.

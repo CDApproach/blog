@@ -5,21 +5,21 @@ jahr: 2016
 genre: Erzählspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Funkgerät, Wald un leise Melancholie"
+fazit: "Walkie-Talkie-Flirt im Wald, Ende im Nebel"
 ---
 
 Gude!
 
-Also, *„Firewatch“* is so e Spiel, wo mer sich wünscht, mal e Summer lang im Feuerwachturm zu hocke. Nur mit Wald, Himmel un em Funkgerät. Un dann merkt mer: So einfach is des aach net.
+Also, *„Firewatch“* is so e Spiel, wo mer stundenlang durch en Wald läuft un mit ere Fraa am Funkgerät flirtet, die mer nie zu Gesicht kriegt. Des is wie Online-Dating, nur mit mehr Bäume un weniger Profilbilder.
 
-Mer spielt den Henry, der im Summer 1989 en Job als Feuerwache im Shoshone National Forest in Wyoming annimmt. Er will Abstand von seim Lebbe, von Problemen, die er net bewältige kann. Sei einzige Kontakt is die Delilah, sei Vorgesetzte, mit der er übers Funkgerät schwätzt. Un aus de Gespräche wird nach un nach e besondere Beziehung.
+Der Henry flieht vor seinem Lebbe un nimmt en Job als Feuerwache in Wyoming an. Seine Gesprächspartnerin is die Delilah, sei Chefin übers Funkgerät. Die zwei frotzeln sich an, schwätze über Gott un die Welt, un mer denkt: Des wird e großartige Geschicht. Dann passiere seltsame Dinge im Wald, Spannung baut sich uff, alles läuft uff e großes Finale zu…
 
-Spielerisch läuft mer durch die Natur, orientiert sich mit Kart un Kompass, sammelt Hinweise un entscheidet, was mer übers Funkgerät sagt. Des is e Walking Simulator, awwer e verdammt guter. Die Dialoge sin glänzend geschriebe, witzig, flapsig un manchmal ganz still un traurig. Un irgendwann merkt mer, dass im Wald was net stimmt.
+Un dann kommt des Ende. Un des is so antiklimaktisch, dass mer dreimal nachguckt, ob mer was verpasst hat. Ohne zu viel zu verrate: Wer en großen Knall erwartet, kriegt e leises „Ach so“.
 
-Ulkig sin die Wortgefechte zwische Henry un Delilah. Die zwei frotzeln sich an wie alte Freunde, un mer lacht oft laut mit. Gleichzeitig spürt mer immer die Einsamkeit dahinter.
+Spielerisch läuft mer. Viel. Mit Kart un Kompass. Un dann läuft mer zurück. Un dann wieder hin. Des is e Wanderurlaub, bei dem mer die Hälfte der Zeit nach em Weg sucht.
 
-Die Optik is wunderschön, mit Sonnenuntergänge in Orange un Lila, wie e gemaltes Poster. Mit vier bis fünf Stunde is des Spiel kurz, awwer intensiv.
+Awwer: Die Dialoge zwische Henry un Delilah sin brillant geschriebe, witzig un menschlich. Die Optik mit den orange-lila Sonnenuntergäng is atemberaubend. Un die Stimmung is wunderschön melancholisch.
 
 ## Fazit
 
-*Firewatch* is e berührende Geschicht über Flucht, Einsamkeit un Nähe über Distanz. Un am End weiß mer: Mer kann vor viel weglaufe. Nur net vor sich selbst. Aach net bis nach Wyoming.
+*Firewatch* is e wunderschön geschriebenes Spiel mit em Ende, des sich anfühlt wie e Witz ohne Pointe. Un am End weiß mer: Im Wald gibt’s viele Geheimnisse. Die meiste davon sin enttäuschend.

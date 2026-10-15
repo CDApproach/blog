@@ -5,23 +5,23 @@ jahr: 2021
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Spielbarer Animationsfilm mit Knuddelbegleitern"
+fazit: "Pixar-Optik, Hütchen-Simulator, Bossprügel"
 ---
 
 Gude!
 
-Also, *„Kena: Bridge of Spirits“* is so e Spiel, wo mer beim erste Blick denkt: „Ei, is des jetzt e Spiel oder e Animationsfilm?“ Un die Antwort is: beides. Un zwar e richtig schöner.
+Also, *„Kena: Bridge of Spirits“* is so e Spiel, des aussieht wie e Pixar-Film. Un sich spielt wie e Zelda-Klon, der zu viel Kaffee getrunke hat.
 
-Gemacht hat des Ember Lab, e Studio, des vorher Animationsfilme un Werbespots gemacht hat. Un des sieht mer. Mer spielt die Kena, e junge Geisterführerin, die verlorene Seelen ins Jenseits begleitet. Sie kommt in e verlassenes Dorf am Fuß von em Berg, wo e Fluch uff dem Land liegt. Die Natur is verdorbe, un unruhige Geister finde kei Frieden.
+Mer spielt die Kena, e Geisterführerin, die verlorene Seelen ins Jenseits bringt. Die Geschicht dreht sich um traurige Geister mit traurige Schicksale, die traurig im Wald rumstehe. Des is ehrlich gesagt so vorhersehbar, dass mer nach dem zweite Geist schon weiß, wie der dritte endet. Spoiler: traurig, dann erlöst.
 
-Unterstützt wird Kena von de Rott: kleine, schwarze, flauschige Wesen mit große Auge. Die folge ihr überall hin, helfe bei Rätsel, im Kampf un beim Heile der Natur. Un mer kann ihne sogar Hütchen uffsetze. Des is so niedlich, dass mer’s kaum aushält.
+Die Rott sin der eigentliche Star: kleine, schwarze, flauschige Wesen, die einem überall hin folge. Un mer kann ihne Hütche uffsetze! Des is so niedlich, dass mer mehr Zeit damit verbringt, Hüte zu suche, als Seelen zu rette. Prioritäte, gell.
 
-Spielerisch is des e Action-Adventure im Stil von Zelda: Erkunde, Rätsel löse, Gegner bekämpfe. Mer kämpft mit Stab, Bogen un Schutzschild, un die Kämpfe sin überraschend knackig. Besonders die Bosse fordern Konzentration.
+Un dann die Kämpfe. Die sin für e Spiel, des so knuddelig aussieht, überraschend brutal. Die Bosse haue einen im Akkord um, ausweiche muss perfekt sitze, un mer stirbt öfter, als es zu dene süße Hütchen passt. Des is wie Teletubbies mit Dark-Souls-Einlage.
 
-Ulkig is, wie viel Zeit mer damit verbringt, die Rott einzusammle un ihne neue Hüte zu suche. Die Geschicht wird dabei glatt zur Nebensach.
+Die Welt is außerdem eher linear, un des Rätseldesign wiederholt sich: Rott schicken, Stein schieben, weiter.
 
-Die Geschicht is schön, awwer e bissje vorhersehbar. Un die Welt is eher linear als offen.
+Awwer: Die Optik is atemberaubend schön, die Animationen erstklassig, un die Musik is herrlich. Des is e beeindruckendes Debüt für e kleines Studio.
 
 ## Fazit
 
-*Kena: Bridge of Spirits* is e wunderschönes Abenteuer mit viel Herz, knuffige Begleiter un fordernden Kämpfen. Un am End weiß mer: Mer braucht im Lebbe Freunde. Am beste kleine flauschige mit Hütche.
+*Kena* is e wunderschönes Abenteuer mit vorhersehbarer Geschicht un unerwartet harten Bossen. Un am End weiß mer: Die Seelen sin egal. Hauptsach, die Rott hawwe schicke Hütche.

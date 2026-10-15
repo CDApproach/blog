@@ -5,21 +5,21 @@ jahr: 2021
 genre: Interaktive Erzählung
 bewertung: 5
 datum: 2026-10-13
-fazit: "Lovecraft zum Durchklicke, kostenlos un unheimlich"
+fazit: "Hörbuch mit WASD-Steuerung"
 ---
 
 Gude!
 
-Also, *„Dagon“* is so e Spiel, wo mer eigentlich gar net viel spielt. Mer guckt, hört zu un gruselt sich. Un des is in dem Fall genau richtig.
+Also, *„Dagon“* is so e „Spiel“, des die Anführungszeiche wirklich verdient hat. Mer läuft e paar Meter, klickt uff e Flasch, un dann liest einem jemand Lovecraft vor. Des is kein Spiel, des is e Hörbuch, bei dem mer die Seite selbst umblättern darf.
 
-Des Ganze is e kostenlose interaktive Umsetzung von der gleichnamige Kurzgeschicht von H. P. Lovecraft. Erzählt wird von em Mann, der nach em Schiffbruch allein uff em Meer treibt un plötzlich uff ere riesige Fläch aus schwarzem Schlamm strandet, die aus de Tiefe aufgestiege is. Un was er dort entdeckt, lässt ihn nimmer los. Mehr verrat ich net, die Geschicht is eh kurz.
+Die Geschicht stammt von H. P. Lovecraft: E Mann treibt nach em Schiffbruch uff em Meer, landet uff schwarzem Schlamm, sieht was Großes un wird wahnsinnig. Des is e klassische Kurzgeschicht. Un des Spiel macht genau des: Es erzählt die Kurzgeschicht. Mit Bildern. Un sehr, sehr wenig dazwischen.
 
-Mer bewegt sich durch e paar Schauplätz, guckt sich Gegenstände an, löst kleine Erinnerunge aus, un e Sprecher liest dazu Lovecrafts Text vor. Die Atmosphäre is dicht: Nebel, Wasser, Fels, un e Gefühl, dass do draußen was Riesiges lauert. Spielerisch is des sehr reduziert, eher e Hörspiel mit Bildern als e echtes Spiel.
+Interaktion? Mer kann sich umgucke. Un Gegenstände anklicke, die dann e Erinnerung auslöse. Des war’s. Kein Rätsel, kei Gefahr, kei Entscheidung. Der Erzähler is der eigentliche Hauptdarsteller, mer selbst is quasi nur der Kerl, der des Licht anmacht.
 
-Ulkig is, wie mer bei so wenig Interaktion trotzdem Gänsehaut kriegt. Die Musik un die Stimme mache die halbe Miete. Un wer Lovecraft noch nie gelesen hat, kriegt hier e wunderbar unaufdringliche Einführung.
+Un nach ere knappe Stund is Schluss. Was ehrlich gesagt aach reicht, weil mer langsam merkt, dass mer des Ganze aach mit geschlossene Auge hätt genieße könne.
 
-Nach ere knappe Stund is mer durch. Für lau is des awwer völlig in Ordnung.
+Awwer: Es kostet nix, die Atmosphäre is stark, der Sprecher macht en tolle Job, un als Einstieg in Lovecraft funktioniert des wunderbar. Wer gern Hörspiele hört, wird hier gut bedient.
 
 ## Fazit
 
-*Dagon* is e kleines, atmosphärisches Gruselhäppche für Lovecraft-Fans un Neugierige. Kei Spiel zum Zocke, sondern zum Eintauche. Un am End guckt mer des nächste Mal am Badesee e bissje misstrauischer ins Wasser.
+*Dagon* is e stimmungsvolle Lesung im Spielgewand, die sich besser als Hörbuch verkaufe würd. Un am End weiß mer: Des Grauen aus der Tiefe is unheimlich. Noch unheimlicher is, dass des als Spiel durchgeht.

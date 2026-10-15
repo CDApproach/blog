@@ -5,23 +5,23 @@ jahr: 2018
 genre: Jump ’n’ Run
 bewertung: 5
 datum: 2026-10-13
-fazit: "Der kleine Drache brennt wieder"
+fazit: "Edelsteinzwang in drei Teilen"
 ---
 
 Gude!
 
-Also, *„Spyro Reignited Trilogy“* is so e Spiel, wo mer sofort wieder Kind is. Vor dem Fernseher, mit der PlayStation, un em kleine lila Drache, der durch bunte Welten flitzt.
+Also, *„Spyro Reignited Trilogy“* is so e Spiel, des die Kindheit zurückbringt. Inklusive der Kamera, die schon 1998 betrunke war un sich bis heut net davon erholt hat.
 
-Die Trilogie enthält die drei ursprünglichen Spyro-Spiele von der PlayStation, komplett neu gemacht: Spyro the Dragon, Spyro 2: Ripto’s Rage un Spyro: Year of the Dragon. Mer spielt den kleine Drache Spyro, der mit seinem Libellenkumpel Sparx durch die Welt zieht, gefangene Drache befreit, Edelsteine sammelt un Bösewichte verjagt.
+Mer spielt Spyro, den kleine lila Drache, un sammelt Edelsteine. Un dann noch mehr Edelsteine. Un dann befreit mer Drache. Un dann sammelt mer Edelsteine. Die ganze Trilogie dreht sich um Sammle. Wer kein Sammelzwang hat, kriegt einen. Wer schon einen hat, verliert sein Lebbe.
 
-Des Spielprinzip is herrlich simpel: Feuer speie, mit em Kopp rammen, gleite. Mehr braucht’s net. Die Welten sin offen gestaltet, voller Geheimnisse un Sammelobjekte. Mer kann sich Zeit lasse, alles erkunden un jeden einzelne Edelstein finde.
+Un die Flugeinlage! Die sin so frustrierend, dass ganze Generationen davon traumatisiert sin. Durch Ringe fliege, Ziele zerstöre, unter Zeitdruck. Un wenn mer den letzte Ring knapp verpasst, darf mer alles nochmal mache. Wer die Flugstufe in Spyro 1 ohne Fluche geschafft hat, sollte heiliggesproche werde.
 
-Die Grafik is komplett neu, knallbunt un voller Details. Die Figuren hawwe mehr Persönlichkeit, die Welten wirke lebendiger. Un der Soundtrack von Stewart Copeland, dem Schlagzeuger von The Police, wurde neu arrangiert. Mer kann aber aach die Originalversion auswähle.
+Un die Steuerung beim Gleite fühlt sich an, als hätt Spyro zu viel gegesse. Präzision? Glückssache.
 
-Ulkig is, wie viel Charme in den ganze Figure steckt. Die Drache, die mer befreit, hawwe alle e eigene Persönlichkeit un sage was Lustiges oder Weises. Un die Schafe… na ja, die werde halt gegrillt.
+Die drei Spiele sin außerdem sehr ähnlich. Wer den erste Teil gespielt hat, kennt im Grunde schon die anderen zwei. Mit mehr Minispiele.
 
-Die Kamera spinnt manchmal e bissje, un des Fliege kann frustrierend sein.
+Awwer: Des Remake is wunderschön. Die Figure hawwe Persönlichkeit, die Welten sin knallbunt, un des Ganze is so charmant, dass mer gern über die Macken hinwegsieht. Die Original-Musik kann mer auch einschalte. Nostalgie pur.
 
 ## Fazit
 
-*Spyro Reignited Trilogy* is e liebevolles Remake, des Nostalgie un moderne Optik perfekt verbindet. Un am End weiß mer: Mit em kleine Drache kann mer die Welt rette. Un nebenbei jede Menge Edelsteine scheffle.
+*Spyro Reignited Trilogy* is e liebevolles Remake mit nervige Flugeinlage un ner Kamera aus de Hölle. Un am End weiß mer: Edelsteine machen glücklich. Kameras net.

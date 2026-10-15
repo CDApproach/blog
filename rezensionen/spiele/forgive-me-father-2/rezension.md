@@ -5,21 +5,21 @@ jahr: 2024
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Mehr Wahnsinn, mehr Waffe, mehr Tentakel"
+fazit: "Mehr Tentakel, gleiche Probleme"
 ---
 
 Gude!
 
-Also, *„Forgive Me Father 2“* is so e Spiel, wo der Priester zurückkommt. Un er is net gerade entspannter geworde. Im Gegenteil: Diesmal geht’s direkt in die tiefste Albträume, um den eigene Verstand zu rette.
+Also, *„Forgive Me Father 2“* is so e Spiel, wo der Priester zurückkommt. Un er hat offenbar nix gelernt. Wieder Wahnsinn, wieder Monster, wieder e Lovecraft-Albtraum. Der Mann bräucht dringend e Therapie. Un e Urlaub. Am beste beides gleichzeitig.
 
-Die Geschicht knüpft an den ersten Teil an, un wieder befindet mer sich in ere Welt, die von Lovecraft’schem Grauen zerfresse wird. Kulte, Kreaturen, verzerrte Orte – des volle Programm. Die Comic-Optik is geblieben, awwer alles wirkt e bissje runder, detaillierter un ausgefeilter.
+Die Geschicht schickt einen tief in die Albträume, um den eigene Verstand zu heile. Klingt tiefsinnig, is awwer im Wesentlichen e Ausrede für noch mehr Monster in noch seltsamere Levels. Die Erzählung bleibt dabei so dünn wie e Hostie.
 
-Spielerisch hat Byte Barrel ordentlich nachgelegt. Es gibt mehr Waffen, die mer verbessern kann, neue Fähigkeite un Kräfte, un die Levels sin abwechslungsreicher gestaltet. Der Wahnsinn spielt wieder e große Rolle: Je mehr mer kämpft, desto mächtiger wird mer, awwer aach desto verrückter. Des sorgt für schöne Adrenalinmomente, wenn mer im Wahnrausch durch e Grupp Gegner pflügt.
+Spielerisch hat sich einiges verbessert: Mehr Waffen, mehr Fähigkeite, mehr Abwechslung bei de Levels. Des is erfreulich. Awwer die alten Probleme sin aach mit umgezoge: Die Orientierung is oft e Glücksspiel, die Gegner flute einen manchmal so chaotisch, dass mer nur noch wild um sich ballert, un die Bossfight sin eher mittelprächtig.
 
-Ulkig is, wie kreativ die Gegnerdesigns sin. Manche sehe aus, als hätt jemand e Albtraum gezeichnet un danach noch zwei Tentakel drangeklebt. Grotesk, awwer irgendwie liebevoll.
+Un der Wahnsinn! Je mehr mer kämpft, desto mächtiger un verrückter wird mer. Nach zwei Teile Dauerwahnsinn fragt mer sich langsam, ob des Spiel net eher e Warnung vor exzessivem Videospielkonsum is.
 
-Kritikpunkt: Manchmal wird’s sehr hektisch un unübersichtlich. Un wer schon den erste Teil zu düster fand, wird hier net glücklicher.
+Awwer zugegeben: Der Comic-Look is noch besser geworde, die Gegnerdesigns sin wunderbar grotesk, un des Ballern fühlt sich richtig gut an. Wer den ersten Teil mochte, wird hier ordentlich bedient.
 
 ## Fazit
 
-*Forgive Me Father 2* is e gelungene Fortsetzung: größer, abwechslungsreicher un noch wahnsinniger. Un am End weiß mer: Der Priester braucht dringend Urlaub. Am beste irgendwo, wo’s kei Meer un kei Tentakel gibt.
+*Forgive Me Father 2* is e größere, schickere Fortsetzung, die die alten Schwächen brav mitgenomme hat. Un am End weiß mer: Der Priester braucht net Vergebung. Der braucht Baldrian.

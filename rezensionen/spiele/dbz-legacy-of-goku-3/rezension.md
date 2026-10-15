@@ -5,21 +5,21 @@ jahr: 2004
 genre: Action-Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Rosa Kaugummimonster, große Prügelei"
+fazit: "Rosa Kaugummi, zäh wie Kaugummi"
 ---
 
 Gude!
 
-Also, *„Dragon Ball Z: Buu’s Fury“* is so e Spiel, wo mer merkt: Die Macher hawwe aus de Vorgänger gelernt. Es is quasi der dritte Teil der Legacy-of-Goku-Reihe, un es bringt die Buu-Saga uff de Game Boy Advance.
+Also, *„Buu’s Fury“* is so e Spiel, des sich so zieht wie der Bösewicht selbst. Majin Buu is e rosa Kaugummimonster, un passend dazu kaut mer sich durch Stunde von Missione, die sich anfühle wie die vom Vorgänger. Nur in rosa.
 
-Mer spielt Goku, Gohan, Vegeta un Co. un erlebt die Geschicht rund um Majin Buu, des rosa Kaugummimonster mit em Temperament von em Kleinkind un der Kraft von em Weltuntergang. Dazu gibt’s Abstecher ins Jenseits, Turniere, Fusionen un all die absurd-großartigen Momente, die die Buu-Saga ausmache.
+Die Buu-Saga is im Anime schon e wilder Ritt: Fusione, Jenseitsturniere, Süßigkeitenverwandlunge. Des Spiel versucht, des alles abzubilde, un landet dabei bei: Gegner haue, Level uffsteige, Gegner haue. Die großen Momente werde in kleine Textboxe erzählt, die mer schneller wegklickt, als Goku „Hallo“ sage kann.
 
-Spielerisch baut des Spiel uff Legacy of Goku II uff: Action-Kämpfe, Erfahrungspunkte, Nebenaufgabe. Neu sin Ausrüstungschips, mit dene mer die Kämpfer verbessern kann, un e etwas ausgefeilteres Kampfsystem. Die Welt is groß, die Pixel-Grafik schick, un es gibt jede Menge Fanservice für alle, die die Serie geliebt hawwe.
+Neu sin Ausrüstungschips. Die sammelt mer un steckt se in die Kämpfer, damit die stärker werde. Des klingt nach Tiefe, is awwer eher e Zahlenschieberei, bei der mer irgendwann einfach die mit de größte Zahl nimmt.
 
-Ulkig is, wie ernst des Spiel die völlig verrückte Geschicht nimmt. Buu verwandelt Leit in Süßigkeite, un mer denkt: „Jo, logisch.“ Dragon Ball halt.
+Un die Botengänge sin wieder da! Als Super-Saiyajin Stufe drei e Kiste für e Dorfbewohner suche – des is die wahre Demütigung in diesem Spiel.
 
-Kritikpunkt: Die Missione wiederhole sich, un manche Abschnitte zieh’n sich wie Kaugummi. Passend zum Bösewicht, aber trotzdem e bissje zäh.
+Awwer fairerweise: Des Spiel is größer un runder als der Vorgänger, die Grafik is schick für e GBA, un die Fanservice-Dichte is hoch. Wer Dragon Ball liebt, kommt uff seine Kosten.
 
 ## Fazit
 
-*Buu’s Fury* is e würdiger Abschluss der GBA-Trilogie: größer, runder un mit viel Liebe zur Vorlage. Un am End weiß mer: Gege Majin Buu hilft nur rohe Gewalt. Oder e ordentliche Portion Schokolade.
+*Buu’s Fury* is e ordentliches Fanspiel mit viel Inhalt un wenig Abwechslung. Un am End weiß mer: Gegen Buu hilft Gewalt. Gege Langeweile hilft nur, des Spiel auszuschalte.

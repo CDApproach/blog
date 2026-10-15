@@ -5,21 +5,21 @@ jahr: 2022
 genre: Team-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Helden, Teamplay un Tränen im Voice-Chat"
+fazit: "Des „2“ war hauptsächlich für den Shop"
 ---
 
 Gude!
 
-Also, *„Overwatch 2“* is so e Spiel, wo mer abends sagt: „Nur noch e Match.“ Un dann verliert mer, weil kei Mensch im Team uff die Fahne geht. Un dann sagt mer wieder: „Nur noch e Match.“
+Also, *„Overwatch 2“* is so e Spiel, des eigentlich Overwatch 1 mit em neue Shop is. Blizzard hat des Original abgeschaltet, e „2“ drangeklebt un des Ganze dann als Fortsetzung verkauft. Mit dem großen Versprechen: Story-Modus! PvE! Heldenmissione! Un dann wurde des wieder gestriche. Herzlichen Glückwunsch.
 
-Overwatch is e Team-Shooter mit ere bunte Truppe an Helden, jeder mit eigene Fähigkeite un Rolle: Tank, Schaden un Support. Mer spielt in Teams gegeneinander, schiebt Fracht, erobert Punkte oder verteidigt Ziele. Des Besondere: Kein Held is wie der annere. Mal fliegt mer mit em Raketenrucksack, mal heilt mer mit em Engelsflügel, mal baut mer Geschütztürme.
+Was bleibt, is e Team-Shooter, in dem mer mit Fremde zusammenspielt, die alle der Meinung sin, dass sie am beste spiele un alle annere schuld sin. Der Voice-Chat is e Mischung aus Kriegsrat un Kindergarten. Un die Matchmaking-Logik is e Mysterium, des selbst Blizzard net versteht.
 
-Mit dem „2“ wurd des Spiel kostenlos, die Teams wurde auf fünf gegen fünf verkleinert un neue Helden kamen dazu. Später wurde aach wieder Sechs-gege-Sechs-Modi ergänzt. Des Spielgefühl is schnell, bunt un taktisch, un wenn e Team zusammenarbeitet, is des eins der beste Gefühle im Online-Gaming.
+Dann der Shop! Skins für Preise, für die mer früher e komplettes Spiel gekriegt hat. Dazu e Battle Pass, der neue Helden zeitweise hinter Fortschritt versteckt hat. Kostenlos spielbar, ja. Kostenlos glücklich werde, eher net.
 
-Ulkig is der Voice-Chat. Do lernt mer Leit kennen, die ganz genau wisse, warum mer verlore hat. Un des is immer jemand annerst schuld.
+Un dann die Balance-Änderunge: Jede Saison is e anderer Held übermächtig, un wer sei Lieblingsheld spielt, wird entweder vergöttert oder verflucht.
 
-Kritikpunkte gibt’s aach: Des Bezahlmodell mit Battle Pass un teure Skins, un e Story-Modus, der lang versproche un dann eher klein ausgefalle is.
+Awwer – un des is des Gemeine: Des Spiel macht immer noch Spaß. Die Helden sin kreativ, des Gunplay is erstklassig, un wenn e Team mal zusammenspielt, is des eins der beste Gefühle im Online-Gaming.
 
 ## Fazit
 
-*Overwatch 2* is e spaßiger, bunter Team-Shooter, der vom Zusammenspiel lebt. Un am End weiß mer: Der Support is immer schuld. Sagt zumindest der Tank.
+*Overwatch 2* is e großartiger Team-Shooter mit em Geschäftsmodell aus der Hölle. Un am End weiß mer: Der Support is schuld. Oder der Shop. Eher der Shop.

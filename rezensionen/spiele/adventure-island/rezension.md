@@ -5,23 +5,21 @@ jahr: 1992
 genre: Jump ’n’ Run
 bewertung: 5
 datum: 2026-10-13
-fazit: "Steinaxt, Skateboard un ständig Hunger"
+fazit: "Master Higgins verhungert alle fünf Sekunde"
 ---
 
 Gude!
 
-Also, *„Adventure Island“* uff em Game Boy is so e Spiel, wo mer sich als Kind ständig gefragt hat, warum der Typ eigentlich dauernd Obst esse muss. Antwort: Sonst kippt er um. Ernsthaft.
+Also, *„Adventure Island“* uff em Game Boy is so e Spiel, wo der Held ständig am Verhungern is. Master Higgins hat e Energieleiste, die permanent sinkt, un wenn er net alle paar Sekunde Obst futtert, kippt er tot um. Des is kei Held, des is e Teenager im Wachstumsschub.
 
-Mer spielt den Master Higgins, en Inselbewohner mit Baseballkapp un Baströckche. Sei Freundin wurde entführt, un er muss se rette. Also rennt er durch verschiedene Inseln, über Strände, durch Dschungel, Höhle un Vulkane, um sie zu befreie.
+Der Master Higgins is außerdem e Mann mit Baseballkapp un Baströckche, der mit Steinäxte wirft. Modisch is des e Katastrophe. Un sei Freundin wurde entführt. Wieder mal e Jump ’n’ Run mit Entführung. Die Achtziger un Neunziger hatte echt wenig Fantasie bei de Geschichte.
 
-Spielerisch is des e klassisches Jump ’n’ Run mit em ungewöhnliche Twist: Master Higgins hat e Energieleiste, die ständig sinkt. Um zu überlebe, muss er Obst sammle, des überall rumliegt. Wer zu lange trödelt, verhungert. Des sorgt für Zeitdruck un e flottes Tempo.
+Un dann die Level! E kleiner Stein am Bode, un Higgins stolpert. E Schnecke, un Higgins stirbt. E falsch platzierter Sprung, un Higgins fällt ins Wasser. Des Spiel is so gemein, dass mer manchmal vermutet, die Entwickler hätte e persönliches Problem mit Higgins.
 
-Als Waffe wirft Master Higgins Steinäxte, un mit em Skateboard kann er durch die Levels sause. Dazu gibt’s Dinosaurier, uff dene er reite kann, jeder mit eigene Fähigkeite. Des is herrlich bunt un abwechslungsreich.
+Un wenn mer stirbt, verliert mer alle Power-ups. Un muss an em Checkpoint weit hinten weitermache. Ohne Waffe. Ohne Skateboard. Mit Hunger.
 
-Ulkig is, wie gemein manche Level designt sin. E kleiner Stein uff em Bode, un schon stolpert Master Higgins. Un wenn mer Pech hat, landet er direkt in em Abgrund.
-
-Des Spiel is ganz schön schwer, un des Hungersystem kann nerve. Awwer genau des macht den Reiz aus.
+Awwer: Die Dinosaurier zum Reiten sin großartig, des Skateboard macht Laune, die Grafik is für en Game Boy charmant un des Tempo flott. Wer Herausforderung liebt, wird hier glücklich. Oder zumindest beschäftigt.
 
 ## Fazit
 
-*Adventure Island* is e charmanter, fordernder Retro-Plattformer mit tropischem Flair. Un am End weiß mer: Obst is gesund. Vor allem, wenn mer sonst vom Bildschirm kippt.
+*Adventure Island* is e charmant gemeines Retro-Jump-’n’-Run, des einen schneller umbringt als der Hunger. Un am End weiß mer: Obst is lebenswichtig. Vor allem, wenn mer Master Higgins heißt.

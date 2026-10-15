@@ -5,21 +5,23 @@ jahr: 2011
 genre: Rätselspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Wheatley, Gel un GLaDOS in Hochform"
+fazit: "Zitrone, Gel un Potato-GLaDOS"
 ---
 
 Gude!
 
-Also, *„Portal 2“* is so e Spiel, wo Valve des Unmögliche geschafft hat: Den genialen erste Teil noch zu übertreffe. Un zwar in jeder Hinsicht.
+Also, *„Portal 2“* is so e Spiel, an dem mer eigentlich nix aussetzen kann. Des is des Ärgerliche dran. Awwer wir versuche’s trotzdem.
 
-Chell wacht nach langer Zeit wieder uff. Aperture Science is verfallen, überwuchert un kaputt. Ein kleiner Roboterkern namens Wheatley will ihr helfe, zu fliehe. Doch dabei wecke die zwei versehentlich GLaDOS wieder uff. Un die is gar net begeistert. Was folgt, is e Abenteuer tief in die Geschichte von Aperture, bis in die fünfziger Jahre zurück.
+Chell wacht nach unendlich langem Schlaf auf, un Aperture is kaputt. Wheatley, e Roboterkern mit dem Hirn von em Goldfisch un dem Selbstbewusstsein von em Fußballtrainer, will ihr helfe. Dabei wecke die zwei GLaDOS auf. Die is sauer. Un dann wird GLaDOS in e Kartoffel gesteckt. Ja. Wirklich. E Kartoffel. Des is die Art Handlung, die mer nur nach drei Bier für e gute Idee hält.
 
-Die Rätsel sin wieder grandios. Neben de Portale gibt’s jetzt Gel, des mer springe lässt, beschleunigt oder Portale uff jede Fläch ermöglicht, dazu Lichtbrücke, Laser un Traktorstrahle. Die Kombinationsmöglichkeite sin riesig, un es macht immer wieder Klick im Kopp.
+Die Gel-Rätsel sin genial, awwer manchmal so verschachtelt, dass mer zehn Minute guckt, bis mer merkt, dass die Lösung grad vor einem liegt. Un dann fühlt mer sich dumm. Des Spiel lässt einen gern dumm fühlen. Mit Absicht.
 
-Ulkig is des Spiel ohne Ende. Wheatley is e liebenswerter Trottel, GLaDOS is bissiger als je zuvor, un dazu kommt noch Cave Johnson, der Firmengründer, der in alte Tonbandaufnahmen die absurdeste Ideen verkündet. „Wenn dir des Leben Zitrone gibt…“ – den Monolog kennt jeder Fan.
+Un dann gibt’s lange Abschnitte, in dene mer durch verfallene Hallen läuft un Cave Johnson zuhört, wie er in alte Tonbänder brüllt. Brillant geschriebe, keine Frage. Awwer manchmal will mer einfach weiterspiele, während Cave noch über Zitrone philosophiert.
 
-Un es gibt e eigene Koop-Kampagne mit den Robotern Atlas un P-Body, in der mer gemeinsam Rätsel löst. Perfekt für en Abend mit Freunden.
+Un Chell sagt wieder kein einziges Wort. Zwei Spiele lang. Respekt.
+
+Awwer: Des is e der beste Spiele aller Zeite. Witzig, clever, perfekt inszeniert, mit em großartige Koop-Modus. Wer des net gespielt hat, hat was verpasst. Punkt.
 
 ## Fazit
 
-*Portal 2* is eins der beste Spiele aller Zeite: witzig, clever un perfekt durchdacht. Un am End weiß mer: Zitrone sin gefährlich. Zumindest, wenn mer se Cave Johnson gibt.
+*Portal 2* is e Meisterwerk, über des mer höchstens ironisch meckern kann. Un am End weiß mer: Wenn dir des Lebbe Zitrone gibt, mach Portal 3 draus. Bitte, Valve.

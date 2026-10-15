@@ -5,21 +5,21 @@ jahr: 2019
 genre: Action-Plattformer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Ein Schlag, ein Treffer, kein Erbarme"
+fazit: "Ein Treffer, ein Neustart, ein Wutanfall"
 ---
 
 Gude!
 
-Also, *„Katana Zero“* is so e Spiel, wo jeder Treffer tödlich is. Für die Gegner. Awwer aach für einen selbst. Ein Fehler, un mer fängt den Raum von vorn an. Un trotzdem will mer gar net uffhöre.
+Also, *„Katana Zero“* is so e Spiel, wo mer von einem einzige Treffer stirbt. Jeder Treffer. Immer. Un dann darf mer den Raum nochmal mache. Un nochmal. Un nochmal. Bis mer entweder den perfekte Weg gefunde hat oder den Controller durchs Fenster wirft.
 
-Mer spielt en Auftragsmörder mit Katana, der für e geheimnisvolle Organisation arbeitet. Zwische den Einsätze sitzt er beim Psychiater, kriegt e Droge verabreicht un neue Ziele. Die Droge lässt ihn die Zeit verlangsame un in die Zukunft blicke. Un nach un nach merkt mer: Hier stimmt was gewaltig net.
+Mer spielt en Samurai-Auftragsmörder, der beim Psychiater Drogen kriegt un dann Leute umbringt. Die Geschicht is so verworren, dass mer am End net weiß, was echt war un was e Drogentrip. Un dann hört des Spiel einfach uff. Mitten drin. Mit em offene Ende, des so offen is, dass mer durchs Loch fallen könnt. E Fortsetzung wurde versproche. Lange versproche.
 
-Spielerisch is des e rasanter 2D-Actionplattformer. Jeder Raum is e kleines Rätsel: Wie komm ich da durch, ohne getroffe zu werde? Mer kann Kugeln mit em Schwert zurückschlage, Gegenstände werfe, Türen eintrete un die Zeit verlangsame. Un wenn mer’s geschafft hat, sieht mer e Wiederholung vom perfekte Lauf. Des fühlt sich an wie e Actionfilm, bei dem mer selbst Regie geführt hat.
+Spielerisch is des Trial and Error. Mer stürmt rein, stirbt, lernt, stürmt rein, stirbt, lernt. Die Zeitlupe hilft, awwer nur bis zu em gewisse Punkt. Manche Räume sin so gemein, dass mer sich fragt, ob die Entwickler Spaß an fremdem Leid hawwe.
 
-Ulkig is des Dialogsystem: Mer kann Leute unterbreche, bevor se ausgeredet hawwe. Des führt zu herrlich unhöfliche Momente. Un manchmal zu ganz annere Wendunge.
+Un des Dialogsystem, bei dem mer Leute unterbreche kann? Witzig. Awwer meistens unterbricht mer se nur, weil mer endlich weiter töten will. Des sagt mehr über einen selbst aus, als einem lieb is.
 
-Die Geschicht is verworren, düster un endet offen. Des muss mer möge.
+Awwer: Des Spiel is unfassbar stylisch. Die Wiederholung vom perfekte Lauf fühlt sich an wie e Actionfilm, die Neo-Noir-Optik is grandios un der Synthwave-Soundtrack is e Brett.
 
 ## Fazit
 
-*Katana Zero* is e stylisches, brutales un erzählerisch mutiges Actionspiel. Un am End weiß mer: Mit em Schwert gege Pistole antrete is eigentlich e schlechte Idee. Außer mer kann die Zeit anhalte.
+*Katana Zero* is e brillantes, brutales Actionspiel mit em Ende, des eher e Fragezeiche als e Punkt is. Un am End weiß mer: Mit em Schwert gege Pistole is e schlechte Idee. Außer mer hat Zeitlupe. Un sehr viel Geduld.

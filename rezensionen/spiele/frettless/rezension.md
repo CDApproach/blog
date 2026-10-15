@@ -5,21 +5,21 @@ jahr: 2025
 genre: Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Rundenkampf mit Gitarrensolo"
+fazit: "Rockstar-Fantasie mit Rundenkampf-Routine"
 ---
 
 Gude!
 
-Also, *„Fretless – The Wrath of Riffson“* is so e Spiel, wo mer net mit Schwert un Schild kämpft, sondern mit Gitarre un Riffs. Un wer schon immer mal en Bösewicht mit em Solo umhaue wollt, is hier genau richtig.
+Also, *„Fretless – The Wrath of Riffson“* is so e Spiel, des sich für unglaublich lässig hält. Gitarre statt Schwert, Riffs statt Zauber, e Bösewicht namens Rick Riffson. Ei, die Wortspiele schreibe sich ja quasi von selbst. Leider hawwe die Entwickler des aach getan.
 
-Die Welt is voller Musik, un der fiese Rick Riffson un seine Schläger wolle sie ruiniere. Mit musikalische Hybridmonster un ordentlich Krawall. Also zieht mer los, um des Land zu rette. Mit legendären Instrumenten, neuen Riffs un viel Herz für Musik.
+Die Welt wird von Riffson un seine musikalische Monster bedroht, un mer zieht los, um die Musik zu rette. Klingt nach Rockkonzert, spielt sich awwer eher wie e Probe im Jugendzentrum: Viel Energie, awwer net jede Note sitzt.
 
-Spielerisch is des e rundenbasiertes RPG, wo die Angriffe musikalisch funktioniere. Mer sammelt Riffattacke un muss se im Kampf geschickt kombiniere. Des is e frische Idee, die des klassische Rundenkampfsystem schön uffpeppt. Dazu gibt’s Erkundung, Nebenfigure un e Welt, die in knallbunte Pixeloptik gehalten is.
+Des Kampfsystem is rundenbasiert. Mer sammelt Riffattacke un kombiniert se. Des is anfangs frisch un witzig, nach e paar Stunde awwer e bissje wie e Lied, des mer zu oft gehört hat. Die Kämpfe ähneln sich, die Gegner aach, un manche Abläufe ziehe sich wie e Gitarrensolo, des einfach net uffhöre will.
 
-Ulkig sin die ganzen Musikanspielunge. Wer sich e bissje mit Rock un Gitarre auskennt, entdeckt überall kleine Gags un Wortspiele. Un die Gegner sin so schräg designt, dass mer sich fragt, welches Instrument do wohl Pate gestanne hat.
+Un die Musik-Witze! Für Gitarriste un Rockfans e paar Mal lustig. Danach fragt mer sich, ob noch was kommt, außer em nächste Wortspiel uff „Riff“.
 
-Net jeder Kampf is spannend, un manchmal wiederhole sich die Abläuf. Awwer der Charme trägt des Spiel gut über solche Schwächen.
+Awwer fair is fair: Die Idee is originell, die Pixelgrafik is knallig un charmant, un die Liebe zur Musik spürt mer in jedem Winkel. Für e Indie-Spiel steckt da viel Herzblut drin.
 
 ## Fazit
 
-*Fretless* is e charmantes Indie-RPG mit originellem Musikkampfsystem un viel Liebe zum Detail. Un am End weiß mer: E gutes Riff is stärker als jedes Schwert. Zumindest, wenn mer’s richtig stimmt.
+*Fretless* is e charmantes RPG mit cooler Grundidee, des sich nach ner Weile anhört wie e Platte mit Sprung. Un am End weiß mer: E gutes Riff is toll. Zwanzig gleiche Riffs sin e Kopfschmerz.

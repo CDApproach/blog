@@ -5,21 +5,21 @@ jahr: 2002
 genre: Action-Adventure
 bewertung: 5
 datum: 2026-10-13
-fazit: "Achtziger, Neonlicht un Hawaiihemd"
+fazit: "Hawaiihemd, Kokain un Hubschrauber-Albträume"
 ---
 
 Gude!
 
-Also, *„GTA: Vice City“* is so e Spiel, wo mer sofort Lust kriegt, sich e Hawaiihemd anzuziehe un mit em Sportwage am Strand entlangzufahre. Un dabei „Billie Jean“ im Radio laut zu dreh’n.
+Also, *„GTA: Vice City“* is so e Spiel, des beweist: Mit dem richtige Soundtrack kann mer fast alles verkaufe. Achtziger-Musik an, Sonnenuntergang dazu, un plötzlich fühlt mer sich wie in Miami Vice. Auch wenn mer grad e Rentner mit em Golfschläger verdrischt.
 
-Mer spielt den Tommy Vercetti, der nach fünfzehn Jahre Knast von seiner Mafiafamilie nach Vice City geschickt wird. Dort soll er en Drogendeal abwickle, awwer der geht schief, des Geld is weg, un Tommy muss rausfinde, wer dahintersteckt. Un nebenbei baut er sich sei eigenes Imperium uff.
+Mer spielt Tommy Vercetti, der nach fünfzehn Jahre Knast nach Vice City geschickt wird. Gleich sein erster Drogendeal geht schief, un dann muss er sich halt e Imperium uffbaue. Wie mer des so macht. Tommy hat dabei des Charisma von em wütenden Türsteher, awwer immerhin schicke Hemden.
 
-Vice City is e liebevolle Parodie uff des Miami der Achtziger. Pastellfarbe, Palme, Neonlicht, Sonnenuntergäng, Yachte un Drogenbarone. Des Ganze fühlt sich an wie e Mischung aus Scarface un Miami Vice. Un des Radio! Die Musik der Achtziger, dazu schräge Talkshows un Werbespots. Allein dafür lohnt sich des Spiel.
+Un dann die Missione! Die berüchtigte Modellhubschrauber-Mission, bei der mer Bomben in e Baustelle bringe muss, mit ere Steuerung, die sich anfühlt wie e Fernbedienung mit leerer Batterie. Ganze Controller sin an dieser Mission zerbroche. Un Lance Vance, der ständig rumjammert, macht die Sach aach net besser.
 
-Ulkig sin die Nebenfiguren, allen voran der nervöse Anwalt Ken Rosenberg un Lance Vance mit seinem Hang zum Drama. Die Dialoge sin pointiert, die Missione abwechslungsreich, un es gibt Motorräder, Hubschrauber un Boote.
+Die Steuerung zu Fuß is hölzern, des Zielen e Glücksspiel, un die Autos fahre sich, als hätt mer Seife uff de Reife.
 
-Heut fühlt sich vieles e bissje steif an, un manche Missione sin bockschwer. Awwer die Atmosphäre is bis heut unerreicht.
+Awwer: Die Atmosphäre is unschlagbar. Die Pastellfarbe, des Neonlicht, die Achtziger-Musik, die Radiosender mit ihren absurden Talkshows – des is pure Kultur. Un Ken Rosenberg is e der beste Nebenfigure, die GTA je hatte.
 
 ## Fazit
 
-*GTA: Vice City* is e stilvoller Klassiker voller Achtziger-Feeling un unvergesslicher Momente. Un am End weiß mer: Mit em Hawaiihemd sieht jeder aus wie e Gangster. Zumindest in Vice City.
+*GTA: Vice City* is e stilvoller Achtziger-Traum mit Missione, die aus em Albtraum stamme. Un am End weiß mer: Des Hawaiihemd steht jedem. Die Modellhubschrauber-Mission steht niemandem.

@@ -5,21 +5,21 @@ jahr: 2024
 genre: Detektivspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Ententrübsinn trifft Wurstkrimi"
+fazit: "Watergate mit Wurstbrot"
 ---
 
 Gude!
 
-Also, *„Duck Detective: The Secret Salami“* is so e Spiel, wo mer sich am Anfang fragt: „E Ente als Detektiv? Echt jetzt?“ Un e Stund später sitzt mer da un grübelt mit dem gefiederte Ermittler über die Frage, wer denn nun die Salami uff em Gewisse hat.
+Also, *„Duck Detective: The Secret Salami“* is so e Spiel, wo e depressiver Erpel en Kriminalfall löst. Un der Kriminalfall is… e Salami. Kei Mord, kei Raub, kei Verschwörung. E Wurst. Sherlock Holmes würd sich im Grab umdrehe. Oder Hunger kriege.
 
-Mer spielt den Eugene McQuacklin, en Detektiv, der schon bessere Zeite gesehe hat. Geschieden, pleite, e bissje schwermütig – e klassischer Noir-Ermittler. Nur halt mit Schnabel. Un sein neuer Fall is net etwa e Mord, sondern e eher harmloses Verbrechen rund um e Salami. Des macht die Sach awwer net weniger spannend.
+Der Eugene McQuacklin is geschieden, pleite un hat e Lebenseinstellung wie e Novembernachmittag in Kassel. Er watschelt durch die Gegend, guckt Leute schräg an un murmelt in sei Notizbuch. Un mer klickt halt mit.
 
-Des Herzstück is des Deduktionssystem. Mer untersucht Leit un Gegenstände, sammelt Begriffe un setzt die dann in Lückentexte ein. „Der Täter hat ___ mit ___ gemacht, weil ___.“ Stimmt die Lösung, gibt’s e zufriedenes Klick. Stimmt se net, muss mer nochmal nachdenke. Des is clever, weil mer wirklich selbst kombiniere muss, statt nur alles anzuklicke.
+Des Herzstück sind Lückentexte. Ja, richtig gelesen. Wie in de Grundschul. „Der Verdächtige hat ___ gemacht, weil ___.“ Mer zieht Wörter in Kästche, un wenn’s stimmt, gibt’s e Klick. Wenn net, probiert mer halt alles durch, bis es klickt. Detektivarbeit mit Multiple Choice.
 
-Ulkig is der ganze Ton: Die Tierfigure sin herrlich schräg, die Dialoge voller Wortwitz, un der Eugene kommentiert alles mit em trockene Selbstmitleid, des einfach Laune macht.
+Un nach zwei, drei Stunde is der Fall gelöst. Grad wenn mer anfängt, sich an den Erpel zu gewöhne, steht der Abspann da. Des is net e Spiel, des is e Appetithäppche. Passend zum Thema.
 
-Mit zwei bis drei Stunde is des Spiel kurz. Awwer es is genau richtig für en gemütliche Abend.
+Awwer: Die Dialoge sin wirklich witzig, die Tierfigure herrlich schräg, un des Lückentext-System is cleverer, als es klingt, weil mer tatsächlich nachdenke muss. Des Spiel hat Charme bis in die Schwanzfedern.
 
 ## Fazit
 
-*Duck Detective* is e kleiner, charmanter Krimi mit cleverem Rätselsystem un viel Herz. Un am End weiß mer: Selbst e Ente kann e großer Detektiv sein. Hauptsach, sie hat den richtige Riecher. Oder den richtige Schnabel.
+*Duck Detective* is e charmanter Mini-Krimi mit em lächerliche Fall un em gut gemachten Rätselsystem. Un am End weiß mer: Selbst e Ente kann e Fall löse. Solang es um Aufschnitt geht.

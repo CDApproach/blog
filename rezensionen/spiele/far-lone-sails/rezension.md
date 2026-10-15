@@ -5,21 +5,21 @@ jahr: 2018
 genre: Abenteuer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Einsam übers trockene Meer"
+fazit: "Drei Stunde Heizer uff Rädern"
 ---
 
 Gude!
 
-Also, *„FAR: Lone Sails“* is so e Spiel, wo mer mit em riesige Fahrzeug durch e ausgetrocknete Meereslandschaft rollt. Ganz allein. Un es is trotzdem nie langweilig.
+Also, *„FAR: Lone Sails“* is so e Spiel, wo mer mit em riesige Gefährt durch e ausgetrocknete Meereslandschaft fährt. Un dabei hauptsächlich damit beschäftigt is, Müll in den Ofen zu schmeiße. Wer schon mal e Kaminofe bedient hat, kennt des Gefühl.
 
-Mer spielt e kleine Figur in rotem Mantel, die in em seltsame Gefährt unterwegs is, halb Lokomotive, halb Segelschiff. Warum die Welt so aussieht, wie se aussieht, mit verlassene Dörfer, Schiffswracks un leere Häfen, erzählt des Spiel nie direkt. Mer muss sich des selbst zusammenreime. Un genau des macht den Reiz aus.
+Mer spielt e kleine Figur in rotem Mantel. Wer des is? Keine Ahnung. Warum se unterwegs is? Keine Ahnung. Was mit der Welt passiert is? Keine Ahnung. Des Spiel erzählt nix, gar nix, null. Mer muss sich alles selbst zusammenreime. Des is entweder genial oder faul, je nachdem, wie gut mer gelaunt is.
 
-Des Fahrzeug is der eigentliche Star. Mer muss es mit Brennstoff füttern, den mer unterwegs findet, Dampf ablassen, Knöpp drücke, Segel setze, wenn der Wind passt, un Feuer lösche, wenn mal wieder was kaputt geht. Draußen gibt’s kleine Rätsel, um Schranken zu öffne oder Brücke runterzulasse. Des Ganze is simpel, awwer sehr stimmig.
+Spielerisch: Mer füttert des Fahrzeug mit Brennstoff, drückt Knöpp, setzt Segel, löscht Brände, steigt aus, löst e Rätsel mit em Schalter, steigt wieder ein. Un des wiederholt sich. Drei Stunde lang. Dann is Schluss.
 
-Ulkig is, wie mer sich irgendwann ans eigene Gefährt bindet. Mer flickt’s, mer upgradet’s, un wenn es mal stottert, wird mer ganz unruhig. Wie bei em alte Auto, des mer net hergebe will.
+Un wenn der Motor mal ausgeht, weil mer net genug Kisten in den Ofen gestopft hat, steht mer mitten in der Einöde un rennt rum wie e Hamster, der sein Rad verloren hat.
 
-Lang is des Spiel net, so drei bis vier Stunde. Awwer die sin voller Atmosphäre, mit em wundervolle Soundtrack.
+Awwer: Die Stimmung is großartig. Die Musik setzt genau an der richtige Stelle ein, die Landschafte sin melancholisch-schön, un des Fahrzeug wächst einem tatsächlich ans Herz. Des is Atmosphäre pur.
 
 ## Fazit
 
-*FAR: Lone Sails* is e kurzes, intensives Abenteuer über Einsamkeit un Durchhalte. Ohne Worte, awwer mit viel Gefühl. Un am End is mer froh, dass mer daheim e Auto hat, des einfach mit Benzin fährt.
+*FAR: Lone Sails* is e kurzes, stimmungsvolles Abenteuer für Leute, die gern Heizer spiele. Un am End weiß mer: E Auto mit Holzofen is romantisch. Bis mer an die Tankstelle denkt.

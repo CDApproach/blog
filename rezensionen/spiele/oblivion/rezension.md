@@ -5,21 +5,21 @@ jahr: 2006
 genre: Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Kartoffelgesichter un Höllentore"
+fazit: "Kartoffelgesichter, Schlammkrabbe un Banditen in Glasrüstung"
 ---
 
 Gude!
 
-Also, *„Oblivion“* is so e Spiel, wo mer sich erinnert, wie mer zum erste Mal aus der Kanalisation gekrabbelt is. Un dann die Welt gesehe hat. Un dann stundenlang einfach nur durch Cyrodiil gelaufe is.
+Also, *„Oblivion“* is so e Spiel, des beweist, dass mer in 2006 dachte, Gesichter müsse aussehe wie zerdrückte Kartoffeln. Jeder Bewohner von Cyrodiil sieht aus, als hätt er seit drei Wochen nicht geschlafe. Un alle hawwe die gleiche Stimme.
 
-Die Geschicht beginnt im Kerker. Der Kaiser, gespielt bzw. gesproche von Patrick Stewart, flieht durch e Geheimgang durch unsere Zelle. Kurz drauf wird er ermordet, un mer erbt quasi e Weltrettungsauftrag. Überall öffne sich Tore nach Oblivion, eine Höllendimension voller Daedra. Un mer muss den verschollene Thronerbe finde, um des Ganze zu stoppe.
+Die Geschicht: Der Kaiser stirbt, weil er ausgerechnet durch unsere Gefängniszelle fliehen muss, un mer soll die Welt vor Oblivion-Toren rette. Die sin awwer alle gleich: Rote Landschaft, Turm hochlaufe, Stein klaue, raus. Nach dem fünfte Tor hat mer mehr Hölle gesehe, als gut is. Nach dem zehnte will mer selbst Daedra werde, nur damit’s aufhört.
 
-Awwer ehrlich: Die Hauptquest macht kaum einer zuerst. Viel spannender sin die Gilden. Die Diebesgilde, die Magiergilde, die Kämpfergilde un vor allem die Dunkle Bruderschaft, deren Questreihe zu den beste in de Spielegeschichte gehört. Dazu kommt die Erweiterung „Shivering Isles“, die so verrückt is, dass mer nur staune kann.
+Un dann die Levelskalierung! Die Gegner werde mit einem stärker. Heißt: Am Anfang läuft mer vor Ratten weg, un am Ende trägt jeder Straßenbandit e Glasrüstung, die mehr kostet als e Burg. Des is so logisch wie e Geldautomat, der Gold ausspuckt.
 
-Ulkig sin die Bewohner. Die hawwe Kartoffelgesichter, rede mit em Bürger übers Wetter, wechseln mitten im Satz die Stimme un erzähle einem, dass se en Schlammkrabbe gesehe hawwe. Des is unfreiwillig komisch un heut Kult.
+Die Gespräche sin legendär schlecht: E Bewohner erzählt dem anneren, er hätt e Schlammkrabbe gesehe. Der annere antwortet: „Gute Nacht.“ Hochliteratur.
 
-Die Levelskalierung is allerdings e Ärgernis: Die Gegner werde mit einem stärker, un irgendwann trage selbst Banditen Glasrüstung.
+Awwer: Die Gildenquests sin grandios, allen voran die Dunkle Bruderschaft. Die Welt is riesig, voller Geheimnisse, un „Shivering Isles“ is e der verrücktesten Erweiterunge aller Zeite. Des Spiel hat e ganze Generation geprägt.
 
 ## Fazit
 
-*Oblivion* is e Meilenstein der Rollenspiele, mit unvergessliche Quests un ganz viel Charme. Un am End weiß mer: Der Weg is des Ziel. Vor allem, wenn mer unterwegs von ere Schlammkrabbe angegriffe wird.
+*Oblivion* is e legendäres Rollenspiel mit lächerliche Gesichter un genialen Quests. Un am End weiß mer: Die Schlammkrabbe sin gefährlicher als jedes Oblivion-Tor.

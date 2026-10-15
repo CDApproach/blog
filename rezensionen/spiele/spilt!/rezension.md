@@ -5,23 +5,23 @@ jahr: 2025
 genre: Simulation
 bewertung: 5
 datum: 2026-10-13
-fazit: "Meer putze mit em kleine Boot"
+fazit: "Müll aufsammeln, aber mit Wohlfühlmusik"
 ---
 
 Gude!
 
-Also, *„Spilled!“* is so e Spiel, wo mer nix anneres macht, als des Meer sauber zu mache. Un des is erstaunlich entspannend.
+Also, *„Spilled!“* is so e Spiel, des einen dafür bezahle lässt, Müll einzusammle. Im echte Lebbe nennt mer des „Ehrenamt beim Dorfputz“. Hier nennt mer’s „entspannendes Indie-Spiel“.
 
-Mer fährt mit em kleine Boot übers Wasser un sammelt Müll ein: Plastikflasche, Tüte, Dosen, alles, was so rumschwimmt. Den Müll bringt mer zur Recyclingstation, kriegt dafür Münze, un mit dene verbessert mer sein Boot. Größerer Laderaum, stärkerer Motor, bessere Werkzeuge. Un dann geht’s weiter in neue Gebiete, wo noch mehr Dreck wartet.
+Mer fährt mit em kleine Boot übers Meer un fischt Plastikflasche, Tüte un Dosen raus. Dann fährt mer zur Recyclingstation, kriegt Geld, kauft e besseres Boot un fischt mehr Müll raus. Un dann noch mehr Müll. Un dann Öl. Un dann noch mehr Müll. Des is des Spiel. Komplett.
 
-Später kommen aach Ölteppiche dazu, die mer mit spezielle Ausrüstung beseitige muss. Un grad des is unglaublich befriedigend, wenn sich des Wasser hinter einem wieder klar un blau färbt. Wie beim Hochdruckreiniger, nur uffm Meer.
+Kei Geschicht, kei Figuren, kei Überraschunge. Nur Müll. Un e Boot. Un e entspannte Musik, die einem sagt, dass des alles total schön is.
 
-Die Optik is schlicht, awwer hübsch, mit weiche Farbe un e entspannte Atmosphäre. Musik plätschert im Hintergrund, un mer kann einfach abschalte.
+Un des Ganze is nach e paar Stunde vorbei. Was ehrlich gesagt e Glück is, weil mer sonst irgendwann anfange würd, die eigene Wohnung uffzuräume, nur um mal was annerst sauber zu mache.
 
-Ulkig is, wie schnell mer zum Ordnungsfanatiker wird. Da treibt noch e einzelne Flasch irgendwo am Rand, un mer kann einfach net weiterfahre, bevor die weg is.
+Un die eine Flasche, die irgendwo am Rand treibt un die mer einfach net erwischt! Die bringt einen an den Rand des Wahnsinns. Wer en Ordnungszwang hat, sollt hier vorsichtig sein.
 
-Des Spiel is kurz, e paar Stunde, un es gibt kei große Geschicht. Awwer des is aach net der Sinn.
+Awwer: Des Spiel is ehrlich, was es is. Es is entspannend, hat e schöne Botschaft, die Optik is hübsch, un die Ölteppiche zu beseitige is tatsächlich befriedigend.
 
 ## Fazit
 
-*Spilled!* is e kleines, entspannendes Spiel für zwischendurch, mit ere schöne Botschaft. Un am End weiß mer: E saubere Umwelt fühlt sich gut an. Im Spiel un im echte Lebbe.
+*Spilled!* is e kurzes, nettes Aufräumspiel ohne jeden Anspruch. Un am End weiß mer: Des Meer is sauber. Die eigene Küche leider immer noch net.

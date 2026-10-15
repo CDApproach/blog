@@ -5,21 +5,21 @@ jahr: 2003
 genre: Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Brüderliche Teamarbeit im Bohnenkönigreich"
+fazit: "Brüder, Bohnen un e Bösewicht mit Grammatikproblem"
 ---
 
 Gude!
 
-Also, *„Mario & Luigi: Superstar Saga“* is so e Spiel, wo mer die beide Brüder zum erste Mal richtig als Team erlebt. Un wo mer merkt: Der Luigi is net nur der Ersatzmann. Der is mindestens genauso wichtig.
+Also, *„Mario & Luigi: Superstar Saga“* is so e Spiel, wo der Luigi endlich mal mitspiele darf. Awwer natürlich nur als zweite Geige, die hinter Mario herhechelt un die meiste Zeit als Sprungbrett benutzt wird. Gleichberechtigung uff Nintendo-Art.
 
-Die Geschicht: Die böse Hexe Krankfurta klaut der Prinzessin Peach die Stimme. Statt Worte kommen nur noch Explosionen raus. Also mache sich Mario un Luigi uff de Weg ins Bohnenkönigreich, um die Stimme zurückzuhole. Un, Überraschung: Bowser hilft ihne dabei. Mehr oder weniger.
+Die Hexe Krankfurta klaut der Prinzessin Peach die Stimme, un statt Wörter kommen Explosionen raus. Des is ehrlich gesagt die beste Idee, die Nintendo je für Peach hatte. Also ab ins Bohnenkönigreich, um die Stimme zurückzuhole. Mit Bowser im Schlepptau. Weil warum net.
 
-Des Kampfsystem is der Star. Es is rundenbasiert, awwer mit Timing: Wer im richtige Moment die Taste drückt, macht mehr Schade oder weicht Angriffe aus. Mario un Luigi hawwe dabei jeder ihre eigene Taste, un mer muss beide gleichzeitig im Blick hawwe. Außerhalb der Kämpfe nutzt mer Brüderaktionen: Hochspringe, Huckepack, Hämmer. Des is clever un macht Laune.
+Des Kampfsystem verlangt Timing: Mario hat sei Taste, Luigi hat sei Taste, un mer muss beide im Blick hawwe. Klingt einfach. Bis mer merkt, dass mer im Eifer des Gefechts ständig den falsche Bruder springen lässt. Der Luigi kriegt dann e Hammer uff den Kopp, un mer fühlt sich schuldig.
 
-Ulkig is, wie verdammt lustig des Spiel is. Die Dialoge sin voller Wortwitz, Selbstironie un Absurditäte. Allen voran Krankfurtas Gehilfe mit seiner völlig verdrehte Sprach. Den vergisst mer nie.
+Un dann die Brüderaktionen außerhalb der Kämpfe! Hochspringe, Huckepack, Kopf in den Bode hämmern. Irgendwann hat mer so viele Fähigkeite, dass mer vor jedem Hindernis erstmal fünf Kombinationen durchprobiert. Des Rätseldesign is manchmal arg umständlich.
 
-Die Musik is ohrwurmverdächtig, die Pixelgrafik is bunt un liebevoll.
+Awwer jetzt Ehrlichkeit: Des Spiel is zum Schreie komisch. Die Dialoge sin brillant, der Gehilfe mit seiner verdrehte Sprach is legendär, un die Musik is Ohrwurm pur. Des is eins der witzigste Rollenspiele überhaupt.
 
 ## Fazit
 
-*Superstar Saga* is e der witzigste un charmanteste Rollenspiele überhaupt. Un am End weiß mer: Zusammen schaffe Brüder alles. Sogar mit Bowser im Schlepptau.
+*Superstar Saga* is e urkomisches, charmantes RPG mit gelegentlich umständlichem Gehopse. Un am End weiß mer: Luigi verdient mehr Respekt. Kriegt er aber net.

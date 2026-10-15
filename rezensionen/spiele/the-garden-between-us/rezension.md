@@ -5,23 +5,23 @@ jahr: 2018
 genre: Rätselspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Zeit spule, Freundschaft erinnern"
+fazit: "Zeit spule, Taschentuch zücke, nach drei Stunde fertig"
 ---
 
 Gude!
 
-Also, *„The Gardens Between“* is so e Spiel, wo mer nicht die Figure steuert, sondern die Zeit. Un des is e wunderschöne Idee.
+Also, *„The Gardens Between“* is so e Spiel, bei dem mer net die Figure steuert, sondern die Zeit. Des klingt nach Raumfahrt-Physik, is aber im Grunde: Vor- un zurückspule wie bei em alte Videorekorder. Nur ohne Bandsalat.
 
-Arina un Frendt sin beste Freunde, die in e geheimnisvolle Welt aus schwebende Garteninseln gerate. Jede Insel steht für e gemeinsame Erinnerung aus ihrer Kindheit. Ziel is es, uff jeder Insel e Laterne mit Licht bis zum Gipfel zu bringe.
+Arina un Frendt sin beste Freunde, die in e Welt aus schwebende Inseln falle. Jede Insel is e Kindheitserinnerung, un mer muss e Laterne nach obe bringe. Die zwei laufe ihren Weg von selbst, mer spult nur hin un her un drückt gelegentlich e Knopf. Des is Rätseldesign mit nur zwei Tasten. Minimalismus is des eine, Unterbeschäftigung des annere.
 
-Des Besondere: Mer bewegt net die Figure selbst, sondern spult die Zeit vor un zurück. Die beiden laufe ihren Weg von allein, awwer mer kann die Zeit anhalte, zurückdrehe un an bestimmte Stellen mit Objekten interagiere. So löst mer Rätsel, indem mer Momente genau abpasst. Des fühlt sich am Anfang ungewohnt an, wird awwer schnell genial.
+Die Rätsel sin zwar clever gemacht, awwer nie wirklich schwer. Meistens probiert mer einfach so lange hin un her, bis es klappt. Des is net Denke, des is Rumspulen mit Erfolgsgarantie.
 
-Die Optik is zauberhaft. Pastellfarbe, weiches Licht, liebevolle Details. Jede Insel is voller Gegenstände aus der Kindheit, die mer sofort wiedererkennt: Spielkonsole, Kassette, Kinderspielzeug.
+Die Geschicht wird ohne Worte erzählt, was bedeutet: Mer interpretiert sich selbst e Drama zusammen. Am End wird’s dann emotional, awwer so vage, dass mer net genau weiß, worüber mer eigentlich traurig sein soll.
 
-Ulkig is, wie viel Gefühl in dem Spiel steckt, obwohl kei einziges Wort gesproche wird. Die Freundschaft der beiden erzählt sich ganz von allein, un am End wird’s richtig emotional.
+Un nach drei Stunde is alles vorbei. Für den Preis von em Kinobesuch kriegt mer… e Kinobesuch.
 
-Mit drei bis vier Stunde is des Spiel kurz, un die Rätsel sin nie wirklich schwer.
+Awwer: Die Optik is zauberhaft, die Grundidee originell, un die Stimmung warm un melancholisch. Des is e schönes kleines Spiel für en ruhige Abend.
 
 ## Fazit
 
-*The Gardens Between* is e poetisches, liebevolles Rätselspiel über Freundschaft un Erinnerunge. Un am End weiß mer: Die Zeit kann mer net zurückdrehe. Awwer an die schöne Momente kann mer sich immer erinnern.
+*The Gardens Between* is e hübsches Mini-Rätselspiel mit viel Gefühl un wenig Anspruch. Un am End weiß mer: Die Zeit kann mer zurückspule. Die drei Stunde leider net.

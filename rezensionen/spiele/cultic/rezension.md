@@ -5,21 +5,21 @@ jahr: 2022
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Sektenputz mit Dynamit"
+fazit: "Neunziger-Geballer in Dunkelheit, die man nicht sieht"
 ---
 
 Gude!
 
-Also, *„Cultic“* is so e Spiel, wo mer am Anfang aus em Grab krabbelt. Un des is noch der gemütlichste Moment vom ganze Spiel. Danach wird geballert, gesprengt un gerutscht, bis die Sekte nix mehr zu lache hat.
+Also, *„Cultic“* is so e Spiel, des so dunkel is, dass mer sich zwischendurch fragt, ob der Monitor überhaupt an is. Mer krabbelt aus em Grab, un ab dann tappt mer durch Gänge, die aussehe wie e Kohlenkeller bei Stromausfall.
 
-Des Ganze is e Retro-Shooter im Stil der Neunziger, irgendwo zwische Blood un Quake. Mer kämpft sich durch dunkle Gemäuer, Friedhöfe un Industrieruine voller Kultisten, die einem mit Gewehre, Messer un Molotowcocktails nach em Lebbe trachte. Die Atmosphäre is düster, schmutzig un herrlich unheimlich.
+Die Geschicht: Mer is tot, steht wieder uff, un jetzt geht’s gege e Sekte. Mehr gibt’s net, un mehr braucht’s aach net. Hauptsach, es knallt. Un es knallt oft. Schrotflint, Revolver, Dynamit, Molotowcocktails. Die Gegner sin Kultisten, die einem mit erstaunlicher Treffsicherheit aus der Dunkelheit heraus die Lebenspunkte wegballern. Mer sieht se net, awwer se sehe einen. Immer.
 
-Spielerisch is des richtig knackig. Mer kann rutsche, ausweiche, Dynamit werfe un explosive Fässer hochjage. Die Gegner sin net doof, die verstecke sich un werfe Granate zurück. Un wer net uffpasst, liegt schneller wieder im Grab, als ihm lieb is. Des Waffengefühl is klasse: Die Schrotflint knallt, de Revolver kracht, un des Dynamit… na ja, des macht Bumm.
+Un dann die Levels! Verwinkelt bis zum Gehtnichtmehr, voller Schalter un Schlüssel, un nach zehn Minute weiß mer net mehr, ob mer den Raum schon gesehe hat oder net. Wahrscheinlich ja. Wahrscheinlich dreimal.
 
-Ulkig is, wie viel Spaß es macht, e Stang Dynamit in e Grupp Kultisten zu werfe un dann zuzugucke, wie alles durch die Luft fliegt. Ganz kindlich, awwer schee.
+Des Spiel is außerdem bockschwer. Wer net ständig rutscht, ausweicht un in Deckung geht, liegt schneller wieder im Grab, als ihm lieb is. Retro-Charme nennt mer des, glaub ich.
 
-Die Levels sin verschachtelt un voller Geheimnisse. Manchmal verliert mer e bissje de Überblick, awwer des gehört zum Retro-Charme dazu.
+Awwer zugegeben: Des Waffengefühl is erstklassig. Die Schrotflint kracht, des Dynamit fliegt, die Kultisten fliege hinterher. Un wer Blood mochte, fühlt sich sofort daheim.
 
 ## Fazit
 
-*Cultic* is e Liebesbrief an die alte Shooter, düster, schnell un ordentlich schwer. Wer Blood gemocht hat, wird hier glücklich. Un am End weiß mer: Mit Sekten soll mer net diskutiere. Lieber gleich Dynamit mitbringe.
+*Cultic* is e harter, stilvoller Retro-Shooter für Leute, die gern im Dunkeln stehen un beschosse werde. Un am End weiß mer: Gegen Sekten hilft Dynamit. Gegen die Dunkelheit hilft nur der Helligkeitsregler.

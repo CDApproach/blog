@@ -5,21 +5,21 @@ jahr: 2023
 genre: Rätselspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Welten im Rucksack, Knoten im Hirn"
+fazit: "Käfer trägt Kugel, Kopp trägt Knoten"
 ---
 
 Gude!
 
-Also, *„Cocoon“* is so e Spiel, wo mer sich irgendwann hinsetzt, den Controller weglegt un sagt: „Moment. Ich trag grad e Welt uff em Rücken, in der e Welt steckt, in der noch e Welt steckt?“ Jo. Genau so isses.
+Also, *„Cocoon“* is so e Spiel, des einem nix erklärt. Gar nix. Kei Text, kei Dialog, kei Hinweis. Mer is e Insekt, mer krabbelt, un mer soll gefälligst selbst draufkomme, was Sache is. Des is net minimalistisch, des is passiv-aggressiv.
 
-Gemacht hat des der Jeppe Carlsen, der schon bei Limbo un Inside des Rätseldesign verantwortet hat. Un des merkt mer. Mer spielt so e kleines Insektenwese, des durch fremdartige Landschafte krabbelt. Kei Text, kei Dialog, kei Erklärung. Nur Welt, Atmosphäre un Rätsel.
+Der Kniff: Mer trägt Welten in Kugelform mit sich rum un kann in sie hineinspringe. Un in dene Welten gibt’s widder Kugeln mit Welten. Un irgendwann trägt mer e Welt in e Welt, um aus ere dritten Welt e Kugel zu hole, die mer in die erste Welt bringe muss. Wenn mer des laut erklärt, gucke die Leit einen an, als hätt mer zu viel Glühwein gehabt.
 
-Der Clou: Mer findet leuchtende Kugeln, un jede davon is e eigene Welt. Die kann mer uffhebe, mitnehme, in Sockel stecke un dann in sie hineinspringe. Un drinne kann mer widderum annere Kugeln transportiere. Des klingt kompliziert, is awwer so elegant uffgebaut, dass mer’s Schritt für Schritt versteht. Un immer, wenn’s Klick macht, fühlt mer sich wie e kleines Genie.
+Die Geschicht? Keine Ahnung. Ehrlich net. Irgendwas mit Motten, Kokons un em kosmische Kreislauf. Des Spiel hält sich für tiefgründig, un vielleicht is es des aach. Awwer ohne e einziges Wort weiß mer nie so genau, ob mer was verstanden hat oder ob mer sich des nur einbildet.
 
-Die Bosskämpf sin überraschend spannend, un die Optik is wunderschön fremd: organisch, leuchtend, e bissje wie e Insektentraum. Ulkig is, wie oft mer sich beim Lösen von em Rätsel selbst laut kommentiert: „Ei, jetzt nimm ich die Welt mit in die Welt… nee, warte…“
+Un nach fünf Stunde is es vorbei. Grad, wenn mer endlich kapiert hat, wie der Hase läuft. Bzw. der Käfer krabbelt.
 
-Mit fünf bis sechs Stunde is Cocoon net lang, awwer jede Minute is durchdacht.
+Awwer – un des muss mer neidlos anerkennen: Die Rätsel sin genial. Jede Lösung macht Klick, kein Moment is unfair, un die fremdartige Optik is wunderschön. Des is Rätseldesign uff höchstem Niveau.
 
 ## Fazit
 
-*Cocoon* is e geniales Rätselspiel ohne e einziges überflüssiges Wort. Clever, schön un nie frustrierend. Un am End denkt mer: Wenn des so weitergeht, trag ich demnächst des ganze Universum im Rucksack. Un find trotzdem mei Schlüssel net.
+*Cocoon* is e brillantes Rätselspiel, des sich so wortkarg gibt wie e hessischer Großvater beim Frühschoppe. Un am End weiß mer: Wer Welten im Rucksack trägt, findet trotzdem sei Autoschlüssel net.

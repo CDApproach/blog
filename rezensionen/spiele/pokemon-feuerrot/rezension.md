@@ -5,21 +5,23 @@ jahr: 2004
 genre: Rollenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Kanto in Farbe, Glurak uff de Packung"
+fazit: "Hohes Gras, niedriger Anspruch, große Liebe"
 ---
 
 Gude!
 
-Also, *„Pokémon Feuerrot“* is so e Spiel, wo mer sofort wieder des Titelmotiv im Ohr hat. Un sich fühlt wie damals im Schulbus, als mer mit em Kumpel per Kabel tauschen wollte.
+Also, *„Pokémon Feuerrot“* is so e Spiel, wo Game Freak sich gedacht hat: „Ei, die Leit hawwe Rot un Blau geliebt. Verkaufe mer’s halt nochmal.“ Un genau des hawwe se gemacht. Un wir hawwe’s gekauft. Natürlich.
 
-Feuerrot is des Remake der allererste Pokémon-Edition, also von Rot un Blau. Mer startet in Alabastia, kriegt vom Professor Eich e Starter-Pokémon, un dann geht’s los: Orden sammle, Team Rocket uffhalte, den Rivalen schlage un am End die Top Vier besiege. Un natürlich: Schnapp se dir alle!
+Mer startet in Alabastia, kriegt vom Professor Eich e Pokémon, un dann geht die gleiche Reise los wie 1996. Orden sammle, Team Rocket uffhalte, den Rivale verhaue, der übrigens so unsympathisch is, dass mer sich bei jedem Sieg innerlich freut. Des Spiel hat einen klaren Bösewicht, un der heißt net Giovanni. Der heißt Blau. Bzw. wie immer mer ihn genannt hat.
 
-Des Remake bringt die alte Geschicht in schöner GBA-Grafik un mit Verbesserunge aus de neuere Teile. Dazu gibt’s nach em Hauptspiel e komplett neues Gebiet, die Inselgrupp mit neue Herausforderunge. Un in de Packung war sogar e Drahtlos-Adapter für de Game Boy Advance dabei, damit mer ohne Kabel tausche un kämpfe konnt. Des war damals e Sensation.
+Un dann des hohe Gras. Alle fünf Schritte e Taubsi. Oder e Rattfratz. Oder nochmal e Taubsi. Un wenn mer endlich e seltenes Pokémon findet, flieht des nach dem dritte Pokéball. Grrrr.
 
-Ulkig is, wie viel Zeit mer im hohe Gras verbracht hat, nur um e bestimmtes Pokémon zu finde. Un dann flieht des Ding nach dem dritte Pokéball. Grrrr.
+Un die Balance is e Witz. Psycho-Pokémon dominiere alles, un wer e Abra früh fängt, hat e Waffe, die mit em Kampf-Pokémon den Fußboden wischt.
 
-Klar, aus heutiger Sicht is des Spiel simpel, un die Balance is net perfekt. Awwer der Zauber is ungebrochen.
+Un die Taschenlampe! Dunkle Höhlen ohne Blitz-VM sin e Trauma für sich.
+
+Awwer – un des gibt mer zähneknirschend zu: Des Remake is liebevoll gemacht, die Grafik schön, die Inselgrupp nach dem Hauptspiel e echter Bonus, un der Drahtlos-Adapter war damals e Sensation. Des Spiel hat e magische Wirkung, die bis heut anhält.
 
 ## Fazit
 
-*Pokémon Feuerrot* is e liebevolles Remake des Klassikers, des Nostalgie un Verbesserunge perfekt verbindet. Un am End weiß mer: Mer wird nie zu alt für Pokémon. Höchstens zu alt für die Kabelverbindung.
+*Pokémon Feuerrot* is e nostalgisches Remake, des einen trotz aller Macken immer wieder einfängt. Un am End weiß mer: Mer will se alle fange. Die Taubsis awwer net.

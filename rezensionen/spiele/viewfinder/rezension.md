@@ -5,23 +5,23 @@ jahr: 2023
 genre: Rätselspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Foto mache, Welt verändern"
+fazit: "Genial, kurz, un die Geschicht hätt mer streiche könne"
 ---
 
 Gude!
 
-Also, *„Viewfinder“* is so e Spiel, wo mer nach fünf Minute sagt: „Moment, wie hawwe die des gemacht?“ Un des sagt mer dann noch ungefähr hundertmal.
+Also, *„Viewfinder“* is so e Spiel, des so clever is, dass es sich die Hälfte der Zeit selbst uff die Schulter klopft. Un die andere Hälfte erzählt es einem e Geschicht, die kein Mensch hören will.
 
-Die Idee is genial: Mer findet Fotos, Zeichnunge oder Postkarte, hält se in die Welt, un was druff abgebildet is, wird Wirklichkeit. E Foto von ere Brück wird zur echten Brück. E Bild von em Tor öffnet en neuen Weg. Un später kriegt mer sogar e Sofortbildkamera, mit der mer selbst Dinge fotografiere un dann woanders einfügen kann.
+Die Idee is genial: Mer hält e Foto in die Welt, un was druff abgebildet is, wird Wirklichkeit. E Foto von ere Brück wird zur Brück. Mit der Sofortbildkamera kann mer später selbst Dinge fotografiere un woanders einfügen. Des is so verrückt, dass mer am Anfang einfach nur staunt.
 
-Des Spiel spielt in ere geheimnisvollen, simulierte Welt, in der mer die Hintergründ nach un nach erfährt. Die Geschicht is eher Nebensache, awwer schön erzählt.
+Awwer dann kommt die Geschicht. Die erzählt von ere simulierten Welt, Forschern un em großen Rätsel, un des alles über herumliegende Tonbänder un Dialoge, die sich ziehe wie Kaugummi. Mer will Rätsel löse, des Spiel will Bedeutung vermitteln. Die zwei kommen net zusammen.
 
-Die Rätsel sin unglaublich kreativ. Mer muss um die Eck denke, Perspektive nutze un manchmal ganz verrückte Lösunge finde. Un des Beste: Es gibt oft mehrere Wege zum Ziel. Wer was kaputt macht, kann einfach zurückspule.
+Un e sprechende Katz is aach dabei. Natürlich. Weil Indie-Spiele ohne sprechende Katz offenbar net zugelasse werde.
 
-Ulkig is, wie viel Spaß mer mit der Kamera hat. Mer fotografiert einfach alles un guckt, was passiert. Manchmal kommt Chaos raus, manchmal e geniale Lösung.
+Un nach vier Stunde is es vorbei. Grad wenn die Mechaniken richtig interessant werde, kommt der Abspann. Da hätt mer gern mehr gehabt. Viel mehr.
 
-Mit vier bis fünf Stunde is des Spiel kurz, awwer jede Minute is voller Überraschunge.
+Awwer: Die Rätsel sin wirklich genial, kreativ un oft mit mehreren Lösunge. Des Zurückspulen verhindert Frust, un die Grundidee is eine der originellsten der letzten Jahre.
 
 ## Fazit
 
-*Viewfinder* is e der kreativste Rätselspiele der letzte Jahre. Un am End weiß mer: E Bild sagt mehr als tausend Worte. Un manchmal baut’s sogar e Brück.
+*Viewfinder* is e geniales Rätselspiel mit überflüssiger Geschicht un zu wenig Spielzeit. Un am End weiß mer: E Bild sagt mehr als tausend Worte. Des Spiel hätt sich die tausend Worte spare solle.

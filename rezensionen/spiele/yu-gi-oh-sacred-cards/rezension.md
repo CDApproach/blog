@@ -5,21 +5,23 @@ jahr: 2002
 genre: Kartenspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Duellieren bis der Akku leer is"
+fazit: "Duell der Regelverwirrung"
 ---
 
 Gude!
 
-Also, *„Yu-Gi-Oh! The Sacred Cards“* is so e Spiel, wo mer früher unter der Bettdecke Duelle ausgetrage hat. Bis die Batterien vom Game Boy leer ware oder die Mudder des Licht ausgemacht hat.
+Also, *„Yu-Gi-Oh! The Sacred Cards“* is so e Spiel, des den Namen Yu-Gi-Oh trägt, awwer die Regeln vom echte Kartenspiel offenbar nur vom Hörensage kennt. Wer am Küchentisch mit Freunde gezockt hat, sitzt hier verwirrt vor dem Game Boy un fragt sich: Wo sin die Tribute?
 
-Die Geschicht orientiert sich an der Battle-City-Saga aus em Anime. Mer läuft durch die Stadt, trifft bekannte Figure wie Joey, Kaiba oder Mai un fordert se zum Duell heraus. Ziel is es, sich durch des Turnier zu kämpfe un am End die legendären Götterkarte zu besiege.
+Antwort: Weg. Stattdessen gibt’s e Deckkapazität, die bestimmt, welche Karte mer überhaupt ins Deck packe darf. Wer stärkere Karte will, muss mehr Duelle gewinne. Un dann noch mehr Duelle. Un dann noch mehr. Des is net e Kartenspiel, des is e Grind mit Sammelbildern.
 
-Spielerisch is des e vereinfachte Variante des echte Kartenspiels. Die Regeln sin anders als bei dem, was mer am Küchentisch gespielt hat, un des sorgt am Anfang für Verwirrung. Statt Tributopfer bestimmt e Deckkapazität, welche Karten mer überhaupt einsetze darf. Durch Siege wächst diese Kapazität, un mer kann stärkere Karte ins Deck packe. Des is motivierend, weil mer ständig nach neuen Karte jagt.
+Die Geschicht folgt der Battle-City-Saga. Mer läuft durch e Stadt, die aussieht wie e Stadtplan von 1985, un fordert Leute heraus. Die Dialoge sin so steif, dass Kaiba im Vergleich wie e Comedian wirkt.
 
-Ulkig is, wie lang mer früher an seinem Deck rumgeschraubt hat. Mit ganz viel Taktik un Überlegung. Un dann hat mer doch wieder gegen Kaiba verlore, weil der natürlich seinen Weißen Drache hatte.
+Un die Gegner-KI! Die spielt manchmal so absurd, dass mer net weiß, ob se schummelt oder einfach würfelt. Un dann zieht se doch den Weiße Drache, wenn’s am meiste wehtut.
 
-Heut wirkt des Spiel eher altbacke, die Grafik is simpel un die Regeln gewöhnungsbedürftig. Awwer der Nostalgiefaktor is riesig.
+Un die Grafik? Kartenillustrationen in Briefmarkengröße. Uff em Game Boy Advance. Mer braucht e Lupe.
+
+Awwer: Der Sammeltrieb funktioniert, des Deckbauen macht Spaß, un der Nostalgiefaktor is gewaltig. Wer damals Yu-Gi-Oh-Fan war, hat hier Stunde versenkt.
 
 ## Fazit
 
-*Yu-Gi-Oh! The Sacred Cards* is e charmantes Stück Kindheitserinnerung für alle Fans des Kartenspiels. Un am End weiß mer: Es is Zeit fürs Duell. Immer. Hauptsach, die Batterie hält durch.
+*Yu-Gi-Oh! The Sacred Cards* is e charmantes, aber regelverwirrtes Kartenspiel-Abenteuer. Un am End weiß mer: Es is Zeit fürs Duell. Bloß halt nach annere Regeln.

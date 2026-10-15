@@ -5,21 +5,21 @@ jahr: 2009
 genre: Aufbaustrategie
 bewertung: 5
 datum: 2026-10-13
-fazit: "Gewürze, Gewänder un ganz viel Geduld"
+fazit: "Die Patrizier wolle Kerze, ich will mei Lebbe zurück"
 ---
 
 Gude!
 
-Also, *„Anno 1404“* is so e Spiel, wo mer sich vornimmt: „Ei, ich spiel mal e Stündche.“ Un dann is es plötzlich drei Uhr morgens, un mer guckt verzweifelt, warum die Patrizier schon wieder kein Kerze habe.
+Also, *„Anno 1404“* is so e Spiel, wo mer sich als mittelalterlicher Herrscher fühle soll. In Wahrheit is mer awwer der Lieferdienst von em Haufen undankbare Bürger, die jede halbe Stund e neues Bedürfnis entwickle.
 
-Des Prinzip is bekannt: Mer kriegt e Insel, baut Häuser, Bauernhöf un Fischerhütte, un sobald die Bewohner zufriede sin, wolle se mehr. Mehr Waren, mehr Kultur, mehr Luxus. Aus Bauern werde Bürger, aus Bürgern Patrizier, un am End Adelige, die so verwöhnt sin, dass mer sich fragt, wer hier eigentlich wem dient.
+Erst wolle die Bauern Fisch. Dann Most. Dann Leinenkutte. Dann wolle se Bürger werde, un plötzlich brauche se Brot, Bier, Kerze un e Kirch. Un wenn die Patrizier dann noch Gewürze un Bücher fordern, sitzt mer da un fragt sich: Wer hat eigentlich wem was zu sage? Die Mensche ziehe aus, sobald mal e Fass Wein zu spät kommt. Des sin kei Untertane, des sin Influencer.
 
-Des Besondere an 1404 is der Orient. Neben dem Abendland gibt’s e zweite Kultur mit Nomaden, Gesandten, Gewürzen, Datteln un Moscheen. Die zwei Welten ergänze sich, un mer muss Handelsroute zwische Norden un Süden uffbaue. Wenn des dann alles läuft, die Schiffe schippern, die Märkt brumme un die Kaiserdom-Baustell wächst, dann is des pure Zufriedenheit.
+Dann der Orient. Mer muss sich mit em Großwesir gut stelle, Gewürze un Datteln anbaue, un aus Dankbarkeit wolle die Gesandte dann Kaffee un Teppiche. Des is net Diplomatie, des is e Abo-Modell.
 
-Optisch is des Spiel bis heut e Augenweide. Die Inseln wuseln, die Leit laufe rum, un mer kann stundelang einfach zugucke. Ulkig is, wie emotional mer wird, wenn e Pirat die Handelsflotte versenkt. Do wird mer ganz schnell vom friedliche Stadtplaner zum rachsüchtige Admiral.
+Un die Kampagne? E Tutorial mit Kostüm. Die Geschicht hat mer nach dem Abspann schneller vergesse als den Namen von dem Kardinal, der einem dauernd reinpfuscht.
 
-Die Kampagne is eher e erweitertes Tutorial, awwer des Endlosspiel is des eigentliche Herzstück. Do kann mer sich verliere.
+Awwer – un des sag ich zähneknirschend: Des Ding is genial. Die Inseln wuseln, die Warenketten greife ineinander wie e Schweizer Uhr, un wenn der Kaiserdom fertig is, is des e Gefühl wie Weihnachte. Optisch is des bis heut wunderschön.
 
 ## Fazit
 
-*Anno 1404* is für viele des beste Anno überhaupt, un des hat seine Gründ. Schön, durchdacht un unglaublich motivierend. Un am End merkt mer: Des Mittelalter wär halb so wild gewese, hätt mer nur genug Gewürze gehabt.
+*Anno 1404* is e Meisterwerk der Aufbauspiele un gleichzeitig e Simulation dafür, wie anstrengend Kundschaft sein kann. Un am End weiß mer: Mittelalterliche Herrscher hatte’s schwer. Vor allem mit der Lieferkette.

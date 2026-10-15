@@ -5,21 +5,21 @@ jahr: 2022
 genre: Aufbau-Puzzle
 bewertung: 5
 datum: 2026-10-13
-fazit: "Sechseckig glücklich"
+fazit: "Bauklötze für Erwachsene mit Burnout"
 ---
 
 Gude!
 
-Also, *„Dorfromantik“* is so e Spiel, wo mer nach em stressige Arbeitstag einfach nur noch Plättche lege will. Wald an Wald, Fluss an Fluss, Feld an Feld. Un plötzlich is mer ganz ruhig.
+Also, *„Dorfromantik“* is so e Spiel, wo mer sechseckige Plättche legt. Un dann noch eins. Un noch eins. Un irgendwann merkt mer, dass mer seit drei Stunde Wald an Wald klebt un des Gefühl hat, des wär e erfülltes Lebbe.
 
-Des Prinzip is simpel: Mer kriegt sechseckige Kärtche mit Landschaftsteile druff – Wiesen, Häuser, Wälder, Bahngleise, Flüsse – un legt die aneinander. Passen die Kante gut zusammen, gibt’s Punkte. Dazu kommen kleine Aufgabe: „Bau e Wald mit genau 40 Bäum“ oder „Verbind des Dorf mit 8 Häuser“. Erfüllt mer die, kriegt mer neue Plättche. Wenn der Stapel leer is, is die Rund vorbei.
+Des Prinzip is so simpel, dass mer’s eigentlich in zwei Sätze erklären kann: Plättche anlegen, Kante sollen passe. Fertig. Dazu gibt’s Aufgabe wie „Bau e Wald mit 40 Bäum“, un wer die schafft, kriegt neue Plättche. Wer net, dem geht irgendwann der Stapel aus. Spannung? Ei, so viel wie beim Puzzle mit de Oma. Aber hey, des is aach der Punkt.
 
-Des klingt nach wenig, is awwer unglaublich motivierend. Jede Entscheidung zählt e bissje, awwer nie so viel, dass mer Stress kriegt. Mit der Zeit schaltet mer neue Landschaften un Spielmodi frei, un es gibt sogar e kreativen Modus ganz ohne Punkte.
+Die Musik plätschert, die Farben sin pastellig, un des Ganze is so entspannend, dass mer manchmal dabei einschläft. Was ehrlich gesagt aach als Kompliment gemeint sein könnt.
 
-Ulkig is, wie sehr mer sich über e perfekt eingefügtes Flussstück freue kann. Des is wie Puzzle mache bei de Oma, nur dass am End e kleines Märchenland rauskommt, des mer stolz von obe betrachtet.
+Kritik? Des Spiel hat kaum Variation. Jede Rund fühlt sich ähnlich an. Un wenn mer mal en Fehler macht un e Bahngleis ins Nichts legt, ärgert mer sich mehr, als für e Entspannungsspiel gesund is. Un nach e paar Wochen hat mer alle Landschafte gesehe.
 
-Die Optik is zuckersüß, die Musik sanft, un des Ganze stammt aus Berlin. Is also e bissje heimatlich.
+Awwer: Des Spiel is wunderschön, durchdacht un aus Berlin. Es macht genau des, was es soll: Kopf ausschalte, Herz an.
 
 ## Fazit
 
-*Dorfromantik* is e entspannendes, wunderschönes Puzzlespiel für zwischendurch un für lange Abende. Un am End denkt mer: So schön müsst’s in jedem Dorf aussehe. Mit weniger Baustelle un mehr Bahnhof.
+*Dorfromantik* is e entspannendes Plättchenspiel, des mer stundenlang spielt, obwohl eigentlich gar nix passiert. Un am End weiß mer: Dorfidylle is schön. Im Spiel. Im echte Dorf hat der Nachbar e Laubbläser.

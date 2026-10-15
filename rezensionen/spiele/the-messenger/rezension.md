@@ -5,23 +5,23 @@ jahr: 2018
 genre: Action-Plattformer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Ninja zwische 8 un 16 Bit"
+fazit: "Erst Ninja Gaiden, dann Backtracking-Hölle"
 ---
 
 Gude!
 
-Also, *„The Messenger“* is so e Spiel, wo mer erst denkt: „Ah, e Ninja-Gaiden-Klon.“ Un dann macht des Spiel nach e paar Stunde e Wende, mit der mer überhaupt net gerechnet hat.
+Also, *„The Messenger“* is so e Spiel, des am Anfang Spaß macht. Richtig Spaß. Un dann, nach der Hälfte, verwandelt es sich in e Metroidvania. Un ab da läuft mer hin un her un hin un her, bis mer vergisst, wo mer überhaupt hinwollt.
 
-Mer spielt en junge Ninja, dessen Dorf von Dämone angegriffe wird. E mysteriöser Fremder drückt ihm e Schriftrolle in die Hand, die er uff die Spitze von em Berg bringe soll. Also macht sich der Ninja uff de Weg, durch Wälder, Höhle, Tempel un Türme.
+Mer spielt en junge Ninja, der e Schriftrolle uff en Berg bringe soll. Die erste Hälfte is e lineares Actionspiel im Stil der alte NES-Klassiker: Präzise, schnell, herausfordernd. Dann kommt die Zeitreise, un mer springt zwische 8-Bit un 16-Bit hin un her. Des is e geniale Idee. Für ungefähr zwei Stunde.
 
-Am Anfang is des e lineares Action-Jump-’n’-Run im Stil der alte NES-Spiele, mit 8-Bit-Grafik un Musik. Awwer dann kommt die Zeitreise ins Spiel, un mer springt zwische 8-Bit-Vergangenheit un 16-Bit-Zukunft hin un her. Grafik un Musik ändern sich mit einem Wimpernschlag. Un mit der Zeit wird des Spiel zum Metroidvania, in dem mer alte Gebiete mit neue Fähigkeite erkundet.
+Denn dann öffnet sich die Welt, un mer muss alle alten Level nochmal durchkämme, um irgendwelche Musiknoten zu finde. Mit vagen Hinweisen. Un ohne vernünftige Kart. Des is net Erkundung, des is e Suchspiel mit Ninja-Kostüm.
 
-Des Gameplay is präzise un flott. Ein besonderer Kniff: Wenn mer in de Luft was trifft, darf mer nochmal springe. Damit hüpft mer über Gegner un Geschosse hinweg wie e echter Ninja.
+Der Ladenbesitzer erzählt dabei lange, sehr lange Geschichten. Witzig geschriebe, aber manchmal so ausschweifend, dass mer den Skip-Knopf sucht.
 
-Ulkig is der Ladenbesitzer, der mit trockenem Humor un sehr langen Geschichte die Vierte Wand durchbricht. Un der kleine Dämon, der einen nach jedem Tod wiederbelebt un dafür e bissje Geld verlangt.
+Un der kleine Dämon, der einen nach jedem Tod wiederbelebt un dafür Geld klaut, is e niedliche Idee. Bis er einem die halbe Börse leert.
 
-Die zweite Hälfte kann zäh werde, weil mer viel hin un her laufe muss.
+Awwer: Die erste Hälfte is brillant. Die Steuerung präzise, der Wolkensprung genial, der Humor erstklassig, un der Wechsel zwische 8- un 16-Bit is e echter Wow-Moment.
 
 ## Fazit
 
-*The Messenger* is e cleveres, witziges Retro-Abenteuer mit em genialen Zeitreise-Kniff. Un am End weiß mer: Ninja sein is anstrengend. Vor allem, wenn mer ständig zwischen den Jahrzehnte pendelt.
+*The Messenger* is e geniales Retro-Spiel, des sich in der zweiten Hälfte selbst im Weg steht. Un am End weiß mer: E Ninja muss schnell sein. Net zehnmal durchs gleiche Level laufe.

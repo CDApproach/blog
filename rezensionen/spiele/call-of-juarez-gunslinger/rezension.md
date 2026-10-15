@@ -5,21 +5,21 @@ jahr: 2013
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Wildwestgarn mit unzuverlässigem Erzähler"
+fazit: "Opa erzählt vom Krieg, nur mit Revolvern"
 ---
 
 Gude!
 
-Also, *„Call of Juarez: Gunslinger“* is so e Spiel, wo mer sich wie in em alte Western fühlt. Nur dass der Erzähler ständig flunkert. Un des is genau der Witz an der Sach.
+Also, *„Call of Juarez: Gunslinger“* is so e Spiel, wo e alter Kopfgeldjäger im Saloon hockt un erzählt, wie er alle berühmte Banditen des Wilden Westens persönlich erledigt hat. Billy the Kid, Jesse James, Butch Cassidy – alle. Der Mann hat mehr Legende erschosse, als im Geschichtsbuch stehe.
 
-Mer spielt den Silas Greaves, en alte Kopfgeldjäger, der 1910 in em Saloon hockt un seine Geschichte erzählt. Un die sin gespickt mit Legende: Billy the Kid, Pat Garrett, Butch Cassidy, Jesse James – alle hat er getroffe, alle hat er erwischt. Oder zumindest behauptet er des. Un wenn die Zuhörer protestiere, dann ändert sich des Level mitten im Spiel. Plötzlich kommt e Schlucht dazu, Gegner verschwinde, oder die Geschicht spult zurück. Genial gemacht.
+Un des Beste: Er lügt. Ständig. Un dann ändert sich des Level mitten im Laufe. Mal kommt e Schlucht dazu, mal verschwinde Gegner, mal spult der Opa zurück, weil sich e Zuhörer beschwert. Des is clever – un ehrlich gesagt der einzige Grund, warum mer des Spiel bis zum Ende spielt.
 
-Spielerisch is des e schnörkelloser Shooter mit Arcade-Charakter. Kombo-Punkte, Kopfschüsse, Zeitlupe-Modus, Duelle im Sergio-Leone-Stil. Des is schnell, flüssig un macht eifach Spaß. Die Comic-Optik mit kräftige Konturen passt perfekt zum Lagerfeuergeschichten-Ton.
+Denn der Rest is e schnörkelloser Schießbudenshooter. Gegner tauche uff, mer schießt se ab, mer kriegt Punkte. Gegner tauche uff, mer schießt se ab, mer kriegt Punkte. Die Duelle sin e nette Idee, spiele sich awwer so hakelig, als würd mer mit Handschuh Mikado spiele.
 
-Ulkig sin die Momente, wo de Silas sich selbst korrigiert: „Nee, wartet, des war ganz anners.“ Un dann lacht mer, weil des Spiel einem grad noch was ganz anneres weisgemacht hat.
+Die Kampagne is nach sechs, sieben Stunde vorbei, un mer hat des Gefühl, die Hälfte davon im gleiche Canyon verbracht zu hawwe. Abwechslung? Die liegt im Saloon un trinkt Whiskey.
 
-Lang is des Spiel net, so sechs bis sieben Stund. Awwer es gibt Arcade- un Duell-Modi, wenn mer net genug kriegt.
+Trotzdem: Die Comic-Optik is schick, des Ballern fühlt sich gut an, un der Erzählkniff is wirklich originell.
 
 ## Fazit
 
-*Call of Juarez: Gunslinger* is e kurzer, knackiger Western-Shooter mit em cleveren Erzählkniff. Kei Spiel für die Ewigkeit, awwer eins, an des mer sich gern erinnert. Un am End weiß mer: Glaab nie em alte Mann im Saloon. Awwer hör ihm trotzdem zu.
+*Call of Juarez: Gunslinger* is e kurzer Western-Shooter mit eme cleveren Trick un ansonsten wenig Fleisch uff de Knoche. Un am End weiß mer: Wenn de Opa vom Wilden Westen erzählt, nimm’s net zu ernst. Un schlaf net ein.

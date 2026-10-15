@@ -5,23 +5,23 @@ jahr: 2020
 genre: Rätsel-Abenteuer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Kleine Glut, großes Herz"
+fazit: "Von No-Man’s-Sky-Machern, mit Ausstrahlung von em Teelicht"
 ---
 
 Gude!
 
-Also, *„The Last Campfire“* is so e Spiel, wo mer e kleine Glut spielt. E Stückche glimmendes Holz, des sich verlaufe hat. Un des is irgendwie herzzerreißend.
+Also, *„The Last Campfire“* is so e Spiel, des von den Leut stammt, die mit No Man’s Sky e ganzes Universum versproche hawwe. Diesmal versprechen se e kleines Märchen. Un des liefern se tatsächlich. E sehr kleines.
 
-Gemacht hat des Hello Games, die Leit hinter No Man’s Sky. Awwer statt unendlichem Weltall gibt’s hier e kleines, märchenhaftes Abenteuer. Die Glut namens Ember wandert durch e geheimnisvolle Welt, uff der Suche nach em Weg nach Hause. Unterwegs trifft se annere verlorene Gluten, die ihre Hoffnung uffgegebe hawwe. Un Ember versucht, ihne zu helfe.
+Mer spielt Ember, e verlorenes Stück Glut, des sein Weg nach Hause sucht. Unterwegs trifft mer annere verlorene Gluten, die ihre Hoffnung uffgegebe hawwe. Un dann löst mer e Rätsel, un die Glut kriegt wieder Hoffnung. Un dann die nächste. Un die nächste. Des is Lebensberatung für Holzkohle.
 
-Spielerisch is des e Rätselspiel. In jedem Abschnitt gibt’s kleine Puzzles: Kisten verschiebe, Schalter umlege, Wege öffne, mit Gegenstände interagiere. Löst mer des Rätsel, findet mer e verlorene Glut un kann ihr helfe, wieder Hoffnung zu finde. Die Rätsel sin meistens nicht schwer, awwer clever gemacht.
+Die Rätsel sin… nett. Kiste schiebe, Hebel umlege, Steine verrücke. Des is Zelda für die Grundschule. Wer schon mal e Rätselspiel gespielt hat, löst des Meiste im Schlaf.
 
-Die Optik is zuckersüß, mit weiche Farbe un liebevolle Figuren. Un e Erzähler mit warmer Stimme begleitet einen durch die Geschicht, wie in em Kinderbuch.
+Un der Erzähler! Der erzählt einem alles mit so warmer Märchenonkel-Stimme, dass mer nach ner Stund wirklich einschläft. Des is gemütlich, aber auch e bissje einschläfernd.
 
-Ulkig sin die Figuren, die mer unterwegs trifft. E Fährmann un allerlei kleine Wese mit ihre eigene Sorgen. Alle e bissje traurig, awwer herzlich.
+Un die Botschaft „Gib net uff, hab Hoffnung“ wird einem so oft um die Ohre gehaue, dass mer irgendwann denkt: Jo, ich hab’s verstanden. Darf ich jetzt einfach weiterspiele?
 
-Des Spiel is kurz, so fünf bis sechs Stunde, un manchmal e bissje zu einfach.
+Awwer: Die Optik is zuckersüß, die Musik schön, un des Ganze hat e echte Wärme. Für Kinner un für entspannte Sonntagnachmittage is des wunderbar.
 
 ## Fazit
 
-*The Last Campfire* is e kleines, warmherziges Märchen über Hoffnung un des Weitermache. Un am End weiß mer: Selbst die kleinste Glut kann wieder zum Feuer werde.
+*The Last Campfire* is e niedliches, harmloses Rätselmärchen ohne Ecken un Kanten. Un am End weiß mer: Selbst die kleinste Glut wird zum Feuer. Spannung entfacht se trotzdem net.

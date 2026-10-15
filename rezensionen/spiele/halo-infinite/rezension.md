@@ -5,23 +5,21 @@ jahr: 2021
 genre: Ego-Shooter
 bewertung: 5
 datum: 2026-10-13
-fazit: "Master Chief mit Enterhaken"
+fazit: "Enterhaken top, Open World flop"
 ---
 
 Gude!
 
-Also, *„Halo Infinite“* is so e Spiel, wo der Master Chief zurück is. Un er hat endlich mal e Spielzeug, des richtig Spaß macht: en Enterhaken.
+Also, *„Halo Infinite“* is so e Spiel, des jahrelang verschoben wurde, weil die erste Präsentation so schlecht aussah, dass e Brute namens „Craig“ zum Internet-Meme wurde. Mit so em Start muss mer erstmal klarkomme.
 
-Die Geschicht setzt nach em Sieg der Banished ein. Die UNSC is geschlage, der Chief treibt verletzt im All un wird von em Piloten gerettet. Gemeinsam lande se uff Zeta Halo, wo die Banished unter ihrm Anführer Escharum des Kommando hawwe. Un mit dabei is e neue KI, „die Waffe“, die dem Chief zur Seite steht.
+Der Master Chief kommt zurück, wird von em Piloten gerettet, der die ganze Zeit Panik hat, un landet uff Zeta Halo. Dort herrsche die Banished, un der Chief muss se vertreibe. Die Geschicht setzt dabei voraus, dass mer alle vorherige Halo-Teile, Bücher un Comics kennt. Wer net, versteht nur Bahnhof. Bzw. Ringwelt.
 
-Zum erste Mal is Halo halb-offe. Mer kann sich uff Zeta Halo frei bewege, Außenposten erobern, Marines befreie, Nebenaufgabe erledige un sich dann der Hauptmission widme. Des Highlight is der Enterhaken: Mit dem schwingt mer sich über Abgründe, zieht sich zu Gegnern hin oder schnappt sich Waffe aus de Ferne. Des macht die Kämpfe dynamisch un richtig spaßig.
+Die offene Welt is groß. Un leer. Wald, Fels, Wald, Fels, Basis, Wald. Mer erobert Außenposten, die alle gleich aussehe, befreit Marines, die alle gleich klinge, un sammelt Sachen, die kein Mensch braucht. Des is Open World nach Schema F, uff ere Ringwelt, die eigentlich unendlich spannend sein könnt.
 
-Ulkig is der Pilot, der ständig Angst hat un sich trotzdem mit em Chief anfreundet. Die zwei sin e herrlich ungleiches Gespann.
+Un der Multiplayer! Kostenlos, ja, awwer am Anfang so knauserig mit Belohnunge, dass mer sich fragt, ob 343 Industries vom Shop besessen war.
 
-Die offene Welt is allerdings e bissje eintönig, viel Wald un Fels. Un die Geschicht setzt Wisse über die vorherige Teile voraus.
-
-Der Mehrspielermodus is kostenlos un sehr solide.
+Awwer jetzt die gute Nachricht: Der Enterhaken is genial. Damit wird jeder Kampf zum Actionfilm. Des Gunplay is erstklassig, die Musik episch, un der Chief fühlt sich endlich wieder an wie der Chief.
 
 ## Fazit
 
-*Halo Infinite* bringt den Chief zurück zu alter Stärke, mit tollem Gunplay un em genialen Enterhaken. Un am End weiß mer: Jeder Held braucht e gutes Werkzeug. Am beste eins, mit dem mer fliege kann.
+*Halo Infinite* is e starkes Ballerspiel in ere langweiligen Welt. Un am End weiß mer: Der Enterhaken rettet alles. Fast.

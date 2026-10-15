@@ -5,21 +5,21 @@ jahr: 2025
 genre: Erzählspiel
 bewertung: 5
 datum: 2026-10-13
-fazit: "Superhelden-Büro mit Herz un Chaos"
+fazit: "Superhelde im Callcenter, Spieler im Kino"
 ---
 
 Gude!
 
-Also, *„Dispatch“* is so e Spiel, wo mer sich fragt, was eigentlich aus Superhelde wird, wenn se ihr Kostüm verliere. Antwort: Die lande im Büro. Am Telefon. Mit em Haufen Kollege, die früher die Böse ware.
+Also, *„Dispatch“* is so e Spiel, des eigentlich e Serie is, die mer gelegentlich mit em Knopfdruck unterbreche darf. Un des dann „Entscheidung“ nennt.
 
-Mer spielt den Robert Robertson, früher bekannt als Mecha Man. Sein Anzug is kaputt, sein Heldenstatus futsch, un jetzt arbeitet er als Disponent bei ere Notrufzentrale für Superhelde. Seine Aufgab: Helden zu Einsätze schicke. Sein Problem: Sei Team besteht aus ehemalige Schurke, die sich resozialisiere solle. Un die hawwe so ihre Eigenheite.
+Mer spielt Robert Robertson, en ehemalige Superheld, dessen Anzug kaputt is. Jetzt sitzt er im Callcenter für Superhelde un schickt e Truppe ehemaliger Schurke zu Einsätze. Des klingt wie e Sitcom. Un des is es aach. E sehr gute Sitcom sogar. Awwer halt e Sitcom.
 
-Gemacht hat des des AdHoc Studio, wo viele Leit von Telltale arbeite, un des merkt mer. Mer trifft Entscheidunge, die Folge hawwe, führt Gespräche un erlebt e Geschicht in Episode, fast wie e Serie. Dazwische kommt der Dispatch-Teil: Uff ere Stadtkart poppe Notrufe uff, un mer muss entscheide, wen mer wohin schickt. Wer is stark genug, wer is schnell genug, un wer zofft sich garantiert mit dem annern?
+Denn spielerisch passiert erstaunlich wenig. Mer guckt Zwischensequenze, wählt zwische Dialogoptionen, guckt Zwischensequenze, schickt Helden per Mausklick uff e Kart. Der Dispatch-Teil is nett, awwer wenn mer ehrlich is, is des e besseres Minispiel. Wer Action will, muss zugucke, wie annere Action hawwe.
 
-Ulkig is des Ganze vor allem wegen de Dialoge. Die sin frech, schnell un oft richtig lustig. Büropolitik mit Superkräfte – des is e Mischung, die mer so noch net gesehe hat. Un trotzdem gibt’s aach ernste, berührende Momente.
+Un die Entscheidunge? Die fühle sich bedeutungsvoll an, bis mer sich fragt, ob se wirklich was ändern oder nur die Farbe von der nächste Szene. Telltale-Veteranen kenne des Gefühl. Un genau da kommen die Entwickler ja aach her.
 
-Spielerisch is des eher leichtgewichtig, wer viel Action will, is hier falsch.
+Awwer, un des sag ich gern: Die Dialoge sin brillant. Witzig, frech, schnell un manchmal richtig berührend. Die Figure sin großartig geschriebe, die Sprecher top, un die Animation sieht aus wie e richtige Zeichentrickserie. Mer lacht viel. Sehr viel.
 
 ## Fazit
 
-*Dispatch* is e witzige, warmherzige Superhelde-Komödie mit cleverer Bürospiel-Mechanik. Un am End weiß mer: Aach Helde brauche jemand, der die Termine koordiniert. Un der hat’s am schwerste.
+*Dispatch* is e großartige Superhelden-Comedy mit wenig Spiel drumherum. Un am End weiß mer: Superhelde brauche kei Kräfte. Die brauche e gutes Drehbuch. Des hat Dispatch zum Glück.

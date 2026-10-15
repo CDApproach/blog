@@ -5,23 +5,23 @@ jahr: 2022
 genre: Abenteuer
 bewertung: 5
 datum: 2026-10-13
-fazit: "Surfe übers Meer, Monster verjage"
+fazit: "Surfe macht Spaß, alles annere is Beiwerk"
 ---
 
 Gude!
 
-Also, *„Wavetale“* is so e Spiel, wo mer über des Wasser surft wie uff em Skateboard. Un des fühlt sich so leicht an, dass mer am liebste gar net mehr anhalte will.
+Also, *„Wavetale“* is so e Spiel, wo des Surfe so viel Spaß macht, dass mer sich fragt, warum die Entwickler überhaupt noch was anneres eingebaut hawwe. Kampf, Klettern, Story – alles e bissje drangeklebt wie e Bonus-DVD, die kei Mensch guckt.
 
-Mer spielt die Sigrid, e Mädchen, des in ere versunkenen Stadt lebt. E finstere Macht namens die Düsternis bedroht die Bewohner, un Sigrid entdeckt, dass se mithilfe von em geheimnisvolle Schatten über des Wasser gleite kann. Also macht se sich uff, ihre Nachbarn zu rette un herauszufinde, was hinter der Bedrohung steckt.
+Sigrid lebt in ere versunkenen Stadt un muss se vor der Düsternis rette. Mithilfe von em Schatten kann se über Wasser gleite. Des is die Geschicht. Un die wird mit Dialoge erzählt, die so niedlich-albern sin, dass mer manchmal net weiß, ob des Spiel für Achtjährige oder Achtzigjährige gedacht is.
 
-Spielerisch is des e Mischung aus Erkundung, Plattforming un Kampf. Mer surft über Welle, springt über Ramp, klettert an Türme hoch un kämpft gege Monster mit em Netz. Die Steuerung is flott un macht richtig Laune, vor allem beim Surfe.
+Die Kämpfe sin simpel. Mer wirft e Netz, haut zu, Gegner weg. Mehr is da net. Wer Tiefe sucht, findet sie höchstens beim Blick ins Wasser. Un die Kletterpassage sin so linear, dass mer kaum falsch abbiege kann.
 
-Die Welt is farbenfroh un märchenhaft, mit kleine Inseln, Leuchttürme un schwimmende Städtchen. Die Figuren sin liebenswert schrullig, allen voran Sigrids Oma, die mehr weiß, als se zugibt.
+Un die Nebenaufgabe! Sammelkram an jeder Ecke, Botengänge für Inselbewohner. Ganz klassisch, ganz brav, ganz vergessenswert.
 
-Ulkig is der Humor in de Dialoge. Die sin locker, frech un oft e bissje albern. Des passt prima zur leichten Stimmung.
+Un die Oma! Die weiß mehr, als se sagt. Wie alle Omas in Videospiele. Klischee-Alarm.
 
-Die Kämpfe sin allerdings eher simpel, un die Geschicht bleibt eher an der Oberfläche.
+Awwer: Des Surfe is wirklich großartig. Flott, flüssig, befriedigend. Die Welt is farbenfroh un märchenhaft, un die Stimmung angenehm leicht. Für e paar gemütliche Abende is des e schöne Sache.
 
 ## Fazit
 
-*Wavetale* is e charmantes, leichtes Abenteuer mit großartigem Surfgefühl. Un am End weiß mer: Wer surfe kann, braucht kei Boot. Nur e bissje Mut un e gute Welle.
+*Wavetale* is e charmantes Surfabenteuer, des außer Surfe nix richtig kann. Un am End weiß mer: Auf der Welle is alles super. Abseits davon wird’s flach.
